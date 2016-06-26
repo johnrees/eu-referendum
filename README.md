@@ -14,6 +14,9 @@ Taken directly from http://www.theguardian.com/politics/ng-interactive/2016/jun/
 
 Totals of all signature counts on a petition calling for a second referendum. Grouped by country and UK constituency. Pulled from https://petition.parliament.uk/petitions/131215.json and updated once a minute
 
-### More data to be added soon
+### More data to be added soon, including -
 
-I'll take it any data if requested, but I feel this is too important not to be shared.
+* newspaper front pages
+* campaign broadcast transcriptions
+
+I'll remove any data if requested, but I feel this is too important not to be shared.
