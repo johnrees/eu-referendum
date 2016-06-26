@@ -6,17 +6,18 @@ Data from the 23rd June EU Referendum on whether the United Kingdom should remai
 
 Voting counts and results per constituency in the UK.
 
-Will be removed if/when The Guardian makes it easily accessible themselves.
-
 Taken directly from http://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis
 
 ## petition-counts.json
 
-Totals of all signature counts on a petition calling for a second referendum. Grouped by country and UK constituency. Pulled from https://petition.parliament.uk/petitions/131215.json and updated once a minute
+Totals of all signature counts on a petition calling for a second referendum. Grouped by country and UK constituency. Pulled from https://petition.parliament.uk/petitions/131215 and updated once a minute
+
+## newspapers/
+
+Front pages of newspapers from the days surrounding the referendum.
 
 ### More data to be added soon, including -
 
-* newspaper front pages
 * campaign broadcast transcriptions
 
 I'll remove any data if requested, but I feel this is too important not to be shared.
