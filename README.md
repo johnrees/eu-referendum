@@ -16,8 +16,10 @@ Totals of all signature counts on a petition calling for a second referendum. Gr
 
 Front pages of newspapers from the days surrounding the referendum.
 
-### More data to be added soon, including -
+## transcriptions/
 
-* campaign broadcast transcriptions
+Subtitle files from various broadcasts related to the referendum.
+
+### More data sources to be added soon
 
 I'll remove any data if requested, but I feel this is too important not to be shared.
