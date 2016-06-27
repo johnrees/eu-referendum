@@ -22,6 +22,10 @@ Front pages of newspapers from the days surrounding the referendum.
 
 Subtitle files from various broadcasts related to the referendum.
 
+## exchange-rates/
+
+Global currency exchange rates from the days surrounding the referendum.
+
 ### More data sources to be added soon
 
 I'll remove any data if requested, but I feel this is too important not to be shared.
