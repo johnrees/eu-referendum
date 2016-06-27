@@ -69,7 +69,7 @@
           "name": "Glasgow North East"
         },
         {
-          "signature_count": 3322,
+          "signature_count": 3323,
           "mp": "Carol Monaghan MP",
           "ons_code": "S14000033",
           "name": "Glasgow North West"
@@ -315,7 +315,7 @@
           "name": "Ashfield"
         },
         {
-          "signature_count": 5387,
+          "signature_count": 5388,
           "mp": "Rt Hon Damian Green MP",
           "ons_code": "E14000536",
           "name": "Ashford"
@@ -447,7 +447,7 @@
           "name": "Bermondsey and Old Southwark"
         },
         {
-          "signature_count": 2968,
+          "signature_count": 2969,
           "mp": "Mrs Anne-Marie Trevelyan MP",
           "ons_code": "E14000554",
           "name": "Berwick-upon-Tweed"
@@ -999,7 +999,7 @@
           "name": "Chingford and Woodford Green"
         },
         {
-          "signature_count": 6557,
+          "signature_count": 6558,
           "mp": "Michelle Donelan MP",
           "ons_code": "E14000635",
           "name": "Chippenham"
@@ -1863,7 +1863,7 @@
           "name": "Kenilworth and Southam"
         },
         {
-          "signature_count": 15715,
+          "signature_count": 15716,
           "mp": "Victoria Borwick MP",
           "ons_code": "E14000768",
           "name": "Kensington"
@@ -1989,7 +1989,7 @@
           "name": "Lewisham East"
         },
         {
-          "signature_count": 11245,
+          "signature_count": 11246,
           "mp": "Jim Dowd MP",
           "ons_code": "E14000788",
           "name": "Lewisham West and Penge"
@@ -2079,7 +2079,7 @@
           "name": "Luton South"
         },
         {
-          "signature_count": 6536,
+          "signature_count": 6537,
           "mp": "David Rutley MP",
           "ons_code": "E14000802",
           "name": "Macclesfield"
@@ -2187,7 +2187,7 @@
           "name": "Mid Sussex"
         },
         {
-          "signature_count": 2392,
+          "signature_count": 2393,
           "mp": "Francie Molloy MP",
           "ons_code": "N06000010",
           "name": "Mid Ulster"
@@ -2307,13 +2307,13 @@
           "name": "Newcastle upon Tyne North"
         },
         {
-          "signature_count": 3009,
+          "signature_count": 3010,
           "mp": "Paul Farrelly MP",
           "ons_code": "E14000834",
           "name": "Newcastle-under-Lyme"
         },
         {
-          "signature_count": 2581,
+          "signature_count": 2582,
           "mp": "Jessica Morden MP",
           "ons_code": "W07000055",
           "name": "Newport East"
@@ -2523,7 +2523,7 @@
           "name": "Norwich South"
         },
         {
-          "signature_count": 5768,
+          "signature_count": 5769,
           "mp": "Chris Leslie MP",
           "ons_code": "E14000865",
           "name": "Nottingham East"
@@ -2535,7 +2535,7 @@
           "name": "Nottingham North"
         },
         {
-          "signature_count": 5803,
+          "signature_count": 5804,
           "mp": "Lilian Greenwood MP",
           "ons_code": "E14000867",
           "name": "Nottingham South"
@@ -2607,7 +2607,7 @@
           "name": "Penrith and The Border"
         },
         {
-          "signature_count": 3919,
+          "signature_count": 3920,
           "mp": "Mr Stewart Jackson MP",
           "ons_code": "E14000878",
           "name": "Peterborough"
@@ -2793,7 +2793,7 @@
           "name": "Rugby"
         },
         {
-          "signature_count": 7621,
+          "signature_count": 7622,
           "mp": "Mr Nick Hurd MP",
           "ons_code": "E14000906",
           "name": "Ruislip, Northwood and Pinner"
@@ -2823,7 +2823,7 @@
           "name": "Saffron Walden"
         },
         {
-          "signature_count": 5921,
+          "signature_count": 5922,
           "mp": "Rebecca Long Bailey MP",
           "ons_code": "E14000911",
           "name": "Salford and Eccles"
@@ -3459,7 +3459,7 @@
           "name": "Vale of Glamorgan"
         },
         {
-          "signature_count": 15468,
+          "signature_count": 15469,
           "mp": "Kate Hoey MP",
           "ons_code": "E14001008",
           "name": "Vauxhall"
@@ -3843,7 +3843,7 @@
           "name": "Cumbernauld, Kilsyth and Kirkintilloch East"
         },
         {
-          "signature_count": 2064,
+          "signature_count": 2065,
           "mp": "Richard Arkless MP",
           "ons_code": "S14000013",
           "name": "Dumfries and Galloway"
@@ -4090,7 +4090,7 @@
           "name": "Cameroon"
         },
         {
-          "signature_count": 5321,
+          "signature_count": 5322,
           "code": "CA",
           "name": "Canada"
         },
@@ -4320,7 +4320,7 @@
           "name": "Honduras"
         },
         {
-          "signature_count": 2704,
+          "signature_count": 2705,
           "code": "HK",
           "name": "Hong Kong"
         },
@@ -4740,7 +4740,7 @@
           "name": "Sierra Leone"
         },
         {
-          "signature_count": 1603,
+          "signature_count": 1604,
           "code": "SG",
           "name": "Singapore"
         },
@@ -4870,7 +4870,7 @@
           "name": "Tanzania"
         },
         {
-          "signature_count": 600,
+          "signature_count": 601,
           "code": "TH",
           "name": "Thailand"
         },
@@ -4945,12 +4945,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3423701,
+          "signature_count": 3423723,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 14302,
+          "signature_count": 14304,
           "code": "US",
           "name": "United States"
         },
@@ -5015,9 +5015,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-27T03:02:54.959Z",
+      "updated_at": "2016-06-27T03:03:58.597Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 3562643,
+      "signature_count": 3562666,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
