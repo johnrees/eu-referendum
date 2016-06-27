@@ -18,8 +18,10 @@ Please note that after commit https://github.com/johnrees/eu-referendum/commit/5
 
 Front pages of newspapers from the days surrounding the referendum.
 
-### More data to be added soon, including -
+## transcriptions/
 
-* campaign broadcast transcriptions
+Subtitle files from various broadcasts related to the referendum.
+
+### More data sources to be added soon
 
 I'll remove any data if requested, but I feel this is too important not to be shared.
