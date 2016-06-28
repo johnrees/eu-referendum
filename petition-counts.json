@@ -15,7 +15,7 @@
           "name": "Edinburgh North and Leith"
         },
         {
-          "signature_count": 8441,
+          "signature_count": 8442,
           "mp": "Ian Murray MP",
           "ons_code": "S14000024",
           "name": "Edinburgh South"
@@ -375,7 +375,7 @@
           "name": "Basingstoke"
         },
         {
-          "signature_count": 2777,
+          "signature_count": 2778,
           "mp": "John Mann MP",
           "ons_code": "E14000546",
           "name": "Bassetlaw"
@@ -993,7 +993,7 @@
           "name": "Chichester"
         },
         {
-          "signature_count": 6703,
+          "signature_count": 6704,
           "mp": "Rt Hon Iain Duncan Smith MP",
           "ons_code": "E14000634",
           "name": "Chingford and Woodford Green"
@@ -1023,7 +1023,7 @@
           "name": "Christchurch"
         },
         {
-          "signature_count": 17959,
+          "signature_count": 17960,
           "mp": "Rt Hon Mark Field MP",
           "ons_code": "E14000639",
           "name": "Cities of London and Westminster"
@@ -1113,7 +1113,7 @@
           "name": "Coventry South"
         },
         {
-          "signature_count": 5007,
+          "signature_count": 5008,
           "mp": "Henry Smith MP",
           "ons_code": "E14000652",
           "name": "Crawley"
@@ -1161,7 +1161,7 @@
           "name": "Darlington"
         },
         {
-          "signature_count": 4145,
+          "signature_count": 4146,
           "mp": "Gareth Johnson MP",
           "ons_code": "E14000659",
           "name": "Dartford"
@@ -2259,7 +2259,7 @@
           "name": "Morley and Outwood"
         },
         {
-          "signature_count": 2572,
+          "signature_count": 2573,
           "mp": "Christina Rees MP",
           "ons_code": "W07000069",
           "name": "Neath"
@@ -2367,7 +2367,7 @@
           "name": "North Dorset"
         },
         {
-          "signature_count": 4420,
+          "signature_count": 4421,
           "mp": "Lady Hermon MP",
           "ons_code": "N06000013",
           "name": "North Down"
@@ -2409,7 +2409,7 @@
           "name": "North East Hertfordshire"
         },
         {
-          "signature_count": 6602,
+          "signature_count": 6603,
           "mp": "Mr Jacob Rees-Mogg MP",
           "ons_code": "E14000846",
           "name": "North East Somerset"
@@ -3489,7 +3489,7 @@
           "name": "Walsall South"
         },
         {
-          "signature_count": 11134,
+          "signature_count": 11135,
           "mp": "Stella Creasy MP",
           "ons_code": "E14001013",
           "name": "Walthamstow"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16112,
+          "signature_count": 16114,
           "code": "AU",
           "name": "Australia"
         },
@@ -3990,7 +3990,7 @@
           "name": "Belarus"
         },
         {
-          "signature_count": 3217,
+          "signature_count": 3218,
           "code": "BE",
           "name": "Belgium"
         },
@@ -4595,7 +4595,7 @@
           "name": "New Caledonia"
         },
         {
-          "signature_count": 4702,
+          "signature_count": 4703,
           "code": "NZ",
           "name": "New Zealand"
         },
@@ -4950,12 +4950,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3747100,
+          "signature_count": 3747117,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 15893,
+          "signature_count": 15895,
           "code": "US",
           "name": "United States"
         },
@@ -5020,9 +5020,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-28T02:58:58.158Z",
+      "updated_at": "2016-06-28T03:00:00.551Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 3901185,
+      "signature_count": 3901201,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
