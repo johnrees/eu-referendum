@@ -357,7 +357,7 @@
           "name": "Barnsley East"
         },
         {
-          "signature_count": 3103,
+          "signature_count": 3104,
           "mp": "John Woodcock MP",
           "ons_code": "E14000543",
           "name": "Barrow and Furness"
@@ -495,7 +495,7 @@
           "name": "Birmingham, Erdington"
         },
         {
-          "signature_count": 8790,
+          "signature_count": 8791,
           "mp": "Mr Roger Godsiff MP",
           "ons_code": "E14000562",
           "name": "Birmingham, Hall Green"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 22107,
+          "signature_count": 22108,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -1671,7 +1671,7 @@
           "name": "Havant"
         },
         {
-          "signature_count": 4862,
+          "signature_count": 4863,
           "mp": "John McDonnell MP",
           "ons_code": "E14000737",
           "name": "Hayes and Harlington"
@@ -1719,7 +1719,7 @@
           "name": "Hertford and Stortford"
         },
         {
-          "signature_count": 7342,
+          "signature_count": 7343,
           "mp": "Oliver Dowden MP",
           "ons_code": "E14000745",
           "name": "Hertsmere"
@@ -2859,7 +2859,7 @@
           "name": "Sefton Central"
         },
         {
-          "signature_count": 4954,
+          "signature_count": 4955,
           "mp": "Nigel Adams MP",
           "ons_code": "E14000917",
           "name": "Selby and Ainsty"
@@ -3381,7 +3381,7 @@
           "name": "Tooting"
         },
         {
-          "signature_count": 3939,
+          "signature_count": 3940,
           "mp": "Kevin Foster MP",
           "ons_code": "E14000999",
           "name": "Torbay"
@@ -3405,7 +3405,7 @@
           "name": "Totnes"
         },
         {
-          "signature_count": 11714,
+          "signature_count": 11715,
           "mp": "Rt Hon David Lammy MP",
           "ons_code": "E14001002",
           "name": "Tottenham"
@@ -3549,7 +3549,7 @@
           "name": "Waveney"
         },
         {
-          "signature_count": 8224,
+          "signature_count": 8225,
           "mp": "Nusrat Ghani MP",
           "ons_code": "E14001023",
           "name": "Wealden"
@@ -4390,7 +4390,7 @@
           "name": "Jamaica"
         },
         {
-          "signature_count": 963,
+          "signature_count": 964,
           "code": "JP",
           "name": "Japan"
         },
@@ -4585,7 +4585,7 @@
           "name": "Nepal"
         },
         {
-          "signature_count": 4391,
+          "signature_count": 4392,
           "code": "NL",
           "name": "Netherlands"
         },
@@ -4595,7 +4595,7 @@
           "name": "New Caledonia"
         },
         {
-          "signature_count": 4693,
+          "signature_count": 4694,
           "code": "NZ",
           "name": "New Zealand"
         },
@@ -4950,7 +4950,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3746348,
+          "signature_count": 3746363,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5020,9 +5020,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-28T01:56:00.107Z",
+      "updated_at": "2016-06-28T01:57:04.279Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 3900271,
+      "signature_count": 3900281,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
