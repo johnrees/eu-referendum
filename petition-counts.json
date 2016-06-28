@@ -387,7 +387,7 @@
           "name": "Bath"
         },
         {
-          "signature_count": 3992,
+          "signature_count": 3993,
           "mp": null,
           "ons_code": "E14000548",
           "name": "Batley and Spen"
@@ -453,7 +453,7 @@
           "name": "Berwick-upon-Tweed"
         },
         {
-          "signature_count": 17908,
+          "signature_count": 17909,
           "mp": "Rushanara Ali MP",
           "ons_code": "E14000555",
           "name": "Bethnal Green and Bow"
@@ -507,7 +507,7 @@
           "name": "Birmingham, Hodge Hill"
         },
         {
-          "signature_count": 6707,
+          "signature_count": 6708,
           "mp": "Shabana Mahmood MP",
           "ons_code": "E14000564",
           "name": "Birmingham, Ladywood"
@@ -663,7 +663,7 @@
           "name": "Bradford South"
         },
         {
-          "signature_count": 5022,
+          "signature_count": 5023,
           "mp": "Naz Shah MP",
           "ons_code": "E14000589",
           "name": "Bradford West"
@@ -837,7 +837,7 @@
           "name": "Calder Valley"
         },
         {
-          "signature_count": 14355,
+          "signature_count": 14356,
           "mp": "Rt Hon Harriet Harman QC MP",
           "ons_code": "E14000615",
           "name": "Camberwell and Peckham"
@@ -1035,7 +1035,7 @@
           "name": "City of Chester"
         },
         {
-          "signature_count": 5785,
+          "signature_count": 5786,
           "mp": "Dr Roberta Blackman-Woods MP",
           "ons_code": "E14000641",
           "name": "City of Durham"
@@ -1131,7 +1131,7 @@
           "name": "Croydon Central"
         },
         {
-          "signature_count": 8937,
+          "signature_count": 8938,
           "mp": "Mr Steve Reed MP",
           "ons_code": "E14000655",
           "name": "Croydon North"
@@ -1209,7 +1209,7 @@
           "name": "Devizes"
         },
         {
-          "signature_count": 4750,
+          "signature_count": 4751,
           "mp": "Paula Sherriff MP",
           "ons_code": "E14000666",
           "name": "Dewsbury"
@@ -1485,7 +1485,7 @@
           "name": "Fylde"
         },
         {
-          "signature_count": 3485,
+          "signature_count": 3486,
           "mp": "Sir Edward Leigh MP",
           "ons_code": "E14000707",
           "name": "Gainsborough"
@@ -1569,7 +1569,7 @@
           "name": "Guildford"
         },
         {
-          "signature_count": 19705,
+          "signature_count": 19706,
           "mp": "Ms Diane Abbott MP",
           "ons_code": "E14000720",
           "name": "Hackney North and Stoke Newington"
@@ -1851,7 +1851,7 @@
           "name": "Jarrow"
         },
         {
-          "signature_count": 5008,
+          "signature_count": 5009,
           "mp": "Kris Hopkins MP",
           "ons_code": "E14000766",
           "name": "Keighley"
@@ -1923,7 +1923,7 @@
           "name": "Lancaster and Fleetwood"
         },
         {
-          "signature_count": 6644,
+          "signature_count": 6645,
           "mp": "Rt Hon Hilary Benn MP",
           "ons_code": "E14000777",
           "name": "Leeds Central"
@@ -2739,13 +2739,13 @@
           "name": "Richmond Park"
         },
         {
-          "signature_count": 3709,
+          "signature_count": 3710,
           "mp": "Simon Danczuk MP",
           "ons_code": "E14000897",
           "name": "Rochdale"
         },
         {
-          "signature_count": 4314,
+          "signature_count": 4315,
           "mp": "Kelly Tolhurst MP",
           "ons_code": "E14000898",
           "name": "Rochester and Strood"
@@ -2799,13 +2799,13 @@
           "name": "Ruislip, Northwood and Pinner"
         },
         {
-          "signature_count": 8101,
+          "signature_count": 8102,
           "mp": "Rt Hon Philip Hammond MP",
           "ons_code": "E14000907",
           "name": "Runnymede and Weybridge"
         },
         {
-          "signature_count": 9007,
+          "signature_count": 9008,
           "mp": "Rt Hon Kenneth Clarke QC MP",
           "ons_code": "E14000908",
           "name": "Rushcliffe"
@@ -3507,7 +3507,7 @@
           "name": "Wantage"
         },
         {
-          "signature_count": 3310,
+          "signature_count": 3311,
           "mp": "Rt Hon John Spellar MP",
           "ons_code": "E14001016",
           "name": "Warley"
@@ -3591,7 +3591,7 @@
           "name": "West Bromwich East"
         },
         {
-          "signature_count": 1865,
+          "signature_count": 1866,
           "mp": "Mr Adrian Bailey MP",
           "ons_code": "E14001030",
           "name": "West Bromwich West"
@@ -4950,12 +4950,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3745294,
+          "signature_count": 3745330,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 15808,
+          "signature_count": 15809,
           "code": "US",
           "name": "United States"
         },
@@ -5020,9 +5020,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-28T00:56:59.236Z",
+      "updated_at": "2016-06-28T00:58:03.327Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 3899085,
+      "signature_count": 3899107,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
