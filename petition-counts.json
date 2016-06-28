@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6714,
+          "signature_count": 6715,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -135,7 +135,7 @@
           "name": "Lanark and Hamilton East"
         },
         {
-          "signature_count": 3082,
+          "signature_count": 3083,
           "mp": "Martyn Day MP",
           "ons_code": "S14000043",
           "name": "Linlithgow and East Falkirk"
@@ -189,7 +189,7 @@
           "name": "North East Fife"
         },
         {
-          "signature_count": 3003,
+          "signature_count": 3004,
           "mp": "Calum Kerr MP",
           "ons_code": "S14000008",
           "name": "Berwickshire, Roxburgh and Selkirk"
@@ -507,7 +507,7 @@
           "name": "Birmingham, Hodge Hill"
         },
         {
-          "signature_count": 6881,
+          "signature_count": 6882,
           "mp": "Shabana Mahmood MP",
           "ons_code": "E14000564",
           "name": "Birmingham, Ladywood"
@@ -819,7 +819,7 @@
           "name": "Bury South"
         },
         {
-          "signature_count": 6514,
+          "signature_count": 6515,
           "mp": "Jo Churchill MP",
           "ons_code": "E14000613",
           "name": "Bury St Edmunds"
@@ -987,7 +987,7 @@
           "name": "Chesterfield"
         },
         {
-          "signature_count": 8382,
+          "signature_count": 8383,
           "mp": "Rt Hon Andrew Tyrie MP",
           "ons_code": "E14000633",
           "name": "Chichester"
@@ -1131,7 +1131,7 @@
           "name": "Croydon Central"
         },
         {
-          "signature_count": 9211,
+          "signature_count": 9212,
           "mp": "Mr Steve Reed MP",
           "ons_code": "E14000655",
           "name": "Croydon North"
@@ -1575,7 +1575,7 @@
           "name": "Hackney North and Stoke Newington"
         },
         {
-          "signature_count": 19195,
+          "signature_count": 19196,
           "mp": "Meg Hillier MP",
           "ons_code": "E14000721",
           "name": "Hackney South and Shoreditch"
@@ -1923,7 +1923,7 @@
           "name": "Lancaster and Fleetwood"
         },
         {
-          "signature_count": 6835,
+          "signature_count": 6836,
           "mp": "Rt Hon Hilary Benn MP",
           "ons_code": "E14000777",
           "name": "Leeds Central"
@@ -1989,7 +1989,7 @@
           "name": "Lewisham East"
         },
         {
-          "signature_count": 12779,
+          "signature_count": 12780,
           "mp": "Jim Dowd MP",
           "ons_code": "E14000788",
           "name": "Lewisham West and Penge"
@@ -2079,7 +2079,7 @@
           "name": "Luton South"
         },
         {
-          "signature_count": 7375,
+          "signature_count": 7376,
           "mp": "David Rutley MP",
           "ons_code": "E14000802",
           "name": "Macclesfield"
@@ -2319,7 +2319,7 @@
           "name": "Newport East"
         },
         {
-          "signature_count": 4370,
+          "signature_count": 4371,
           "mp": "Paul Flynn MP",
           "ons_code": "W07000056",
           "name": "Newport West"
@@ -2523,7 +2523,7 @@
           "name": "Norwich South"
         },
         {
-          "signature_count": 6491,
+          "signature_count": 6492,
           "mp": "Chris Leslie MP",
           "ons_code": "E14000865",
           "name": "Nottingham East"
@@ -2625,7 +2625,7 @@
           "name": "Plymouth, Sutton and Devonport"
         },
         {
-          "signature_count": 3991,
+          "signature_count": 3992,
           "mp": "Owen Smith MP",
           "ons_code": "W07000075",
           "name": "Pontypridd"
@@ -3075,7 +3075,7 @@
           "name": "South West Devon"
         },
         {
-          "signature_count": 10469,
+          "signature_count": 10470,
           "mp": "Mr David Gauke MP",
           "ons_code": "E14000951",
           "name": "South West Hertfordshire"
@@ -3243,7 +3243,7 @@
           "name": "Stratford-on-Avon"
         },
         {
-          "signature_count": 17492,
+          "signature_count": 17493,
           "mp": "Mr Chuka Umunna MP",
           "ons_code": "E14000978",
           "name": "Streatham"
@@ -3423,7 +3423,7 @@
           "name": "Tunbridge Wells"
         },
         {
-          "signature_count": 17133,
+          "signature_count": 17134,
           "mp": "Dr Tania Mathias MP",
           "ons_code": "E14001005",
           "name": "Twickenham"
@@ -3603,7 +3603,7 @@
           "name": "West Dorset"
         },
         {
-          "signature_count": 12040,
+          "signature_count": 12041,
           "mp": "Lyn Brown MP",
           "ons_code": "E14001032",
           "name": "West Ham"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16512,
+          "signature_count": 16513,
           "code": "AU",
           "name": "Australia"
         },
@@ -4955,12 +4955,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3847091,
+          "signature_count": 3847110,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16325,
+          "signature_count": 16326,
           "code": "US",
           "name": "United States"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-28T23:15:05.846Z",
+      "updated_at": "2016-06-28T23:15:56.719Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4005719,
+      "signature_count": 4005740,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
