@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6574,
+          "signature_count": 6575,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -495,7 +495,7 @@
           "name": "Birmingham, Erdington"
         },
         {
-          "signature_count": 8801,
+          "signature_count": 8802,
           "mp": "Mr Roger Godsiff MP",
           "ons_code": "E14000562",
           "name": "Birmingham, Hall Green"
@@ -909,7 +909,7 @@
           "name": "Carmarthen West and South Pembrokeshire"
         },
         {
-          "signature_count": 5943,
+          "signature_count": 5944,
           "mp": "Rt Hon Tom Brake MP",
           "ons_code": "E14000621",
           "name": "Carshalton and Wallington"
@@ -1197,7 +1197,7 @@
           "name": "Derby South"
         },
         {
-          "signature_count": 5651,
+          "signature_count": 5652,
           "mp": "Rt Hon Patrick McLoughlin MP",
           "ons_code": "E14000664",
           "name": "Derbyshire Dales"
@@ -1407,7 +1407,7 @@
           "name": "Erewash"
         },
         {
-          "signature_count": 4212,
+          "signature_count": 4213,
           "mp": "Teresa Pearce MP",
           "ons_code": "E14000696",
           "name": "Erith and Thamesmead"
@@ -1581,7 +1581,7 @@
           "name": "Hackney South and Shoreditch"
         },
         {
-          "signature_count": 2714,
+          "signature_count": 2715,
           "mp": "James Morris MP",
           "ons_code": "E14000722",
           "name": "Halesowen and Rowley Regis"
@@ -1599,7 +1599,7 @@
           "name": "Haltemprice and Howden"
         },
         {
-          "signature_count": 3314,
+          "signature_count": 3315,
           "mp": "Derek Twigg MP",
           "ons_code": "E14000725",
           "name": "Halton"
@@ -2583,7 +2583,7 @@
           "name": "Oxford East"
         },
         {
-          "signature_count": 14284,
+          "signature_count": 14285,
           "mp": "Nicola Blackwood MP",
           "ons_code": "E14000874",
           "name": "Oxford West and Abingdon"
@@ -2679,7 +2679,7 @@
           "name": "Putney"
         },
         {
-          "signature_count": 3381,
+          "signature_count": 3382,
           "mp": "Rt Hon Mark Francois MP",
           "ons_code": "E14000888",
           "name": "Rayleigh and Wickford"
@@ -2733,7 +2733,7 @@
           "name": "Richmond (Yorks)"
         },
         {
-          "signature_count": 19453,
+          "signature_count": 19454,
           "mp": "Zac Goldsmith MP",
           "ons_code": "E14000896",
           "name": "Richmond Park"
@@ -2937,7 +2937,7 @@
           "name": "Sleaford and North Hykeham"
         },
         {
-          "signature_count": 6447,
+          "signature_count": 6448,
           "mp": "Rt Hon Fiona Mactaggart MP",
           "ons_code": "E14000930",
           "name": "Slough"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16162,
+          "signature_count": 16163,
           "code": "AU",
           "name": "Australia"
         },
@@ -4165,7 +4165,7 @@
           "name": "Curaçao"
         },
         {
-          "signature_count": 1073,
+          "signature_count": 1074,
           "code": "CY",
           "name": "Cyprus"
         },
@@ -4270,7 +4270,7 @@
           "name": "Georgia"
         },
         {
-          "signature_count": 10373,
+          "signature_count": 10374,
           "code": "DE",
           "name": "Germany"
         },
@@ -4945,12 +4945,12 @@
           "name": "Ukraine"
         },
         {
-          "signature_count": 2823,
+          "signature_count": 2824,
           "code": "AE",
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3747868,
+          "signature_count": 3747886,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5020,9 +5020,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-28T04:19:02.338Z",
+      "updated_at": "2016-06-28T04:20:06.480Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 3902149,
+      "signature_count": 3902164,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
