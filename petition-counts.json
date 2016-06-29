@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6761,
+          "signature_count": 6762,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -15,7 +15,7 @@
           "name": "Edinburgh North and Leith"
         },
         {
-          "signature_count": 8666,
+          "signature_count": 8667,
           "mp": "Ian Murray MP",
           "ons_code": "S14000024",
           "name": "Edinburgh South"
@@ -237,7 +237,7 @@
           "name": "Rutherglen and Hamilton West"
         },
         {
-          "signature_count": 4465,
+          "signature_count": 4467,
           "mp": "Steven Paterson MP",
           "ons_code": "S14000057",
           "name": "Stirling"
@@ -489,7 +489,7 @@
           "name": "Birmingham, Edgbaston"
         },
         {
-          "signature_count": 2986,
+          "signature_count": 2987,
           "mp": "Jack Dromey MP",
           "ons_code": "E14000561",
           "name": "Birmingham, Erdington"
@@ -693,7 +693,7 @@
           "name": "Brent North"
         },
         {
-          "signature_count": 14633,
+          "signature_count": 14634,
           "mp": "Ruth Cadbury MP",
           "ons_code": "E14000593",
           "name": "Brentford and Isleworth"
@@ -717,7 +717,7 @@
           "name": "Bridgwater and West Somerset"
         },
         {
-          "signature_count": 2412,
+          "signature_count": 2413,
           "mp": "Andrew Percy MP",
           "ons_code": "E14000596",
           "name": "Brigg and Goole"
@@ -999,7 +999,7 @@
           "name": "Chingford and Woodford Green"
         },
         {
-          "signature_count": 7442,
+          "signature_count": 7443,
           "mp": "Michelle Donelan MP",
           "ons_code": "E14000635",
           "name": "Chippenham"
@@ -1275,7 +1275,7 @@
           "name": "Ealing North"
         },
         {
-          "signature_count": 7236,
+          "signature_count": 7237,
           "mp": "Mr Virendra Sharma MP",
           "ons_code": "E14000676",
           "name": "Ealing, Southall"
@@ -1293,7 +1293,7 @@
           "name": "East Antrim"
         },
         {
-          "signature_count": 6929,
+          "signature_count": 6930,
           "mp": "Rt Hon Hugo Swire MP",
           "ons_code": "E14000678",
           "name": "East Devon"
@@ -1389,7 +1389,7 @@
           "name": "Enfield, Southgate"
         },
         {
-          "signature_count": 5902,
+          "signature_count": 5903,
           "mp": "Mrs Eleanor Laing MP",
           "ons_code": "E14000693",
           "name": "Epping Forest"
@@ -1413,7 +1413,7 @@
           "name": "Erith and Thamesmead"
         },
         {
-          "signature_count": 12515,
+          "signature_count": 12516,
           "mp": "Dominic Raab MP",
           "ons_code": "E14000697",
           "name": "Esher and Walton"
@@ -1515,13 +1515,13 @@
           "name": "Gillingham and Rainham"
         },
         {
-          "signature_count": 4966,
+          "signature_count": 4967,
           "mp": "Richard Graham MP",
           "ons_code": "E14000712",
           "name": "Gloucester"
         },
         {
-          "signature_count": 3818,
+          "signature_count": 3819,
           "mp": "Caroline Dinenage MP",
           "ons_code": "E14000713",
           "name": "Gosport"
@@ -1665,7 +1665,7 @@
           "name": "Hastings and Rye"
         },
         {
-          "signature_count": 3945,
+          "signature_count": 3946,
           "mp": "Mr Alan Mak MP",
           "ons_code": "E14000736",
           "name": "Havant"
@@ -1857,7 +1857,7 @@
           "name": "Keighley"
         },
         {
-          "signature_count": 7182,
+          "signature_count": 7183,
           "mp": "Rt Hon Jeremy Wright QC MP",
           "ons_code": "E14000767",
           "name": "Kenilworth and Southam"
@@ -1971,7 +1971,7 @@
           "name": "Leicester West"
         },
         {
-          "signature_count": 3191,
+          "signature_count": 3192,
           "mp": "Rt Hon Andy Burnham MP",
           "ons_code": "E14000785",
           "name": "Leigh"
@@ -2019,7 +2019,7 @@
           "name": "Lincoln"
         },
         {
-          "signature_count": 9733,
+          "signature_count": 9734,
           "mp": "Mrs Louise Ellman MP",
           "ons_code": "E14000793",
           "name": "Liverpool, Riverside"
@@ -2163,7 +2163,7 @@
           "name": "Mid Bedfordshire"
         },
         {
-          "signature_count": 5133,
+          "signature_count": 5134,
           "mp": "Pauline Latham MP",
           "ons_code": "E14000814",
           "name": "Mid Derbyshire"
@@ -2295,7 +2295,7 @@
           "name": "Newcastle upon Tyne Central"
         },
         {
-          "signature_count": 7087,
+          "signature_count": 7088,
           "mp": "Rt Hon Nicholas Brown MP",
           "ons_code": "E14000832",
           "name": "Newcastle upon Tyne East"
@@ -2919,7 +2919,7 @@
           "name": "Shrewsbury and Atcham"
         },
         {
-          "signature_count": 3277,
+          "signature_count": 3278,
           "mp": "Gordon Henderson MP",
           "ons_code": "E14000927",
           "name": "Sittingbourne and Sheppey"
@@ -3189,7 +3189,7 @@
           "name": "Stockport"
         },
         {
-          "signature_count": 2194,
+          "signature_count": 2195,
           "mp": "Alex Cunningham MP",
           "ons_code": "E14000970",
           "name": "Stockton North"
@@ -3423,7 +3423,7 @@
           "name": "Tunbridge Wells"
         },
         {
-          "signature_count": 17247,
+          "signature_count": 17248,
           "mp": "Dr Tania Mathias MP",
           "ons_code": "E14001005",
           "name": "Twickenham"
@@ -3453,7 +3453,7 @@
           "name": "Vale of Clwyd"
         },
         {
-          "signature_count": 5527,
+          "signature_count": 5528,
           "mp": "Rt Hon Alun Cairns MP",
           "ons_code": "W07000078",
           "name": "Vale of Glamorgan"
@@ -3483,13 +3483,13 @@
           "name": "Walsall North"
         },
         {
-          "signature_count": 3478,
+          "signature_count": 3479,
           "mp": "Valerie Vaz MP",
           "ons_code": "E14001012",
           "name": "Walsall South"
         },
         {
-          "signature_count": 11525,
+          "signature_count": 11526,
           "mp": "Stella Creasy MP",
           "ons_code": "E14001013",
           "name": "Walthamstow"
@@ -3669,7 +3669,7 @@
           "name": "Winchester"
         },
         {
-          "signature_count": 8793,
+          "signature_count": 8794,
           "mp": "Adam Afriyie MP",
           "ons_code": "E14001042",
           "name": "Windsor"
@@ -4270,7 +4270,7 @@
           "name": "Georgia"
         },
         {
-          "signature_count": 10827,
+          "signature_count": 10828,
           "code": "DE",
           "name": "Germany"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3873912,
+          "signature_count": 3873939,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-29T14:05:06.844Z",
+      "updated_at": "2016-06-29T14:06:03.824Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4033959,
+      "signature_count": 4033987,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
