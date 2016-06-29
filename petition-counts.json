@@ -45,7 +45,7 @@
           "name": "Falkirk"
         },
         {
-          "signature_count": 5005,
+          "signature_count": 5006,
           "mp": "Alison Thewliss MP",
           "ons_code": "S14000029",
           "name": "Glasgow Central"
@@ -69,7 +69,7 @@
           "name": "Glasgow North East"
         },
         {
-          "signature_count": 3644,
+          "signature_count": 3645,
           "mp": "Carol Monaghan MP",
           "ons_code": "S14000033",
           "name": "Glasgow North West"
@@ -651,7 +651,7 @@
           "name": "Bracknell"
         },
         {
-          "signature_count": 4004,
+          "signature_count": 4005,
           "mp": "Imran Hussain MP",
           "ons_code": "E14000587",
           "name": "Bradford East"
@@ -1659,7 +1659,7 @@
           "name": "Harwich and North Essex"
         },
         {
-          "signature_count": 6391,
+          "signature_count": 6392,
           "mp": "Rt Hon Amber Rudd MP",
           "ons_code": "E14000735",
           "name": "Hastings and Rye"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16569,
+          "signature_count": 16570,
           "code": "AU",
           "name": "Australia"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3849089,
+          "signature_count": 3849093,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-29T02:00:53.788Z",
+      "updated_at": "2016-06-29T02:02:03.577Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4007914,
+      "signature_count": 4007919,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
