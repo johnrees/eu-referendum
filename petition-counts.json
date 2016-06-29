@@ -357,7 +357,7 @@
           "name": "Barnsley East"
         },
         {
-          "signature_count": 3178,
+          "signature_count": 3179,
           "mp": "John Woodcock MP",
           "ons_code": "E14000543",
           "name": "Barrow and Furness"
@@ -687,7 +687,7 @@
           "name": "Brent Central"
         },
         {
-          "signature_count": 8038,
+          "signature_count": 8039,
           "mp": "Barry Gardiner MP",
           "ons_code": "E14000592",
           "name": "Brent North"
@@ -813,7 +813,7 @@
           "name": "Bury North"
         },
         {
-          "signature_count": 5004,
+          "signature_count": 5005,
           "mp": "Mr Ivan Lewis MP",
           "ons_code": "E14000612",
           "name": "Bury South"
@@ -1029,7 +1029,7 @@
           "name": "Cities of London and Westminster"
         },
         {
-          "signature_count": 7736,
+          "signature_count": 7737,
           "mp": "Christian Matheson MP",
           "ons_code": "E14000640",
           "name": "City of Chester"
@@ -1233,7 +1233,7 @@
           "name": "Doncaster North"
         },
         {
-          "signature_count": 3939,
+          "signature_count": 3940,
           "mp": "Charlie Elphicke MP",
           "ons_code": "E14000670",
           "name": "Dover"
@@ -1251,7 +1251,7 @@
           "name": "Dudley South"
         },
         {
-          "signature_count": 18121,
+          "signature_count": 18122,
           "mp": "Helen Hayes MP",
           "ons_code": "E14000673",
           "name": "Dulwich and West Norwood"
@@ -1407,7 +1407,7 @@
           "name": "Erewash"
         },
         {
-          "signature_count": 4344,
+          "signature_count": 4345,
           "mp": "Teresa Pearce MP",
           "ons_code": "E14000696",
           "name": "Erith and Thamesmead"
@@ -1761,7 +1761,7 @@
           "name": "Hornchurch and Upminster"
         },
         {
-          "signature_count": 23419,
+          "signature_count": 23420,
           "mp": "Catherine West MP",
           "ons_code": "E14000752",
           "name": "Hornsey and Wood Green"
@@ -2505,7 +2505,7 @@
           "name": "Northampton North"
         },
         {
-          "signature_count": 4146,
+          "signature_count": 4147,
           "mp": "David Mackintosh MP",
           "ons_code": "E14000862",
           "name": "Northampton South"
@@ -2637,7 +2637,7 @@
           "name": "Poole"
         },
         {
-          "signature_count": 17085,
+          "signature_count": 17086,
           "mp": "Jim Fitzpatrick MP",
           "ons_code": "E14000882",
           "name": "Poplar and Limehouse"
@@ -3591,7 +3591,7 @@
           "name": "West Bromwich East"
         },
         {
-          "signature_count": 1913,
+          "signature_count": 1914,
           "mp": "Mr Adrian Bailey MP",
           "ons_code": "E14001030",
           "name": "West Bromwich West"
@@ -3789,7 +3789,7 @@
           "name": "Yeovil"
         },
         {
-          "signature_count": 3350,
+          "signature_count": 3351,
           "mp": "Albert Owen MP",
           "ons_code": "W07000041",
           "name": "Ynys Môn"
@@ -4365,7 +4365,7 @@
           "name": "Iraq"
         },
         {
-          "signature_count": 4390,
+          "signature_count": 4391,
           "code": "IE",
           "name": "Ireland"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3848243,
+          "signature_count": 3848255,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-29T00:10:00.900Z",
+      "updated_at": "2016-06-29T00:11:01.524Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4006943,
+      "signature_count": 4006956,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
