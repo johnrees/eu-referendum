@@ -81,7 +81,7 @@
           "name": "Glasgow South"
         },
         {
-          "signature_count": 1651,
+          "signature_count": 1652,
           "mp": "Chris Stephens MP",
           "ons_code": "S14000035",
           "name": "Glasgow South West"
@@ -477,7 +477,7 @@
           "name": "Bexleyheath and Crayford"
         },
         {
-          "signature_count": 4054,
+          "signature_count": 4055,
           "mp": "Rt Hon Frank Field MP",
           "ons_code": "E14000559",
           "name": "Birkenhead"
@@ -837,7 +837,7 @@
           "name": "Calder Valley"
         },
         {
-          "signature_count": 14828,
+          "signature_count": 14829,
           "mp": "Rt Hon Harriet Harman QC MP",
           "ons_code": "E14000615",
           "name": "Camberwell and Peckham"
@@ -1149,7 +1149,7 @@
           "name": "Cynon Valley"
         },
         {
-          "signature_count": 3354,
+          "signature_count": 3355,
           "mp": "Jon Cruddas MP",
           "ons_code": "E14000657",
           "name": "Dagenham and Rainham"
@@ -2535,7 +2535,7 @@
           "name": "Nottingham North"
         },
         {
-          "signature_count": 6412,
+          "signature_count": 6413,
           "mp": "Lilian Greenwood MP",
           "ons_code": "E14000867",
           "name": "Nottingham South"
@@ -2637,7 +2637,7 @@
           "name": "Poole"
         },
         {
-          "signature_count": 17088,
+          "signature_count": 17089,
           "mp": "Jim Fitzpatrick MP",
           "ons_code": "E14000882",
           "name": "Poplar and Limehouse"
@@ -3501,7 +3501,7 @@
           "name": "Wansbeck"
         },
         {
-          "signature_count": 10178,
+          "signature_count": 10179,
           "mp": "Mr Edward Vaizey MP",
           "ons_code": "E14001015",
           "name": "Wantage"
@@ -4245,7 +4245,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 27017,
+          "signature_count": 27018,
           "code": "FR",
           "name": "France"
         },
@@ -4600,7 +4600,7 @@
           "name": "New Caledonia"
         },
         {
-          "signature_count": 4813,
+          "signature_count": 4814,
           "code": "NZ",
           "name": "New Zealand"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3848580,
+          "signature_count": 3848588,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-29T00:42:04.284Z",
+      "updated_at": "2016-06-29T00:43:04.559Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4007315,
+      "signature_count": 4007325,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
