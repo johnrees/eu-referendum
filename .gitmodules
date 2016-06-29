@@ -1,3 +1,3 @@
 [submodule "websites"]
 	path = websites
-	url = git://github.com/johnrees/eu-referendum-websites.git
+	url = https://github.com/johnrees/eu-referendum-websites
