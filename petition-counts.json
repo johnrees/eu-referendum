@@ -147,7 +147,7 @@
           "name": "Livingston"
         },
         {
-          "signature_count": 2901,
+          "signature_count": 2902,
           "mp": "Owen Thompson MP",
           "ons_code": "S14000045",
           "name": "Midlothian"
@@ -747,7 +747,7 @@
           "name": "Bristol North West"
         },
         {
-          "signature_count": 9383,
+          "signature_count": 9384,
           "mp": "Karin Smyth MP",
           "ons_code": "E14000601",
           "name": "Bristol South"
@@ -903,7 +903,7 @@
           "name": "Carmarthen East and Dinefwr"
         },
         {
-          "signature_count": 3261,
+          "signature_count": 3262,
           "mp": "Simon Hart MP",
           "ons_code": "W07000066",
           "name": "Carmarthen West and South Pembrokeshire"
@@ -1455,7 +1455,7 @@
           "name": "Filton and Bradley Stoke"
         },
         {
-          "signature_count": 15754,
+          "signature_count": 15756,
           "mp": "Mike Freer MP",
           "ons_code": "E14000703",
           "name": "Finchley and Golders Green"
@@ -1527,7 +1527,7 @@
           "name": "Gosport"
         },
         {
-          "signature_count": 4828,
+          "signature_count": 4829,
           "mp": "Byron Davies MP",
           "ons_code": "W07000046",
           "name": "Gower"
@@ -2565,7 +2565,7 @@
           "name": "Oldham East and Saddleworth"
         },
         {
-          "signature_count": 3700,
+          "signature_count": 3701,
           "mp": "Jim McMahon MP",
           "ons_code": "E14000871",
           "name": "Oldham West and Royton"
@@ -2691,7 +2691,7 @@
           "name": "Reading East"
         },
         {
-          "signature_count": 6924,
+          "signature_count": 6925,
           "mp": "Alok Sharma MP",
           "ons_code": "E14000890",
           "name": "Reading West"
@@ -2793,7 +2793,7 @@
           "name": "Rugby"
         },
         {
-          "signature_count": 8623,
+          "signature_count": 8624,
           "mp": "Mr Nick Hurd MP",
           "ons_code": "E14000906",
           "name": "Ruislip, Northwood and Pinner"
@@ -2829,7 +2829,7 @@
           "name": "Salford and Eccles"
         },
         {
-          "signature_count": 7012,
+          "signature_count": 7013,
           "mp": "John Glen MP",
           "ons_code": "E14000912",
           "name": "Salisbury"
@@ -3423,7 +3423,7 @@
           "name": "Tunbridge Wells"
         },
         {
-          "signature_count": 17134,
+          "signature_count": 17135,
           "mp": "Dr Tania Mathias MP",
           "ons_code": "E14001005",
           "name": "Twickenham"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16525,
+          "signature_count": 16526,
           "code": "AU",
           "name": "Australia"
         },
@@ -3990,7 +3990,7 @@
           "name": "Belarus"
         },
         {
-          "signature_count": 3328,
+          "signature_count": 3329,
           "code": "BE",
           "name": "Belgium"
         },
@@ -4795,7 +4795,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 16909,
+          "signature_count": 16910,
           "code": "ES",
           "name": "Spain"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3848109,
+          "signature_count": 3848120,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-29T00:00:00.324Z",
+      "updated_at": "2016-06-29T00:01:01.843Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4006798,
+      "signature_count": 4006812,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
