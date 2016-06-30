@@ -495,7 +495,7 @@
           "name": "Birmingham, Erdington"
         },
         {
-          "signature_count": 9152,
+          "signature_count": 9153,
           "mp": "Mr Roger Godsiff MP",
           "ons_code": "E14000562",
           "name": "Birmingham, Hall Green"
@@ -519,7 +519,7 @@
           "name": "Birmingham, Northfield"
         },
         {
-          "signature_count": 4334,
+          "signature_count": 4335,
           "mp": "Mr Khalid Mahmood MP",
           "ons_code": "E14000566",
           "name": "Birmingham, Perry Barr"
@@ -681,7 +681,7 @@
           "name": "Brecon and Radnorshire"
         },
         {
-          "signature_count": 10811,
+          "signature_count": 10812,
           "mp": "Dawn Butler MP",
           "ons_code": "E14000591",
           "name": "Brent Central"
@@ -741,7 +741,7 @@
           "name": "Bristol East"
         },
         {
-          "signature_count": 9999,
+          "signature_count": 10000,
           "mp": "Charlotte Leslie MP",
           "ons_code": "E14000600",
           "name": "Bristol North West"
@@ -1071,7 +1071,7 @@
           "name": "Colchester"
         },
         {
-          "signature_count": 6266,
+          "signature_count": 6267,
           "mp": "Jason McCartney MP",
           "ons_code": "E14000645",
           "name": "Colne Valley"
@@ -1563,7 +1563,7 @@
           "name": "Greenwich and Woolwich"
         },
         {
-          "signature_count": 11486,
+          "signature_count": 11487,
           "mp": "Rt Hon Anne Milton MP",
           "ons_code": "E14000719",
           "name": "Guildford"
@@ -1581,7 +1581,7 @@
           "name": "Hackney South and Shoreditch"
         },
         {
-          "signature_count": 2804,
+          "signature_count": 2805,
           "mp": "James Morris MP",
           "ons_code": "E14000722",
           "name": "Halesowen and Rowley Regis"
@@ -1593,7 +1593,7 @@
           "name": "Halifax"
         },
         {
-          "signature_count": 4371,
+          "signature_count": 4372,
           "mp": "Rt Hon David Davis MP",
           "ons_code": "E14000724",
           "name": "Haltemprice and Howden"
@@ -1611,7 +1611,7 @@
           "name": "Hammersmith"
         },
         {
-          "signature_count": 22537,
+          "signature_count": 22538,
           "mp": "Tulip Siddiq MP",
           "ons_code": "E14000727",
           "name": "Hampstead and Kilburn"
@@ -1761,7 +1761,7 @@
           "name": "Hornchurch and Upminster"
         },
         {
-          "signature_count": 23767,
+          "signature_count": 23768,
           "mp": "Catherine West MP",
           "ons_code": "E14000752",
           "name": "Hornsey and Wood Green"
@@ -1833,7 +1833,7 @@
           "name": "Islington North"
         },
         {
-          "signature_count": 18066,
+          "signature_count": 18067,
           "mp": "Emily Thornberry MP",
           "ons_code": "E14000764",
           "name": "Islington South and Finsbury"
@@ -1929,7 +1929,7 @@
           "name": "Leeds Central"
         },
         {
-          "signature_count": 3087,
+          "signature_count": 3088,
           "mp": "Richard Burgon MP",
           "ons_code": "E14000778",
           "name": "Leeds East"
@@ -2241,7 +2241,7 @@
           "name": "Monmouth"
         },
         {
-          "signature_count": 3117,
+          "signature_count": 3118,
           "mp": "Glyn Davies MP",
           "ons_code": "W07000063",
           "name": "Montgomeryshire"
@@ -2373,7 +2373,7 @@
           "name": "North Down"
         },
         {
-          "signature_count": 2948,
+          "signature_count": 2949,
           "mp": "Mr Kevan Jones MP",
           "ons_code": "E14000840",
           "name": "North Durham"
@@ -2589,7 +2589,7 @@
           "name": "Oxford West and Abingdon"
         },
         {
-          "signature_count": 2763,
+          "signature_count": 2764,
           "mp": "Andrew Stephenson MP",
           "ons_code": "E14000875",
           "name": "Pendle"
@@ -3375,7 +3375,7 @@
           "name": "Tonbridge and Malling"
         },
         {
-          "signature_count": 17261,
+          "signature_count": 17262,
           "mp": "Dr Rosena Allin-Khan MP",
           "ons_code": "E14000998",
           "name": "Tooting"
@@ -3561,7 +3561,7 @@
           "name": "Weaver Vale"
         },
         {
-          "signature_count": 4110,
+          "signature_count": 4111,
           "mp": "Mr Peter Bone MP",
           "ons_code": "E14001025",
           "name": "Wellingborough"
@@ -3615,7 +3615,7 @@
           "name": "West Lancashire"
         },
         {
-          "signature_count": 4715,
+          "signature_count": 4716,
           "mp": "Rt Hon Matthew Hancock MP",
           "ons_code": "E14001034",
           "name": "West Suffolk"
@@ -3777,7 +3777,7 @@
           "name": "Wyre Forest"
         },
         {
-          "signature_count": 6045,
+          "signature_count": 6046,
           "mp": "Mike Kane MP",
           "ons_code": "E14001059",
           "name": "Wythenshawe and Sale East"
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3908381,
+          "signature_count": 3908401,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T15:31:01.244Z",
+      "updated_at": "2016-06-30T15:31:59.828Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4069990,
+      "signature_count": 4070010,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
