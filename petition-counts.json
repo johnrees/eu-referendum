@@ -441,7 +441,7 @@
           "name": "Belfast West"
         },
         {
-          "signature_count": 17464,
+          "signature_count": 17465,
           "mp": "Neil Coyle MP",
           "ons_code": "E14000553",
           "name": "Bermondsey and Old Southwark"
@@ -741,7 +741,7 @@
           "name": "Bristol East"
         },
         {
-          "signature_count": 9969,
+          "signature_count": 9971,
           "mp": "Charlotte Leslie MP",
           "ons_code": "E14000600",
           "name": "Bristol North West"
@@ -837,7 +837,7 @@
           "name": "Calder Valley"
         },
         {
-          "signature_count": 15030,
+          "signature_count": 15031,
           "mp": "Rt Hon Harriet Harman QC MP",
           "ons_code": "E14000615",
           "name": "Camberwell and Peckham"
@@ -909,7 +909,7 @@
           "name": "Carmarthen West and South Pembrokeshire"
         },
         {
-          "signature_count": 6186,
+          "signature_count": 6187,
           "mp": "Rt Hon Tom Brake MP",
           "ons_code": "E14000621",
           "name": "Carshalton and Wallington"
@@ -1023,7 +1023,7 @@
           "name": "Christchurch"
         },
         {
-          "signature_count": 18694,
+          "signature_count": 18695,
           "mp": "Rt Hon Mark Field MP",
           "ons_code": "E14000639",
           "name": "Cities of London and Westminster"
@@ -1455,7 +1455,7 @@
           "name": "Filton and Bradley Stoke"
         },
         {
-          "signature_count": 15927,
+          "signature_count": 15928,
           "mp": "Mike Freer MP",
           "ons_code": "E14000703",
           "name": "Finchley and Golders Green"
@@ -1701,7 +1701,7 @@
           "name": "Hendon"
         },
         {
-          "signature_count": 10814,
+          "signature_count": 10815,
           "mp": "John Howell MP",
           "ons_code": "E14000742",
           "name": "Henley"
@@ -1725,7 +1725,7 @@
           "name": "Hertsmere"
         },
         {
-          "signature_count": 5803,
+          "signature_count": 5804,
           "mp": "Guy Opperman MP",
           "ons_code": "E14000746",
           "name": "Hexham"
@@ -1761,7 +1761,7 @@
           "name": "Hornchurch and Upminster"
         },
         {
-          "signature_count": 23713,
+          "signature_count": 23714,
           "mp": "Catherine West MP",
           "ons_code": "E14000752",
           "name": "Hornsey and Wood Green"
@@ -1863,7 +1863,7 @@
           "name": "Kenilworth and Southam"
         },
         {
-          "signature_count": 18066,
+          "signature_count": 18067,
           "mp": "Victoria Borwick MP",
           "ons_code": "E14000768",
           "name": "Kensington"
@@ -2283,7 +2283,7 @@
           "name": "Newark"
         },
         {
-          "signature_count": 8741,
+          "signature_count": 8742,
           "mp": "Richard Benyon MP",
           "ons_code": "E14000830",
           "name": "Newbury"
@@ -2625,7 +2625,7 @@
           "name": "Plymouth, Sutton and Devonport"
         },
         {
-          "signature_count": 4043,
+          "signature_count": 4044,
           "mp": "Owen Smith MP",
           "ons_code": "W07000075",
           "name": "Pontypridd"
@@ -2739,7 +2739,7 @@
           "name": "Richmond Park"
         },
         {
-          "signature_count": 3845,
+          "signature_count": 3846,
           "mp": "Simon Danczuk MP",
           "ons_code": "E14000897",
           "name": "Rochdale"
@@ -2799,7 +2799,7 @@
           "name": "Ruislip, Northwood and Pinner"
         },
         {
-          "signature_count": 8437,
+          "signature_count": 8438,
           "mp": "Rt Hon Philip Hammond MP",
           "ons_code": "E14000907",
           "name": "Runnymede and Weybridge"
@@ -2883,7 +2883,7 @@
           "name": "Sheffield South East"
         },
         {
-          "signature_count": 3456,
+          "signature_count": 3457,
           "mp": "Gill Furniss MP",
           "ons_code": "E14000921",
           "name": "Sheffield, Brightside and Hillsborough"
@@ -2985,7 +2985,7 @@
           "name": "South Dorset"
         },
         {
-          "signature_count": 4769,
+          "signature_count": 4770,
           "mp": "Ms Margaret Ritchie MP",
           "ons_code": "N06000015",
           "name": "South Down"
@@ -3057,7 +3057,7 @@
           "name": "South Swindon"
         },
         {
-          "signature_count": 4893,
+          "signature_count": 4894,
           "mp": "Craig Mackinlay MP",
           "ons_code": "E14000948",
           "name": "South Thanet"
@@ -3105,7 +3105,7 @@
           "name": "Southampton, Itchen"
         },
         {
-          "signature_count": 6750,
+          "signature_count": 6751,
           "mp": "Dr Alan Whitehead MP",
           "ons_code": "E14000956",
           "name": "Southampton, Test"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16846,
+          "signature_count": 16847,
           "code": "AU",
           "name": "Australia"
         },
@@ -4345,7 +4345,7 @@
           "name": "Iceland"
         },
         {
-          "signature_count": 456,
+          "signature_count": 457,
           "code": "IN",
           "name": "India"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3899185,
+          "signature_count": 3899204,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T09:20:59.626Z",
+      "updated_at": "2016-06-30T09:22:03.509Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4060355,
+      "signature_count": 4060376,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
