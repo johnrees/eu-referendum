@@ -15,7 +15,7 @@
           "name": "Edinburgh North and Leith"
         },
         {
-          "signature_count": 8747,
+          "signature_count": 8748,
           "mp": "Ian Murray MP",
           "ons_code": "S14000024",
           "name": "Edinburgh South"
@@ -375,7 +375,7 @@
           "name": "Basingstoke"
         },
         {
-          "signature_count": 2878,
+          "signature_count": 2879,
           "mp": "John Mann MP",
           "ons_code": "E14000546",
           "name": "Bassetlaw"
@@ -603,7 +603,7 @@
           "name": "Bolton North East"
         },
         {
-          "signature_count": 3325,
+          "signature_count": 3326,
           "mp": "Yasmin Qureshi MP",
           "ons_code": "E14000579",
           "name": "Bolton South East"
@@ -915,7 +915,7 @@
           "name": "Carshalton and Wallington"
         },
         {
-          "signature_count": 2316,
+          "signature_count": 2317,
           "mp": "Rebecca Harris MP",
           "ons_code": "E14000622",
           "name": "Castle Point"
@@ -1125,7 +1125,7 @@
           "name": "Crewe and Nantwich"
         },
         {
-          "signature_count": 7408,
+          "signature_count": 7409,
           "mp": "Gavin Barwell MP",
           "ons_code": "E14000654",
           "name": "Croydon Central"
@@ -1461,7 +1461,7 @@
           "name": "Finchley and Golders Green"
         },
         {
-          "signature_count": 5421,
+          "signature_count": 5422,
           "mp": "Damian Collins MP",
           "ons_code": "E14000704",
           "name": "Folkestone and Hythe"
@@ -1737,7 +1737,7 @@
           "name": "Heywood and Middleton"
         },
         {
-          "signature_count": 6475,
+          "signature_count": 6476,
           "mp": "Andrew Bingham MP",
           "ons_code": "E14000748",
           "name": "High Peak"
@@ -1779,7 +1779,7 @@
           "name": "Houghton and Sunderland South"
         },
         {
-          "signature_count": 15010,
+          "signature_count": 15011,
           "mp": "Peter Kyle MP",
           "ons_code": "E14000755",
           "name": "Hove"
@@ -1809,7 +1809,7 @@
           "name": "Ilford North"
         },
         {
-          "signature_count": 8665,
+          "signature_count": 8666,
           "mp": "Mike Gapes MP",
           "ons_code": "E14000760",
           "name": "Ilford South"
@@ -1941,7 +1941,7 @@
           "name": "Leeds North East"
         },
         {
-          "signature_count": 7573,
+          "signature_count": 7574,
           "mp": "Greg Mulholland MP",
           "ons_code": "E14000780",
           "name": "Leeds North West"
@@ -2049,7 +2049,7 @@
           "name": "Llanelli"
         },
         {
-          "signature_count": 6192,
+          "signature_count": 6193,
           "mp": "Rt Hon Nicky Morgan MP",
           "ons_code": "E14000797",
           "name": "Loughborough"
@@ -2811,7 +2811,7 @@
           "name": "Rushcliffe"
         },
         {
-          "signature_count": 6469,
+          "signature_count": 6470,
           "mp": "Rt Hon Sir Alan Duncan MP",
           "ons_code": "E14000909",
           "name": "Rutland and Melton"
@@ -2889,7 +2889,7 @@
           "name": "Sheffield, Brightside and Hillsborough"
         },
         {
-          "signature_count": 10527,
+          "signature_count": 10528,
           "mp": "Rt Hon Nick Clegg MP",
           "ons_code": "E14000922",
           "name": "Sheffield, Hallam"
@@ -3219,7 +3219,7 @@
           "name": "Stoke-on-Trent South"
         },
         {
-          "signature_count": 3979,
+          "signature_count": 3980,
           "mp": "Sir William Cash MP",
           "ons_code": "E14000975",
           "name": "Stone"
@@ -3537,7 +3537,7 @@
           "name": "Washington and Sunderland West"
         },
         {
-          "signature_count": 8137,
+          "signature_count": 8138,
           "mp": "Richard Harrington MP",
           "ons_code": "E14001021",
           "name": "Watford"
@@ -3675,7 +3675,7 @@
           "name": "Windsor"
         },
         {
-          "signature_count": 4856,
+          "signature_count": 4857,
           "mp": "Alison McGovern MP",
           "ons_code": "E14001043",
           "name": "Wirral South"
@@ -3783,7 +3783,7 @@
           "name": "Wythenshawe and Sale East"
         },
         {
-          "signature_count": 4812,
+          "signature_count": 4813,
           "mp": "Marcus Fysh MP",
           "ons_code": "E14001060",
           "name": "Yeovil"
@@ -4280,7 +4280,7 @@
           "name": "Ghana"
         },
         {
-          "signature_count": 5840,
+          "signature_count": 5841,
           "code": "GI",
           "name": "Gibraltar"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3909812,
+          "signature_count": 3909829,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T16:38:05.049Z",
+      "updated_at": "2016-06-30T16:38:56.355Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4071502,
+      "signature_count": 4071520,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
