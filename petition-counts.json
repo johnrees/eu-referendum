@@ -315,7 +315,7 @@
           "name": "Ashfield"
         },
         {
-          "signature_count": 6138,
+          "signature_count": 6140,
           "mp": "Rt Hon Damian Green MP",
           "ons_code": "E14000536",
           "name": "Ashford"
@@ -633,7 +633,7 @@
           "name": "Bosworth"
         },
         {
-          "signature_count": 6925,
+          "signature_count": 6926,
           "mp": "Mr Tobias Ellwood MP",
           "ons_code": "E14000584",
           "name": "Bournemouth East"
@@ -669,7 +669,7 @@
           "name": "Bradford West"
         },
         {
-          "signature_count": 4523,
+          "signature_count": 4525,
           "mp": "James Cleverly MP",
           "ons_code": "E14000590",
           "name": "Braintree"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23400,
+          "signature_count": 23401,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -849,7 +849,7 @@
           "name": "Camborne and Redruth"
         },
         {
-          "signature_count": 17436,
+          "signature_count": 17437,
           "mp": "Daniel Zeichner MP",
           "ons_code": "E14000617",
           "name": "Cambridge"
@@ -1191,7 +1191,7 @@
           "name": "Derby North"
         },
         {
-          "signature_count": 3920,
+          "signature_count": 3921,
           "mp": "Rt Hon Margaret Beckett MP",
           "ons_code": "E14000663",
           "name": "Derby South"
@@ -1413,7 +1413,7 @@
           "name": "Erith and Thamesmead"
         },
         {
-          "signature_count": 12631,
+          "signature_count": 12632,
           "mp": "Dominic Raab MP",
           "ons_code": "E14000697",
           "name": "Esher and Walton"
@@ -1503,7 +1503,7 @@
           "name": "Gateshead"
         },
         {
-          "signature_count": 5358,
+          "signature_count": 5359,
           "mp": "Vernon Coaker MP",
           "ons_code": "E14000710",
           "name": "Gedling"
@@ -1539,7 +1539,7 @@
           "name": "Grantham and Stamford"
         },
         {
-          "signature_count": 3958,
+          "signature_count": 3959,
           "mp": "Adam Holloway MP",
           "ons_code": "E14000715",
           "name": "Gravesham"
@@ -1605,7 +1605,7 @@
           "name": "Halton"
         },
         {
-          "signature_count": 16972,
+          "signature_count": 16973,
           "mp": "Andy Slaughter MP",
           "ons_code": "E14000726",
           "name": "Hammersmith"
@@ -1731,7 +1731,7 @@
           "name": "Hexham"
         },
         {
-          "signature_count": 3450,
+          "signature_count": 3451,
           "mp": "Liz McInnes MP",
           "ons_code": "E14000747",
           "name": "Heywood and Middleton"
@@ -1779,7 +1779,7 @@
           "name": "Houghton and Sunderland South"
         },
         {
-          "signature_count": 15014,
+          "signature_count": 15015,
           "mp": "Peter Kyle MP",
           "ons_code": "E14000755",
           "name": "Hove"
@@ -2517,7 +2517,7 @@
           "name": "Norwich North"
         },
         {
-          "signature_count": 9917,
+          "signature_count": 9918,
           "mp": "Clive Lewis MP",
           "ons_code": "E14000864",
           "name": "Norwich South"
@@ -2967,7 +2967,7 @@
           "name": "South Basildon and East Thurrock"
         },
         {
-          "signature_count": 13659,
+          "signature_count": 13660,
           "mp": "Heidi Allen MP",
           "ons_code": "E14000934",
           "name": "South Cambridgeshire"
@@ -2979,7 +2979,7 @@
           "name": "South Derbyshire"
         },
         {
-          "signature_count": 4687,
+          "signature_count": 4688,
           "mp": "Richard Drax MP",
           "ons_code": "E14000936",
           "name": "South Dorset"
@@ -3045,7 +3045,7 @@
           "name": "South Staffordshire"
         },
         {
-          "signature_count": 5923,
+          "signature_count": 5924,
           "mp": "James Cartlidge MP",
           "ons_code": "E14000946",
           "name": "South Suffolk"
@@ -3087,7 +3087,7 @@
           "name": "South West Norfolk"
         },
         {
-          "signature_count": 11699,
+          "signature_count": 11700,
           "mp": "Rt Hon Jeremy Hunt MP",
           "ons_code": "E14000953",
           "name": "South West Surrey"
@@ -3117,7 +3117,7 @@
           "name": "Southend West"
         },
         {
-          "signature_count": 4839,
+          "signature_count": 4840,
           "mp": "John Pugh MP",
           "ons_code": "E14000958",
           "name": "Southport"
@@ -3393,7 +3393,7 @@
           "name": "Torfaen"
         },
         {
-          "signature_count": 5739,
+          "signature_count": 5740,
           "mp": "Mr Geoffrey Cox QC MP",
           "ons_code": "E14001000",
           "name": "Torridge and West Devon"
@@ -3561,7 +3561,7 @@
           "name": "Weaver Vale"
         },
         {
-          "signature_count": 4111,
+          "signature_count": 4112,
           "mp": "Mr Peter Bone MP",
           "ons_code": "E14001025",
           "name": "Wellingborough"
@@ -4960,12 +4960,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3910584,
+          "signature_count": 3910606,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16653,
+          "signature_count": 16654,
           "code": "US",
           "name": "United States"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T17:16:58.698Z",
+      "updated_at": "2016-06-30T17:18:00.274Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4072308,
+      "signature_count": 4072331,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
