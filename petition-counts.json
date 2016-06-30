@@ -57,7 +57,7 @@
           "name": "Glasgow East"
         },
         {
-          "signature_count": 5452,
+          "signature_count": 5453,
           "mp": "Patrick Grady MP",
           "ons_code": "S14000031",
           "name": "Glasgow North"
@@ -231,7 +231,7 @@
           "name": "Ross, Skye and Lochaber"
         },
         {
-          "signature_count": 2429,
+          "signature_count": 2430,
           "mp": "Margaret Ferrier MP",
           "ons_code": "S14000056",
           "name": "Rutherglen and Hamilton West"
@@ -243,7 +243,7 @@
           "name": "Stirling"
         },
         {
-          "signature_count": 4312,
+          "signature_count": 4313,
           "mp": "Stuart Blair Donaldson MP",
           "ons_code": "S14000058",
           "name": "West Aberdeenshire and Kincardine"
@@ -639,7 +639,7 @@
           "name": "Bournemouth East"
         },
         {
-          "signature_count": 6052,
+          "signature_count": 6053,
           "mp": "Conor Burns MP",
           "ons_code": "E14000585",
           "name": "Bournemouth West"
@@ -687,7 +687,7 @@
           "name": "Brent Central"
         },
         {
-          "signature_count": 8178,
+          "signature_count": 8179,
           "mp": "Barry Gardiner MP",
           "ons_code": "E14000592",
           "name": "Brent North"
@@ -861,7 +861,7 @@
           "name": "Cannock Chase"
         },
         {
-          "signature_count": 9906,
+          "signature_count": 9907,
           "mp": "Mr Julian Brazier MP",
           "ons_code": "E14000619",
           "name": "Canterbury"
@@ -873,7 +873,7 @@
           "name": "Cardiff Central"
         },
         {
-          "signature_count": 7921,
+          "signature_count": 7922,
           "mp": "Craig Williams MP",
           "ons_code": "W07000051",
           "name": "Cardiff North"
@@ -903,7 +903,7 @@
           "name": "Carmarthen East and Dinefwr"
         },
         {
-          "signature_count": 3332,
+          "signature_count": 3333,
           "mp": "Simon Hart MP",
           "ons_code": "W07000066",
           "name": "Carmarthen West and South Pembrokeshire"
@@ -1305,7 +1305,7 @@
           "name": "East Ham"
         },
         {
-          "signature_count": 8531,
+          "signature_count": 8532,
           "mp": "Damian Hinds MP",
           "ons_code": "E14000680",
           "name": "East Hampshire"
@@ -1491,7 +1491,7 @@
           "name": "Gainsborough"
         },
         {
-          "signature_count": 5899,
+          "signature_count": 5900,
           "mp": "Maria Eagle MP",
           "ons_code": "E14000708",
           "name": "Garston and Halewood"
@@ -1725,7 +1725,7 @@
           "name": "Hertsmere"
         },
         {
-          "signature_count": 5832,
+          "signature_count": 5833,
           "mp": "Guy Opperman MP",
           "ons_code": "E14000746",
           "name": "Hexham"
@@ -2037,7 +2037,7 @@
           "name": "Liverpool, Wavertree"
         },
         {
-          "signature_count": 4022,
+          "signature_count": 4023,
           "mp": "Stephen Twigg MP",
           "ons_code": "E14000796",
           "name": "Liverpool, West Derby"
@@ -2415,7 +2415,7 @@
           "name": "North East Somerset"
         },
         {
-          "signature_count": 5191,
+          "signature_count": 5192,
           "mp": "Bill Wiggin MP",
           "ons_code": "E14000847",
           "name": "North Herefordshire"
@@ -2583,7 +2583,7 @@
           "name": "Oxford East"
         },
         {
-          "signature_count": 14848,
+          "signature_count": 14849,
           "mp": "Nicola Blackwood MP",
           "ons_code": "E14000874",
           "name": "Oxford West and Abingdon"
@@ -2679,7 +2679,7 @@
           "name": "Putney"
         },
         {
-          "signature_count": 3520,
+          "signature_count": 3521,
           "mp": "Rt Hon Mark Francois MP",
           "ons_code": "E14000888",
           "name": "Rayleigh and Wickford"
@@ -3099,7 +3099,7 @@
           "name": "South West Wiltshire"
         },
         {
-          "signature_count": 5155,
+          "signature_count": 5156,
           "mp": "Royston Smith MP",
           "ons_code": "E14000955",
           "name": "Southampton, Itchen"
@@ -3273,7 +3273,7 @@
           "name": "Sunderland Central"
         },
         {
-          "signature_count": 7875,
+          "signature_count": 7876,
           "mp": "Rt Hon Michael Gove MP",
           "ons_code": "E14000983",
           "name": "Surrey Heath"
@@ -3411,7 +3411,7 @@
           "name": "Tottenham"
         },
         {
-          "signature_count": 8218,
+          "signature_count": 8219,
           "mp": "Sarah Newton MP",
           "ons_code": "E14001003",
           "name": "Truro and Falmouth"
@@ -3675,7 +3675,7 @@
           "name": "Windsor"
         },
         {
-          "signature_count": 4864,
+          "signature_count": 4865,
           "mp": "Alison McGovern MP",
           "ons_code": "E14001043",
           "name": "Wirral South"
@@ -4245,7 +4245,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 27642,
+          "signature_count": 27643,
           "code": "FR",
           "name": "France"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3913669,
+          "signature_count": 3913688,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T19:54:02.540Z",
+      "updated_at": "2016-06-30T19:55:00.712Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4075497,
+      "signature_count": 4075517,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
