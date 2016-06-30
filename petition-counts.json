@@ -381,7 +381,7 @@
           "name": "Bassetlaw"
         },
         {
-          "signature_count": 12329,
+          "signature_count": 12330,
           "mp": "Ben Howlett MP",
           "ons_code": "E14000547",
           "name": "Bath"
@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 18923,
+          "signature_count": 18924,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -597,7 +597,7 @@
           "name": "Bolsover"
         },
         {
-          "signature_count": 3778,
+          "signature_count": 3779,
           "mp": "Mr David Crausby MP",
           "ons_code": "E14000578",
           "name": "Bolton North East"
@@ -867,7 +867,7 @@
           "name": "Canterbury"
         },
         {
-          "signature_count": 8321,
+          "signature_count": 8322,
           "mp": "Jo Stevens MP",
           "ons_code": "W07000050",
           "name": "Cardiff Central"
@@ -1263,7 +1263,7 @@
           "name": "Dwyfor Meirionnydd"
         },
         {
-          "signature_count": 17137,
+          "signature_count": 17138,
           "mp": "Dr Rupa Huq MP",
           "ons_code": "E14000674",
           "name": "Ealing Central and Acton"
@@ -1623,7 +1623,7 @@
           "name": "Harborough"
         },
         {
-          "signature_count": 3224,
+          "signature_count": 3225,
           "mp": "Rt Hon Robert Halfon MP",
           "ons_code": "E14000729",
           "name": "Harlow"
@@ -1695,7 +1695,7 @@
           "name": "Hemsworth"
         },
         {
-          "signature_count": 10215,
+          "signature_count": 10216,
           "mp": "Dr Matthew Offord MP",
           "ons_code": "E14000741",
           "name": "Hendon"
@@ -2091,7 +2091,7 @@
           "name": "Maidenhead"
         },
         {
-          "signature_count": 5919,
+          "signature_count": 5920,
           "mp": "Mrs Helen Grant MP",
           "ons_code": "E14000804",
           "name": "Maidstone and The Weald"
@@ -2121,7 +2121,7 @@
           "name": "Manchester, Gorton"
         },
         {
-          "signature_count": 13479,
+          "signature_count": 13480,
           "mp": "Jeff Smith MP",
           "ons_code": "E14000809",
           "name": "Manchester, Withington"
@@ -2217,7 +2217,7 @@
           "name": "Milton Keynes North"
         },
         {
-          "signature_count": 8135,
+          "signature_count": 8136,
           "mp": "Iain Stewart MP",
           "ons_code": "E14000822",
           "name": "Milton Keynes South"
@@ -2295,7 +2295,7 @@
           "name": "Newcastle upon Tyne Central"
         },
         {
-          "signature_count": 7130,
+          "signature_count": 7131,
           "mp": "Rt Hon Nicholas Brown MP",
           "ons_code": "E14000832",
           "name": "Newcastle upon Tyne East"
@@ -2367,7 +2367,7 @@
           "name": "North Dorset"
         },
         {
-          "signature_count": 4562,
+          "signature_count": 4563,
           "mp": "Lady Hermon MP",
           "ons_code": "N06000013",
           "name": "North Down"
@@ -2409,7 +2409,7 @@
           "name": "North East Hertfordshire"
         },
         {
-          "signature_count": 6932,
+          "signature_count": 6933,
           "mp": "Mr Jacob Rees-Mogg MP",
           "ons_code": "E14000846",
           "name": "North East Somerset"
@@ -2643,7 +2643,7 @@
           "name": "Poplar and Limehouse"
         },
         {
-          "signature_count": 3880,
+          "signature_count": 3881,
           "mp": "Penny Mordaunt MP",
           "ons_code": "E14000883",
           "name": "Portsmouth North"
@@ -2733,7 +2733,7 @@
           "name": "Richmond (Yorks)"
         },
         {
-          "signature_count": 20237,
+          "signature_count": 20238,
           "mp": "Zac Goldsmith MP",
           "ons_code": "E14000896",
           "name": "Richmond Park"
@@ -2793,7 +2793,7 @@
           "name": "Rugby"
         },
         {
-          "signature_count": 8734,
+          "signature_count": 8735,
           "mp": "Mr Nick Hurd MP",
           "ons_code": "E14000906",
           "name": "Ruislip, Northwood and Pinner"
@@ -2931,7 +2931,7 @@
           "name": "Skipton and Ripon"
         },
         {
-          "signature_count": 4884,
+          "signature_count": 4885,
           "mp": "Stephen Phillips QC MP",
           "ons_code": "E14000929",
           "name": "Sleaford and North Hykeham"
@@ -3129,7 +3129,7 @@
           "name": "Spelthorne"
         },
         {
-          "signature_count": 12411,
+          "signature_count": 12412,
           "mp": "Mrs Anne Main MP",
           "ons_code": "E14000960",
           "name": "St Albans"
@@ -3759,7 +3759,7 @@
           "name": "Wrexham"
         },
         {
-          "signature_count": 7982,
+          "signature_count": 7983,
           "mp": "Mr Steve Baker MP",
           "ons_code": "E14001056",
           "name": "Wycombe"
@@ -4795,7 +4795,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17186,
+          "signature_count": 17187,
           "code": "ES",
           "name": "Spain"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3898231,
+          "signature_count": 3898251,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T08:37:00.496Z",
+      "updated_at": "2016-06-30T08:37:55.837Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4059345,
+      "signature_count": 4059366,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
