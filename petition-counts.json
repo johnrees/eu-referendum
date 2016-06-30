@@ -333,7 +333,7 @@
           "name": "Aylesbury"
         },
         {
-          "signature_count": 8070,
+          "signature_count": 8071,
           "mp": "Victoria Prentis MP",
           "ons_code": "E14000539",
           "name": "Banbury"
@@ -1071,7 +1071,7 @@
           "name": "Colchester"
         },
         {
-          "signature_count": 6273,
+          "signature_count": 6274,
           "mp": "Jason McCartney MP",
           "ons_code": "E14000645",
           "name": "Colne Valley"
@@ -1389,7 +1389,7 @@
           "name": "Enfield, Southgate"
         },
         {
-          "signature_count": 5962,
+          "signature_count": 5963,
           "mp": "Mrs Eleanor Laing MP",
           "ons_code": "E14000693",
           "name": "Epping Forest"
@@ -1593,7 +1593,7 @@
           "name": "Halifax"
         },
         {
-          "signature_count": 4379,
+          "signature_count": 4380,
           "mp": "Rt Hon David Davis MP",
           "ons_code": "E14000724",
           "name": "Haltemprice and Howden"
@@ -1605,7 +1605,7 @@
           "name": "Halton"
         },
         {
-          "signature_count": 16980,
+          "signature_count": 16981,
           "mp": "Andy Slaughter MP",
           "ons_code": "E14000726",
           "name": "Hammersmith"
@@ -1779,7 +1779,7 @@
           "name": "Houghton and Sunderland South"
         },
         {
-          "signature_count": 15023,
+          "signature_count": 15024,
           "mp": "Peter Kyle MP",
           "ons_code": "E14000755",
           "name": "Hove"
@@ -1935,7 +1935,7 @@
           "name": "Leeds East"
         },
         {
-          "signature_count": 9885,
+          "signature_count": 9886,
           "mp": "Fabian Hamilton MP",
           "ons_code": "E14000779",
           "name": "Leeds North East"
@@ -2283,7 +2283,7 @@
           "name": "Newark"
         },
         {
-          "signature_count": 8774,
+          "signature_count": 8775,
           "mp": "Richard Benyon MP",
           "ons_code": "E14000830",
           "name": "Newbury"
@@ -2415,7 +2415,7 @@
           "name": "North East Somerset"
         },
         {
-          "signature_count": 5192,
+          "signature_count": 5193,
           "mp": "Bill Wiggin MP",
           "ons_code": "E14000847",
           "name": "North Herefordshire"
@@ -2475,7 +2475,7 @@
           "name": "North West Durham"
         },
         {
-          "signature_count": 6722,
+          "signature_count": 6723,
           "mp": "Kit Malthouse MP",
           "ons_code": "E14000857",
           "name": "North West Hampshire"
@@ -2583,7 +2583,7 @@
           "name": "Oxford East"
         },
         {
-          "signature_count": 14849,
+          "signature_count": 14850,
           "mp": "Nicola Blackwood MP",
           "ons_code": "E14000874",
           "name": "Oxford West and Abingdon"
@@ -2715,7 +2715,7 @@
           "name": "Reigate"
         },
         {
-          "signature_count": 1857,
+          "signature_count": 1858,
           "mp": "Chris Bryant MP",
           "ons_code": "W07000052",
           "name": "Rhondda"
@@ -3165,7 +3165,7 @@
           "name": "Stafford"
         },
         {
-          "signature_count": 2971,
+          "signature_count": 2972,
           "mp": "Karen Bradley MP",
           "ons_code": "E14000966",
           "name": "Staffordshire Moorlands"
@@ -3219,7 +3219,7 @@
           "name": "Stoke-on-Trent South"
         },
         {
-          "signature_count": 3983,
+          "signature_count": 3984,
           "mp": "Sir William Cash MP",
           "ons_code": "E14000975",
           "name": "Stone"
@@ -3279,7 +3279,7 @@
           "name": "Surrey Heath"
         },
         {
-          "signature_count": 7488,
+          "signature_count": 7489,
           "mp": "Paul Scully MP",
           "ons_code": "E14000984",
           "name": "Sutton and Cheam"
@@ -3339,7 +3339,7 @@
           "name": "The Cotswolds"
         },
         {
-          "signature_count": 3645,
+          "signature_count": 3646,
           "mp": "Mark Pritchard MP",
           "ons_code": "E14000992",
           "name": "The Wrekin"
@@ -3417,7 +3417,7 @@
           "name": "Truro and Falmouth"
         },
         {
-          "signature_count": 10109,
+          "signature_count": 10110,
           "mp": "Rt Hon Greg Clark MP",
           "ons_code": "E14001004",
           "name": "Tunbridge Wells"
@@ -3645,7 +3645,7 @@
           "name": "Westmorland and Lonsdale"
         },
         {
-          "signature_count": 5317,
+          "signature_count": 5318,
           "mp": "John Penrose MP",
           "ons_code": "E14001038",
           "name": "Weston-super-Mare"
@@ -4595,7 +4595,7 @@
           "name": "Nepal"
         },
         {
-          "signature_count": 4608,
+          "signature_count": 4609,
           "code": "NL",
           "name": "Netherlands"
         },
@@ -4860,7 +4860,7 @@
           "name": "Sweden"
         },
         {
-          "signature_count": 3439,
+          "signature_count": 3440,
           "code": "CH",
           "name": "Switzerland"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3913727,
+          "signature_count": 3913744,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T19:56:55.524Z",
+      "updated_at": "2016-06-30T19:57:56.913Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4075556,
+      "signature_count": 4075575,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
