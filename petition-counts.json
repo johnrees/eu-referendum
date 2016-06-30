@@ -525,7 +525,7 @@
           "name": "Birmingham, Perry Barr"
         },
         {
-          "signature_count": 6628,
+          "signature_count": 6629,
           "mp": "Steve McCabe MP",
           "ons_code": "E14000567",
           "name": "Birmingham, Selly Oak"
@@ -657,7 +657,7 @@
           "name": "Bradford East"
         },
         {
-          "signature_count": 2570,
+          "signature_count": 2571,
           "mp": "Judith Cummins MP",
           "ons_code": "E14000588",
           "name": "Bradford South"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23287,
+          "signature_count": 23288,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -837,7 +837,7 @@
           "name": "Calder Valley"
         },
         {
-          "signature_count": 15024,
+          "signature_count": 15025,
           "mp": "Rt Hon Harriet Harman QC MP",
           "ons_code": "E14000615",
           "name": "Camberwell and Peckham"
@@ -861,7 +861,7 @@
           "name": "Cannock Chase"
         },
         {
-          "signature_count": 9866,
+          "signature_count": 9867,
           "mp": "Mr Julian Brazier MP",
           "ons_code": "E14000619",
           "name": "Canterbury"
@@ -1341,7 +1341,7 @@
           "name": "Eastbourne"
         },
         {
-          "signature_count": 6065,
+          "signature_count": 6066,
           "mp": "Mims Davies MP",
           "ons_code": "E14000685",
           "name": "Eastleigh"
@@ -1449,7 +1449,7 @@
           "name": "Fermanagh and South Tyrone"
         },
         {
-          "signature_count": 6736,
+          "signature_count": 6737,
           "mp": "Jack Lopresti MP",
           "ons_code": "E14000702",
           "name": "Filton and Bradley Stoke"
@@ -1671,7 +1671,7 @@
           "name": "Havant"
         },
         {
-          "signature_count": 5072,
+          "signature_count": 5073,
           "mp": "John McDonnell MP",
           "ons_code": "E14000737",
           "name": "Hayes and Harlington"
@@ -1761,7 +1761,7 @@
           "name": "Hornchurch and Upminster"
         },
         {
-          "signature_count": 23706,
+          "signature_count": 23707,
           "mp": "Catherine West MP",
           "ons_code": "E14000752",
           "name": "Hornsey and Wood Green"
@@ -2085,7 +2085,7 @@
           "name": "Macclesfield"
         },
         {
-          "signature_count": 10141,
+          "signature_count": 10142,
           "mp": "Rt Hon Theresa May MP",
           "ons_code": "E14000803",
           "name": "Maidenhead"
@@ -2121,7 +2121,7 @@
           "name": "Manchester, Gorton"
         },
         {
-          "signature_count": 13477,
+          "signature_count": 13478,
           "mp": "Jeff Smith MP",
           "ons_code": "E14000809",
           "name": "Manchester, Withington"
@@ -2301,7 +2301,7 @@
           "name": "Newcastle upon Tyne East"
         },
         {
-          "signature_count": 5133,
+          "signature_count": 5135,
           "mp": "Catherine McKinnell MP",
           "ons_code": "E14000833",
           "name": "Newcastle upon Tyne North"
@@ -2517,7 +2517,7 @@
           "name": "Norwich North"
         },
         {
-          "signature_count": 9875,
+          "signature_count": 9876,
           "mp": "Clive Lewis MP",
           "ons_code": "E14000864",
           "name": "Norwich South"
@@ -2961,7 +2961,7 @@
           "name": "South Antrim"
         },
         {
-          "signature_count": 2558,
+          "signature_count": 2559,
           "mp": "Stephen Metcalfe MP",
           "ons_code": "E14000933",
           "name": "South Basildon and East Thurrock"
@@ -3087,7 +3087,7 @@
           "name": "South West Norfolk"
         },
         {
-          "signature_count": 11649,
+          "signature_count": 11650,
           "mp": "Rt Hon Jeremy Hunt MP",
           "ons_code": "E14000953",
           "name": "South West Surrey"
@@ -3159,7 +3159,7 @@
           "name": "St Ives"
         },
         {
-          "signature_count": 4351,
+          "signature_count": 4352,
           "mp": "Jeremy Lefroy MP",
           "ons_code": "E14000965",
           "name": "Stafford"
@@ -3375,7 +3375,7 @@
           "name": "Tonbridge and Malling"
         },
         {
-          "signature_count": 17213,
+          "signature_count": 17214,
           "mp": "Dr Rosena Allin-Khan MP",
           "ons_code": "E14000998",
           "name": "Tooting"
@@ -3603,7 +3603,7 @@
           "name": "West Dorset"
         },
         {
-          "signature_count": 12189,
+          "signature_count": 12190,
           "mp": "Lyn Brown MP",
           "ons_code": "E14001032",
           "name": "West Ham"
@@ -3669,7 +3669,7 @@
           "name": "Winchester"
         },
         {
-          "signature_count": 8828,
+          "signature_count": 8829,
           "mp": "Adam Afriyie MP",
           "ons_code": "E14001042",
           "name": "Windsor"
@@ -4855,7 +4855,7 @@
           "name": "Sweden"
         },
         {
-          "signature_count": 3419,
+          "signature_count": 3420,
           "code": "CH",
           "name": "Switzerland"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3897587,
+          "signature_count": 3897607,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T08:09:59.935Z",
+      "updated_at": "2016-06-30T08:11:01.423Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4058676,
+      "signature_count": 4058697,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
