@@ -15,7 +15,7 @@
           "name": "Edinburgh North and Leith"
         },
         {
-          "signature_count": 8748,
+          "signature_count": 8749,
           "mp": "Ian Murray MP",
           "ons_code": "S14000024",
           "name": "Edinburgh South"
@@ -141,7 +141,7 @@
           "name": "Linlithgow and East Falkirk"
         },
         {
-          "signature_count": 2948,
+          "signature_count": 2949,
           "mp": "Hannah Bardell MP",
           "ons_code": "S14000044",
           "name": "Livingston"
@@ -381,7 +381,7 @@
           "name": "Bassetlaw"
         },
         {
-          "signature_count": 12364,
+          "signature_count": 12365,
           "mp": "Ben Howlett MP",
           "ons_code": "E14000547",
           "name": "Bath"
@@ -639,7 +639,7 @@
           "name": "Bournemouth East"
         },
         {
-          "signature_count": 6047,
+          "signature_count": 6048,
           "mp": "Conor Burns MP",
           "ons_code": "E14000585",
           "name": "Bournemouth West"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23401,
+          "signature_count": 23402,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -921,7 +921,7 @@
           "name": "Castle Point"
         },
         {
-          "signature_count": 7578,
+          "signature_count": 7579,
           "mp": "Mel Stride MP",
           "ons_code": "E14000623",
           "name": "Central Devon"
@@ -1023,7 +1023,7 @@
           "name": "Christchurch"
         },
         {
-          "signature_count": 18748,
+          "signature_count": 18749,
           "mp": "Rt Hon Mark Field MP",
           "ons_code": "E14000639",
           "name": "Cities of London and Westminster"
@@ -1545,7 +1545,7 @@
           "name": "Gravesham"
         },
         {
-          "signature_count": 1827,
+          "signature_count": 1828,
           "mp": "Melanie Onn MP",
           "ons_code": "E14000716",
           "name": "Great Grimsby"
@@ -1725,13 +1725,13 @@
           "name": "Hertsmere"
         },
         {
-          "signature_count": 5826,
+          "signature_count": 5827,
           "mp": "Guy Opperman MP",
           "ons_code": "E14000746",
           "name": "Hexham"
         },
         {
-          "signature_count": 3451,
+          "signature_count": 3452,
           "mp": "Liz McInnes MP",
           "ons_code": "E14000747",
           "name": "Heywood and Middleton"
@@ -1995,7 +1995,7 @@
           "name": "Lewisham West and Penge"
         },
         {
-          "signature_count": 16289,
+          "signature_count": 16290,
           "mp": "Vicky Foxcroft MP",
           "ons_code": "E14000789",
           "name": "Lewisham, Deptford"
@@ -2055,7 +2055,7 @@
           "name": "Loughborough"
         },
         {
-          "signature_count": 3007,
+          "signature_count": 3008,
           "mp": "Victoria Atkins MP",
           "ons_code": "E14000798",
           "name": "Louth and Horncastle"
@@ -2265,7 +2265,7 @@
           "name": "Neath"
         },
         {
-          "signature_count": 5155,
+          "signature_count": 5156,
           "mp": "Rt Hon Dr Julian Lewis MP",
           "ons_code": "E14000827",
           "name": "New Forest East"
@@ -2583,7 +2583,7 @@
           "name": "Oxford East"
         },
         {
-          "signature_count": 14833,
+          "signature_count": 14834,
           "mp": "Nicola Blackwood MP",
           "ons_code": "E14000874",
           "name": "Oxford West and Abingdon"
@@ -2727,13 +2727,13 @@
           "name": "Ribble Valley"
         },
         {
-          "signature_count": 4978,
+          "signature_count": 4979,
           "mp": "Rishi Sunak MP",
           "ons_code": "E14000895",
           "name": "Richmond (Yorks)"
         },
         {
-          "signature_count": 20301,
+          "signature_count": 20302,
           "mp": "Zac Goldsmith MP",
           "ons_code": "E14000896",
           "name": "Richmond Park"
@@ -2895,7 +2895,7 @@
           "name": "Sheffield, Hallam"
         },
         {
-          "signature_count": 4784,
+          "signature_count": 4785,
           "mp": "Louise Haigh MP",
           "ons_code": "E14000923",
           "name": "Sheffield, Heeley"
@@ -3183,7 +3183,7 @@
           "name": "Stevenage"
         },
         {
-          "signature_count": 6090,
+          "signature_count": 6091,
           "mp": "Ann Coffey MP",
           "ons_code": "E14000969",
           "name": "Stockport"
@@ -3777,7 +3777,7 @@
           "name": "Wyre Forest"
         },
         {
-          "signature_count": 6053,
+          "signature_count": 6054,
           "mp": "Mike Kane MP",
           "ons_code": "E14001059",
           "name": "Wythenshawe and Sale East"
@@ -3879,7 +3879,7 @@
           "name": "East Dunbartonshire"
         },
         {
-          "signature_count": 2781,
+          "signature_count": 2782,
           "mp": "Dr Lisa Cameron MP",
           "ons_code": "S14000019",
           "name": "East Kilbride, Strathaven and Lesmahagow"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3910606,
+          "signature_count": 3910626,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T17:18:00.274Z",
+      "updated_at": "2016-06-30T17:19:03.149Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4072331,
+      "signature_count": 4072351,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
