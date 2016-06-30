@@ -681,7 +681,7 @@
           "name": "Brecon and Radnorshire"
         },
         {
-          "signature_count": 10777,
+          "signature_count": 10778,
           "mp": "Dawn Butler MP",
           "ons_code": "E14000591",
           "name": "Brent Central"
@@ -723,7 +723,7 @@
           "name": "Brigg and Goole"
         },
         {
-          "signature_count": 9867,
+          "signature_count": 9868,
           "mp": "Simon Kirby MP",
           "ons_code": "E14000597",
           "name": "Brighton, Kemptown"
@@ -1119,7 +1119,7 @@
           "name": "Crawley"
         },
         {
-          "signature_count": 4682,
+          "signature_count": 4683,
           "mp": "Edward Timpson MP",
           "ons_code": "E14000653",
           "name": "Crewe and Nantwich"
@@ -1197,7 +1197,7 @@
           "name": "Derby South"
         },
         {
-          "signature_count": 5947,
+          "signature_count": 5948,
           "mp": "Rt Hon Patrick McLoughlin MP",
           "ons_code": "E14000664",
           "name": "Derbyshire Dales"
@@ -1305,7 +1305,7 @@
           "name": "East Ham"
         },
         {
-          "signature_count": 8497,
+          "signature_count": 8498,
           "mp": "Damian Hinds MP",
           "ons_code": "E14000680",
           "name": "East Hampshire"
@@ -1605,13 +1605,13 @@
           "name": "Halton"
         },
         {
-          "signature_count": 16921,
+          "signature_count": 16922,
           "mp": "Andy Slaughter MP",
           "ons_code": "E14000726",
           "name": "Hammersmith"
         },
         {
-          "signature_count": 22473,
+          "signature_count": 22474,
           "mp": "Tulip Siddiq MP",
           "ons_code": "E14000727",
           "name": "Hampstead and Kilburn"
@@ -1863,7 +1863,7 @@
           "name": "Kenilworth and Southam"
         },
         {
-          "signature_count": 18058,
+          "signature_count": 18059,
           "mp": "Victoria Borwick MP",
           "ons_code": "E14000768",
           "name": "Kensington"
@@ -1905,7 +1905,7 @@
           "name": "Kingswood"
         },
         {
-          "signature_count": 3732,
+          "signature_count": 3733,
           "mp": "Rt Hon George Howarth MP",
           "ons_code": "E14000775",
           "name": "Knowsley"
@@ -2055,7 +2055,7 @@
           "name": "Loughborough"
         },
         {
-          "signature_count": 2997,
+          "signature_count": 2998,
           "mp": "Victoria Atkins MP",
           "ons_code": "E14000798",
           "name": "Louth and Horncastle"
@@ -2211,7 +2211,7 @@
           "name": "Middlesbrough South and East Cleveland"
         },
         {
-          "signature_count": 8269,
+          "signature_count": 8270,
           "mp": "Mark Lancaster MP",
           "ons_code": "E14000821",
           "name": "Milton Keynes North"
@@ -2565,7 +2565,7 @@
           "name": "Oldham East and Saddleworth"
         },
         {
-          "signature_count": 3739,
+          "signature_count": 3740,
           "mp": "Jim McMahon MP",
           "ons_code": "E14000871",
           "name": "Oldham West and Royton"
@@ -3399,7 +3399,7 @@
           "name": "Torridge and West Devon"
         },
         {
-          "signature_count": 6926,
+          "signature_count": 6927,
           "mp": "Dr Sarah Wollaston MP",
           "ons_code": "E14001001",
           "name": "Totnes"
@@ -3573,7 +3573,7 @@
           "name": "Wells"
         },
         {
-          "signature_count": 6994,
+          "signature_count": 6995,
           "mp": "Rt Hon Grant Shapps MP",
           "ons_code": "E14001027",
           "name": "Welwyn Hatfield"
@@ -3771,7 +3771,7 @@
           "name": "Wyre and Preston North"
         },
         {
-          "signature_count": 3752,
+          "signature_count": 3753,
           "mp": "Mark Garnier MP",
           "ons_code": "E14001058",
           "name": "Wyre Forest"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16838,
+          "signature_count": 16840,
           "code": "AU",
           "name": "Australia"
         },
@@ -4245,7 +4245,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 27461,
+          "signature_count": 27462,
           "code": "FR",
           "name": "France"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3897124,
+          "signature_count": 3897139,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T07:47:00.180Z",
+      "updated_at": "2016-06-30T07:48:01.014Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4058184,
+      "signature_count": 4058202,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
