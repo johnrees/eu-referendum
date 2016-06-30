@@ -405,7 +405,7 @@
           "name": "Beaconsfield"
         },
         {
-          "signature_count": 8162,
+          "signature_count": 8163,
           "mp": "Bob Stewart MP",
           "ons_code": "E14000551",
           "name": "Beckenham"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23301,
+          "signature_count": 23302,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -825,7 +825,7 @@
           "name": "Bury St Edmunds"
         },
         {
-          "signature_count": 3568,
+          "signature_count": 3569,
           "mp": "Wayne David MP",
           "ons_code": "W07000076",
           "name": "Caerphilly"
@@ -837,7 +837,7 @@
           "name": "Calder Valley"
         },
         {
-          "signature_count": 15033,
+          "signature_count": 15034,
           "mp": "Rt Hon Harriet Harman QC MP",
           "ons_code": "E14000615",
           "name": "Camberwell and Peckham"
@@ -867,13 +867,13 @@
           "name": "Canterbury"
         },
         {
-          "signature_count": 8324,
+          "signature_count": 8325,
           "mp": "Jo Stevens MP",
           "ons_code": "W07000050",
           "name": "Cardiff Central"
         },
         {
-          "signature_count": 7888,
+          "signature_count": 7889,
           "mp": "Craig Williams MP",
           "ons_code": "W07000051",
           "name": "Cardiff North"
@@ -987,7 +987,7 @@
           "name": "Chesterfield"
         },
         {
-          "signature_count": 8496,
+          "signature_count": 8497,
           "mp": "Rt Hon Andrew Tyrie MP",
           "ons_code": "E14000633",
           "name": "Chichester"
@@ -1389,7 +1389,7 @@
           "name": "Enfield, Southgate"
         },
         {
-          "signature_count": 5942,
+          "signature_count": 5943,
           "mp": "Mrs Eleanor Laing MP",
           "ons_code": "E14000693",
           "name": "Epping Forest"
@@ -1467,7 +1467,7 @@
           "name": "Folkestone and Hythe"
         },
         {
-          "signature_count": 4673,
+          "signature_count": 4674,
           "mp": "Rt Hon Mark Harper MP",
           "ons_code": "E14000705",
           "name": "Forest of Dean"
@@ -1605,7 +1605,7 @@
           "name": "Halton"
         },
         {
-          "signature_count": 16937,
+          "signature_count": 16938,
           "mp": "Andy Slaughter MP",
           "ons_code": "E14000726",
           "name": "Hammersmith"
@@ -1779,13 +1779,13 @@
           "name": "Houghton and Sunderland South"
         },
         {
-          "signature_count": 14970,
+          "signature_count": 14971,
           "mp": "Peter Kyle MP",
           "ons_code": "E14000755",
           "name": "Hove"
         },
         {
-          "signature_count": 4243,
+          "signature_count": 4244,
           "mp": "Mr Barry Sheerman MP",
           "ons_code": "E14000756",
           "name": "Huddersfield"
@@ -1917,7 +1917,7 @@
           "name": "Lagan Valley"
         },
         {
-          "signature_count": 5348,
+          "signature_count": 5349,
           "mp": "Cat Smith MP",
           "ons_code": "E14000776",
           "name": "Lancaster and Fleetwood"
@@ -2091,7 +2091,7 @@
           "name": "Maidenhead"
         },
         {
-          "signature_count": 5922,
+          "signature_count": 5923,
           "mp": "Mrs Helen Grant MP",
           "ons_code": "E14000804",
           "name": "Maidstone and The Weald"
@@ -3015,7 +3015,7 @@
           "name": "South Leicestershire"
         },
         {
-          "signature_count": 7158,
+          "signature_count": 7159,
           "mp": "Mr Richard Bacon MP",
           "ons_code": "E14000941",
           "name": "South Norfolk"
@@ -3615,7 +3615,7 @@
           "name": "West Lancashire"
         },
         {
-          "signature_count": 4706,
+          "signature_count": 4707,
           "mp": "Rt Hon Matthew Hancock MP",
           "ons_code": "E14001034",
           "name": "West Suffolk"
@@ -3795,7 +3795,7 @@
           "name": "Ynys Môn"
         },
         {
-          "signature_count": 9367,
+          "signature_count": 9368,
           "mp": "Rachael Maskell MP",
           "ons_code": "E14001061",
           "name": "York Central"
@@ -4245,7 +4245,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 27497,
+          "signature_count": 27499,
           "code": "FR",
           "name": "France"
         },
@@ -4795,7 +4795,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17196,
+          "signature_count": 17197,
           "code": "ES",
           "name": "Spain"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3899529,
+          "signature_count": 3899546,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T09:38:00.968Z",
+      "updated_at": "2016-06-30T09:39:00.641Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4060718,
+      "signature_count": 4060738,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
