@@ -645,7 +645,7 @@
           "name": "Bournemouth West"
         },
         {
-          "signature_count": 6964,
+          "signature_count": 6965,
           "mp": "Dr Phillip Lee MP",
           "ons_code": "E14000586",
           "name": "Bracknell"
@@ -687,7 +687,7 @@
           "name": "Brent Central"
         },
         {
-          "signature_count": 8174,
+          "signature_count": 8175,
           "mp": "Barry Gardiner MP",
           "ons_code": "E14000592",
           "name": "Brent North"
@@ -699,7 +699,7 @@
           "name": "Brentford and Isleworth"
         },
         {
-          "signature_count": 5481,
+          "signature_count": 5482,
           "mp": "Rt Hon Sir Eric Pickles MP",
           "ons_code": "E14000594",
           "name": "Brentwood and Ongar"
@@ -1455,7 +1455,7 @@
           "name": "Filton and Bradley Stoke"
         },
         {
-          "signature_count": 15964,
+          "signature_count": 15965,
           "mp": "Mike Freer MP",
           "ons_code": "E14000703",
           "name": "Finchley and Golders Green"
@@ -1827,7 +1827,7 @@
           "name": "Isle of Wight"
         },
         {
-          "signature_count": 20043,
+          "signature_count": 20044,
           "mp": "Rt Hon Jeremy Corbyn MP",
           "ons_code": "E14000763",
           "name": "Islington North"
@@ -1851,7 +1851,7 @@
           "name": "Jarrow"
         },
         {
-          "signature_count": 5231,
+          "signature_count": 5232,
           "mp": "Kris Hopkins MP",
           "ons_code": "E14000766",
           "name": "Keighley"
@@ -2355,7 +2355,7 @@
           "name": "North Cornwall"
         },
         {
-          "signature_count": 5170,
+          "signature_count": 5171,
           "mp": "Peter Heaton-Jones MP",
           "ons_code": "E14000838",
           "name": "North Devon"
@@ -2691,7 +2691,7 @@
           "name": "Reading East"
         },
         {
-          "signature_count": 7034,
+          "signature_count": 7035,
           "mp": "Alok Sharma MP",
           "ons_code": "E14000890",
           "name": "Reading West"
@@ -2763,7 +2763,7 @@
           "name": "Romford"
         },
         {
-          "signature_count": 7254,
+          "signature_count": 7255,
           "mp": "Caroline Nokes MP",
           "ons_code": "E14000901",
           "name": "Romsey and Southampton North"
@@ -2889,7 +2889,7 @@
           "name": "Sheffield, Brightside and Hillsborough"
         },
         {
-          "signature_count": 10525,
+          "signature_count": 10526,
           "mp": "Rt Hon Nick Clegg MP",
           "ons_code": "E14000922",
           "name": "Sheffield, Hallam"
@@ -3081,13 +3081,13 @@
           "name": "South West Hertfordshire"
         },
         {
-          "signature_count": 3518,
+          "signature_count": 3519,
           "mp": "Rt Hon Elizabeth Truss MP",
           "ons_code": "E14000952",
           "name": "South West Norfolk"
         },
         {
-          "signature_count": 11696,
+          "signature_count": 11697,
           "mp": "Rt Hon Jeremy Hunt MP",
           "ons_code": "E14000953",
           "name": "South West Surrey"
@@ -3261,7 +3261,7 @@
           "name": "Stroud"
         },
         {
-          "signature_count": 6876,
+          "signature_count": 6877,
           "mp": "Dr Thérèse Coffey MP",
           "ons_code": "E14000981",
           "name": "Suffolk Coastal"
@@ -3279,7 +3279,7 @@
           "name": "Surrey Heath"
         },
         {
-          "signature_count": 7478,
+          "signature_count": 7479,
           "mp": "Paul Scully MP",
           "ons_code": "E14000984",
           "name": "Sutton and Cheam"
@@ -3345,7 +3345,7 @@
           "name": "The Wrekin"
         },
         {
-          "signature_count": 5172,
+          "signature_count": 5173,
           "mp": "Kevin Hollinrake MP",
           "ons_code": "E14000993",
           "name": "Thirsk and Malton"
@@ -3507,7 +3507,7 @@
           "name": "Wantage"
         },
         {
-          "signature_count": 3474,
+          "signature_count": 3475,
           "mp": "Rt Hon John Spellar MP",
           "ons_code": "E14001016",
           "name": "Warley"
@@ -3657,7 +3657,7 @@
           "name": "Wigan"
         },
         {
-          "signature_count": 15169,
+          "signature_count": 15170,
           "mp": "Stephen Hammond MP",
           "ons_code": "E14001040",
           "name": "Wimbledon"
@@ -3675,13 +3675,13 @@
           "name": "Windsor"
         },
         {
-          "signature_count": 4854,
+          "signature_count": 4855,
           "mp": "Alison McGovern MP",
           "ons_code": "E14001043",
           "name": "Wirral South"
         },
         {
-          "signature_count": 5249,
+          "signature_count": 5250,
           "mp": "Margaret Greenwood MP",
           "ons_code": "E14001044",
           "name": "Wirral West"
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3909462,
+          "signature_count": 3909481,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T16:20:04.557Z",
+      "updated_at": "2016-06-30T16:20:55.920Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4071135,
+      "signature_count": 4071154,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
