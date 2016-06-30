@@ -741,13 +741,13 @@
           "name": "Bristol East"
         },
         {
-          "signature_count": 9951,
+          "signature_count": 9952,
           "mp": "Charlotte Leslie MP",
           "ons_code": "E14000600",
           "name": "Bristol North West"
         },
         {
-          "signature_count": 9513,
+          "signature_count": 9514,
           "mp": "Karin Smyth MP",
           "ons_code": "E14000601",
           "name": "Bristol South"
@@ -1251,7 +1251,7 @@
           "name": "Dudley South"
         },
         {
-          "signature_count": 18324,
+          "signature_count": 18325,
           "mp": "Helen Hayes MP",
           "ons_code": "E14000673",
           "name": "Dulwich and West Norwood"
@@ -1437,7 +1437,7 @@
           "name": "Faversham and Mid Kent"
         },
         {
-          "signature_count": 6434,
+          "signature_count": 6435,
           "mp": "Seema Malhotra MP",
           "ons_code": "E14000701",
           "name": "Feltham and Heston"
@@ -2301,7 +2301,7 @@
           "name": "Newcastle upon Tyne East"
         },
         {
-          "signature_count": 5126,
+          "signature_count": 5127,
           "mp": "Catherine McKinnell MP",
           "ons_code": "E14000833",
           "name": "Newcastle upon Tyne North"
@@ -2337,7 +2337,7 @@
           "name": "Newton Abbot"
         },
         {
-          "signature_count": 2496,
+          "signature_count": 2497,
           "mp": "Rt Hon Yvette Cooper MP",
           "ons_code": "E14000836",
           "name": "Normanton, Pontefract and Castleford"
@@ -2631,7 +2631,7 @@
           "name": "Pontypridd"
         },
         {
-          "signature_count": 5679,
+          "signature_count": 5680,
           "mp": "Mr Robert Syms MP",
           "ons_code": "E14000881",
           "name": "Poole"
@@ -3897,7 +3897,7 @@
           "name": "East Lothian"
         },
         {
-          "signature_count": 4446,
+          "signature_count": 4447,
           "mp": "Kirsten Oswald MP",
           "ons_code": "S14000021",
           "name": "East Renfrewshire"
@@ -4795,7 +4795,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17161,
+          "signature_count": 17162,
           "code": "ES",
           "name": "Spain"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3894180,
+          "signature_count": 3894188,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-29T23:59:03.507Z",
+      "updated_at": "2016-06-29T23:59:56.189Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4054955,
+      "signature_count": 4054965,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
