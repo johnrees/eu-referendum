@@ -141,7 +141,7 @@
           "name": "Linlithgow and East Falkirk"
         },
         {
-          "signature_count": 2952,
+          "signature_count": 2953,
           "mp": "Hannah Bardell MP",
           "ons_code": "S14000044",
           "name": "Livingston"
@@ -723,7 +723,7 @@
           "name": "Brigg and Goole"
         },
         {
-          "signature_count": 9915,
+          "signature_count": 9916,
           "mp": "Simon Kirby MP",
           "ons_code": "E14000597",
           "name": "Brighton, Kemptown"
@@ -807,7 +807,7 @@
           "name": "Burton"
         },
         {
-          "signature_count": 4215,
+          "signature_count": 4216,
           "mp": "Mr David Nuttall MP",
           "ons_code": "E14000611",
           "name": "Bury North"
@@ -873,7 +873,7 @@
           "name": "Cardiff Central"
         },
         {
-          "signature_count": 7924,
+          "signature_count": 7925,
           "mp": "Craig Williams MP",
           "ons_code": "W07000051",
           "name": "Cardiff North"
@@ -1065,7 +1065,7 @@
           "name": "Clwyd West"
         },
         {
-          "signature_count": 7044,
+          "signature_count": 7045,
           "mp": "Will Quince MP",
           "ons_code": "E14000644",
           "name": "Colchester"
@@ -1695,7 +1695,7 @@
           "name": "Hemsworth"
         },
         {
-          "signature_count": 10262,
+          "signature_count": 10263,
           "mp": "Dr Matthew Offord MP",
           "ons_code": "E14000741",
           "name": "Hendon"
@@ -2121,7 +2121,7 @@
           "name": "Manchester, Gorton"
         },
         {
-          "signature_count": 13530,
+          "signature_count": 13531,
           "mp": "Jeff Smith MP",
           "ons_code": "E14000809",
           "name": "Manchester, Withington"
@@ -2187,13 +2187,13 @@
           "name": "Mid Sussex"
         },
         {
-          "signature_count": 2730,
+          "signature_count": 2731,
           "mp": "Francie Molloy MP",
           "ons_code": "N06000010",
           "name": "Mid Ulster"
         },
         {
-          "signature_count": 4632,
+          "signature_count": 4633,
           "mp": "Nigel Huddleston MP",
           "ons_code": "E14000818",
           "name": "Mid Worcestershire"
@@ -2601,7 +2601,7 @@
           "name": "Penistone and Stocksbridge"
         },
         {
-          "signature_count": 4290,
+          "signature_count": 4291,
           "mp": "Rory Stewart MP",
           "ons_code": "E14000877",
           "name": "Penrith and The Border"
@@ -2673,7 +2673,7 @@
           "name": "Pudsey"
         },
         {
-          "signature_count": 14927,
+          "signature_count": 14928,
           "mp": "Rt Hon Justine Greening MP",
           "ons_code": "E14000887",
           "name": "Putney"
@@ -2871,7 +2871,7 @@
           "name": "Sevenoaks"
         },
         {
-          "signature_count": 10285,
+          "signature_count": 10286,
           "mp": "Paul Blomfield MP",
           "ons_code": "E14000919",
           "name": "Sheffield Central"
@@ -2925,7 +2925,7 @@
           "name": "Sittingbourne and Sheppey"
         },
         {
-          "signature_count": 6393,
+          "signature_count": 6394,
           "mp": "Julian Smith MP",
           "ons_code": "E14000928",
           "name": "Skipton and Ripon"
@@ -3015,7 +3015,7 @@
           "name": "South Leicestershire"
         },
         {
-          "signature_count": 7174,
+          "signature_count": 7175,
           "mp": "Mr Richard Bacon MP",
           "ons_code": "E14000941",
           "name": "South Norfolk"
@@ -3027,7 +3027,7 @@
           "name": "South Northamptonshire"
         },
         {
-          "signature_count": 4401,
+          "signature_count": 4402,
           "mp": "Seema Kennedy MP",
           "ons_code": "E14000943",
           "name": "South Ribble"
@@ -3399,13 +3399,13 @@
           "name": "Torridge and West Devon"
         },
         {
-          "signature_count": 6968,
+          "signature_count": 6969,
           "mp": "Dr Sarah Wollaston MP",
           "ons_code": "E14001001",
           "name": "Totnes"
         },
         {
-          "signature_count": 12367,
+          "signature_count": 12368,
           "mp": "Rt Hon David Lammy MP",
           "ons_code": "E14001002",
           "name": "Tottenham"
@@ -3681,7 +3681,7 @@
           "name": "Wirral South"
         },
         {
-          "signature_count": 5257,
+          "signature_count": 5258,
           "mp": "Margaret Greenwood MP",
           "ons_code": "E14001044",
           "name": "Wirral West"
@@ -3699,7 +3699,7 @@
           "name": "Witney"
         },
         {
-          "signature_count": 9650,
+          "signature_count": 9651,
           "mp": "Mr Jonathan Lord MP",
           "ons_code": "E14001047",
           "name": "Woking"
@@ -3873,7 +3873,7 @@
           "name": "Dunfermline and West Fife"
         },
         {
-          "signature_count": 4676,
+          "signature_count": 4677,
           "mp": "John Nicolson MP",
           "ons_code": "S14000018",
           "name": "East Dunbartonshire"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3915032,
+          "signature_count": 3915052,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T20:55:01.488Z",
+      "updated_at": "2016-06-30T20:56:02.768Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4076898,
+      "signature_count": 4076918,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
