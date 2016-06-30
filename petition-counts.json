@@ -237,7 +237,7 @@
           "name": "Rutherglen and Hamilton West"
         },
         {
-          "signature_count": 4501,
+          "signature_count": 4502,
           "mp": "Steven Paterson MP",
           "ons_code": "S14000057",
           "name": "Stirling"
@@ -369,7 +369,7 @@
           "name": "Basildon and Billericay"
         },
         {
-          "signature_count": 6793,
+          "signature_count": 6794,
           "mp": "Rt Hon Maria Miller MP",
           "ons_code": "E14000545",
           "name": "Basingstoke"
@@ -477,7 +477,7 @@
           "name": "Bexleyheath and Crayford"
         },
         {
-          "signature_count": 4109,
+          "signature_count": 4110,
           "mp": "Rt Hon Frank Field MP",
           "ons_code": "E14000559",
           "name": "Birkenhead"
@@ -747,13 +747,13 @@
           "name": "Bristol North West"
         },
         {
-          "signature_count": 9532,
+          "signature_count": 9533,
           "mp": "Karin Smyth MP",
           "ons_code": "E14000601",
           "name": "Bristol South"
         },
         {
-          "signature_count": 23310,
+          "signature_count": 23311,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -1065,7 +1065,7 @@
           "name": "Clwyd West"
         },
         {
-          "signature_count": 7008,
+          "signature_count": 7009,
           "mp": "Will Quince MP",
           "ons_code": "E14000644",
           "name": "Colchester"
@@ -1215,7 +1215,7 @@
           "name": "Dewsbury"
         },
         {
-          "signature_count": 2353,
+          "signature_count": 2354,
           "mp": "Rt Hon Caroline Flint MP",
           "ons_code": "E14000667",
           "name": "Don Valley"
@@ -1311,7 +1311,7 @@
           "name": "East Hampshire"
         },
         {
-          "signature_count": 3078,
+          "signature_count": 3079,
           "mp": "Mr Gregory Campbell MP",
           "ons_code": "N06000006",
           "name": "East Londonderry"
@@ -1437,7 +1437,7 @@
           "name": "Faversham and Mid Kent"
         },
         {
-          "signature_count": 6442,
+          "signature_count": 6443,
           "mp": "Seema Malhotra MP",
           "ons_code": "E14000701",
           "name": "Feltham and Heston"
@@ -1695,7 +1695,7 @@
           "name": "Hemsworth"
         },
         {
-          "signature_count": 10222,
+          "signature_count": 10223,
           "mp": "Dr Matthew Offord MP",
           "ons_code": "E14000741",
           "name": "Hendon"
@@ -2637,7 +2637,7 @@
           "name": "Poole"
         },
         {
-          "signature_count": 17299,
+          "signature_count": 17300,
           "mp": "Jim Fitzpatrick MP",
           "ons_code": "E14000882",
           "name": "Poplar and Limehouse"
@@ -2835,7 +2835,7 @@
           "name": "Salisbury"
         },
         {
-          "signature_count": 3596,
+          "signature_count": 3597,
           "mp": "Mr Robert Goodwill MP",
           "ons_code": "E14000913",
           "name": "Scarborough and Whitby"
@@ -2871,7 +2871,7 @@
           "name": "Sevenoaks"
         },
         {
-          "signature_count": 10231,
+          "signature_count": 10232,
           "mp": "Paul Blomfield MP",
           "ons_code": "E14000919",
           "name": "Sheffield Central"
@@ -3075,7 +3075,7 @@
           "name": "South West Devon"
         },
         {
-          "signature_count": 10611,
+          "signature_count": 10612,
           "mp": "Mr David Gauke MP",
           "ons_code": "E14000951",
           "name": "South West Hertfordshire"
@@ -3219,7 +3219,7 @@
           "name": "Stoke-on-Trent South"
         },
         {
-          "signature_count": 3970,
+          "signature_count": 3971,
           "mp": "Sir William Cash MP",
           "ons_code": "E14000975",
           "name": "Stone"
@@ -3267,7 +3267,7 @@
           "name": "Suffolk Coastal"
         },
         {
-          "signature_count": 3284,
+          "signature_count": 3285,
           "mp": "Julie Elliott MP",
           "ons_code": "E14000982",
           "name": "Sunderland Central"
@@ -3345,7 +3345,7 @@
           "name": "The Wrekin"
         },
         {
-          "signature_count": 5159,
+          "signature_count": 5160,
           "mp": "Kevin Hollinrake MP",
           "ons_code": "E14000993",
           "name": "Thirsk and Malton"
@@ -3459,7 +3459,7 @@
           "name": "Vale of Glamorgan"
         },
         {
-          "signature_count": 18141,
+          "signature_count": 18142,
           "mp": "Kate Hoey MP",
           "ons_code": "E14001008",
           "name": "Vauxhall"
@@ -4795,7 +4795,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17202,
+          "signature_count": 17203,
           "code": "ES",
           "name": "Spain"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3900334,
+          "signature_count": 3900353,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T10:15:00.259Z",
+      "updated_at": "2016-06-30T10:16:00.011Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4061562,
+      "signature_count": 4061582,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
