@@ -111,7 +111,7 @@
           "name": "Inverclyde"
         },
         {
-          "signature_count": 3310,
+          "signature_count": 3311,
           "mp": "Drew Hendry MP",
           "ons_code": "S14000039",
           "name": "Inverness, Nairn, Badenoch and Strathspey"
@@ -369,7 +369,7 @@
           "name": "Basildon and Billericay"
         },
         {
-          "signature_count": 6791,
+          "signature_count": 6792,
           "mp": "Rt Hon Maria Miller MP",
           "ons_code": "E14000545",
           "name": "Basingstoke"
@@ -405,7 +405,7 @@
           "name": "Beaconsfield"
         },
         {
-          "signature_count": 8166,
+          "signature_count": 8167,
           "mp": "Bob Stewart MP",
           "ons_code": "E14000551",
           "name": "Beckenham"
@@ -1161,7 +1161,7 @@
           "name": "Darlington"
         },
         {
-          "signature_count": 4320,
+          "signature_count": 4321,
           "mp": "Gareth Johnson MP",
           "ons_code": "E14000659",
           "name": "Dartford"
@@ -1185,7 +1185,7 @@
           "name": "Denton and Reddish"
         },
         {
-          "signature_count": 5234,
+          "signature_count": 5235,
           "mp": "Amanda Solloway MP",
           "ons_code": "E14000662",
           "name": "Derby North"
@@ -1569,7 +1569,7 @@
           "name": "Guildford"
         },
         {
-          "signature_count": 20589,
+          "signature_count": 20590,
           "mp": "Ms Diane Abbott MP",
           "ons_code": "E14000720",
           "name": "Hackney North and Stoke Newington"
@@ -1701,7 +1701,7 @@
           "name": "Hendon"
         },
         {
-          "signature_count": 10815,
+          "signature_count": 10816,
           "mp": "John Howell MP",
           "ons_code": "E14000742",
           "name": "Henley"
@@ -1731,7 +1731,7 @@
           "name": "Hexham"
         },
         {
-          "signature_count": 3439,
+          "signature_count": 3440,
           "mp": "Liz McInnes MP",
           "ons_code": "E14000747",
           "name": "Heywood and Middleton"
@@ -1923,7 +1923,7 @@
           "name": "Lancaster and Fleetwood"
         },
         {
-          "signature_count": 6917,
+          "signature_count": 6918,
           "mp": "Rt Hon Hilary Benn MP",
           "ons_code": "E14000777",
           "name": "Leeds Central"
@@ -2673,13 +2673,13 @@
           "name": "Pudsey"
         },
         {
-          "signature_count": 14878,
+          "signature_count": 14879,
           "mp": "Rt Hon Justine Greening MP",
           "ons_code": "E14000887",
           "name": "Putney"
         },
         {
-          "signature_count": 3513,
+          "signature_count": 3514,
           "mp": "Rt Hon Mark Francois MP",
           "ons_code": "E14000888",
           "name": "Rayleigh and Wickford"
@@ -3051,7 +3051,7 @@
           "name": "South Suffolk"
         },
         {
-          "signature_count": 6008,
+          "signature_count": 6009,
           "mp": "Robert Buckland MP",
           "ons_code": "E14000947",
           "name": "South Swindon"
@@ -3105,7 +3105,7 @@
           "name": "Southampton, Itchen"
         },
         {
-          "signature_count": 6751,
+          "signature_count": 6752,
           "mp": "Dr Alan Whitehead MP",
           "ons_code": "E14000956",
           "name": "Southampton, Test"
@@ -3135,7 +3135,7 @@
           "name": "St Albans"
         },
         {
-          "signature_count": 4410,
+          "signature_count": 4411,
           "mp": "Steve Double MP",
           "ons_code": "E14000961",
           "name": "St Austell and Newquay"
@@ -3243,7 +3243,7 @@
           "name": "Stratford-on-Avon"
         },
         {
-          "signature_count": 17767,
+          "signature_count": 17768,
           "mp": "Mr Chuka Umunna MP",
           "ons_code": "E14000978",
           "name": "Streatham"
@@ -3279,7 +3279,7 @@
           "name": "Surrey Heath"
         },
         {
-          "signature_count": 7463,
+          "signature_count": 7464,
           "mp": "Paul Scully MP",
           "ons_code": "E14000984",
           "name": "Sutton and Cheam"
@@ -3747,7 +3747,7 @@
           "name": "Worsley and Eccles South"
         },
         {
-          "signature_count": 6113,
+          "signature_count": 6114,
           "mp": "Sir Peter Bottomley MP",
           "ons_code": "E14001055",
           "name": "Worthing West"
@@ -3891,7 +3891,7 @@
           "name": "Ayr, Carrick and Cumnock"
         },
         {
-          "signature_count": 4634,
+          "signature_count": 4635,
           "mp": "George Kerevan MP",
           "ons_code": "S14000020",
           "name": "East Lothian"
@@ -3990,7 +3990,7 @@
           "name": "Belarus"
         },
         {
-          "signature_count": 3386,
+          "signature_count": 3387,
           "code": "BE",
           "name": "Belgium"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3900192,
+          "signature_count": 3900210,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T10:09:05.394Z",
+      "updated_at": "2016-06-30T10:10:05.386Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4061412,
+      "signature_count": 4061431,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
