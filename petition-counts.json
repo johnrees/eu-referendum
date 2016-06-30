@@ -729,7 +729,7 @@
           "name": "Brighton, Kemptown"
         },
         {
-          "signature_count": 19186,
+          "signature_count": 19187,
           "mp": "Caroline Lucas MP",
           "ons_code": "E14000598",
           "name": "Brighton, Pavilion"
@@ -1233,7 +1233,7 @@
           "name": "Doncaster North"
         },
         {
-          "signature_count": 4003,
+          "signature_count": 4004,
           "mp": "Charlie Elphicke MP",
           "ons_code": "E14000670",
           "name": "Dover"
@@ -1335,7 +1335,7 @@
           "name": "East Yorkshire"
         },
         {
-          "signature_count": 5892,
+          "signature_count": 5893,
           "mp": "Caroline Ansell MP",
           "ons_code": "E14000684",
           "name": "Eastbourne"
@@ -1749,7 +1749,7 @@
           "name": "Hitchin and Harpenden"
         },
         {
-          "signature_count": 21573,
+          "signature_count": 21574,
           "mp": "Keir Starmer MP",
           "ons_code": "E14000750",
           "name": "Holborn and St Pancras"
@@ -1827,7 +1827,7 @@
           "name": "Isle of Wight"
         },
         {
-          "signature_count": 20008,
+          "signature_count": 20009,
           "mp": "Rt Hon Jeremy Corbyn MP",
           "ons_code": "E14000763",
           "name": "Islington North"
@@ -2085,7 +2085,7 @@
           "name": "Macclesfield"
         },
         {
-          "signature_count": 10154,
+          "signature_count": 10155,
           "mp": "Rt Hon Theresa May MP",
           "ons_code": "E14000803",
           "name": "Maidenhead"
@@ -2301,7 +2301,7 @@
           "name": "Newcastle upon Tyne East"
         },
         {
-          "signature_count": 5139,
+          "signature_count": 5140,
           "mp": "Catherine McKinnell MP",
           "ons_code": "E14000833",
           "name": "Newcastle upon Tyne North"
@@ -2853,7 +2853,7 @@
           "name": "Sedgefield"
         },
         {
-          "signature_count": 5890,
+          "signature_count": 5891,
           "mp": "Bill Esterson MP",
           "ons_code": "E14000916",
           "name": "Sefton Central"
@@ -3129,7 +3129,7 @@
           "name": "Spelthorne"
         },
         {
-          "signature_count": 12421,
+          "signature_count": 12422,
           "mp": "Mrs Anne Main MP",
           "ons_code": "E14000960",
           "name": "St Albans"
@@ -3261,7 +3261,7 @@
           "name": "Stroud"
         },
         {
-          "signature_count": 6856,
+          "signature_count": 6857,
           "mp": "Dr Thérèse Coffey MP",
           "ons_code": "E14000981",
           "name": "Suffolk Coastal"
@@ -3405,13 +3405,13 @@
           "name": "Totnes"
         },
         {
-          "signature_count": 12326,
+          "signature_count": 12328,
           "mp": "Rt Hon David Lammy MP",
           "ons_code": "E14001002",
           "name": "Tottenham"
         },
         {
-          "signature_count": 8192,
+          "signature_count": 8193,
           "mp": "Sarah Newton MP",
           "ons_code": "E14001003",
           "name": "Truro and Falmouth"
@@ -3453,7 +3453,7 @@
           "name": "Vale of Clwyd"
         },
         {
-          "signature_count": 5572,
+          "signature_count": 5574,
           "mp": "Rt Hon Alun Cairns MP",
           "ons_code": "W07000078",
           "name": "Vale of Glamorgan"
@@ -3663,7 +3663,7 @@
           "name": "Wimbledon"
         },
         {
-          "signature_count": 11442,
+          "signature_count": 11443,
           "mp": "Steve Brine MP",
           "ons_code": "E14001041",
           "name": "Winchester"
@@ -3693,7 +3693,7 @@
           "name": "Witham"
         },
         {
-          "signature_count": 10113,
+          "signature_count": 10114,
           "mp": "Rt Hon David Cameron MP",
           "ons_code": "E14001046",
           "name": "Witney"
@@ -3897,7 +3897,7 @@
           "name": "East Lothian"
         },
         {
-          "signature_count": 4453,
+          "signature_count": 4454,
           "mp": "Kirsten Oswald MP",
           "ons_code": "S14000021",
           "name": "East Renfrewshire"
@@ -4855,7 +4855,7 @@
           "name": "Sweden"
         },
         {
-          "signature_count": 3422,
+          "signature_count": 3423,
           "code": "CH",
           "name": "Switzerland"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3900962,
+          "signature_count": 3900981,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T10:44:06.050Z",
+      "updated_at": "2016-06-30T10:45:00.359Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4062227,
+      "signature_count": 4062247,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
