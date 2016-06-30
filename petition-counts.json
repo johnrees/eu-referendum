@@ -303,7 +303,7 @@
           "name": "Arfon"
         },
         {
-          "signature_count": 8687,
+          "signature_count": 8688,
           "mp": "Rt Hon Nick Herbert MP",
           "ons_code": "E14000534",
           "name": "Arundel and South Downs"
@@ -339,7 +339,7 @@
           "name": "Banbury"
         },
         {
-          "signature_count": 5415,
+          "signature_count": 5416,
           "mp": "Rt Hon Dame  Margaret Hodge MP",
           "ons_code": "E14000540",
           "name": "Barking"
@@ -405,7 +405,7 @@
           "name": "Beaconsfield"
         },
         {
-          "signature_count": 8186,
+          "signature_count": 8187,
           "mp": "Bob Stewart MP",
           "ons_code": "E14000551",
           "name": "Beckenham"
@@ -429,7 +429,7 @@
           "name": "Belfast North"
         },
         {
-          "signature_count": 8640,
+          "signature_count": 8641,
           "mp": "Dr Alasdair McDonnell MP",
           "ons_code": "N06000003",
           "name": "Belfast South"
@@ -867,7 +867,7 @@
           "name": "Canterbury"
         },
         {
-          "signature_count": 8339,
+          "signature_count": 8340,
           "mp": "Jo Stevens MP",
           "ons_code": "W07000050",
           "name": "Cardiff Central"
@@ -897,7 +897,7 @@
           "name": "Carlisle"
         },
         {
-          "signature_count": 3374,
+          "signature_count": 3375,
           "mp": "Jonathan Edwards MP",
           "ons_code": "W07000067",
           "name": "Carmarthen East and Dinefwr"
@@ -987,7 +987,7 @@
           "name": "Chesterfield"
         },
         {
-          "signature_count": 8515,
+          "signature_count": 8516,
           "mp": "Rt Hon Andrew Tyrie MP",
           "ons_code": "E14000633",
           "name": "Chichester"
@@ -1143,7 +1143,7 @@
           "name": "Croydon South"
         },
         {
-          "signature_count": 2187,
+          "signature_count": 2188,
           "mp": "Rt Hon Ann Clwyd MP",
           "ons_code": "W07000070",
           "name": "Cynon Valley"
@@ -1413,7 +1413,7 @@
           "name": "Erith and Thamesmead"
         },
         {
-          "signature_count": 12625,
+          "signature_count": 12626,
           "mp": "Dominic Raab MP",
           "ons_code": "E14000697",
           "name": "Esher and Walton"
@@ -1515,7 +1515,7 @@
           "name": "Gillingham and Rainham"
         },
         {
-          "signature_count": 5017,
+          "signature_count": 5018,
           "mp": "Richard Graham MP",
           "ons_code": "E14000712",
           "name": "Gloucester"
@@ -1659,7 +1659,7 @@
           "name": "Harwich and North Essex"
         },
         {
-          "signature_count": 6496,
+          "signature_count": 6497,
           "mp": "Rt Hon Amber Rudd MP",
           "ons_code": "E14000735",
           "name": "Hastings and Rye"
@@ -1863,7 +1863,7 @@
           "name": "Kenilworth and Southam"
         },
         {
-          "signature_count": 18109,
+          "signature_count": 18110,
           "mp": "Victoria Borwick MP",
           "ons_code": "E14000768",
           "name": "Kensington"
@@ -2151,7 +2151,7 @@
           "name": "Meriden"
         },
         {
-          "signature_count": 2145,
+          "signature_count": 2146,
           "mp": "Gerald Jones MP",
           "ons_code": "W07000071",
           "name": "Merthyr Tydfil and Rhymney"
@@ -2295,7 +2295,7 @@
           "name": "Newcastle upon Tyne Central"
         },
         {
-          "signature_count": 7152,
+          "signature_count": 7153,
           "mp": "Rt Hon Nicholas Brown MP",
           "ons_code": "E14000832",
           "name": "Newcastle upon Tyne East"
@@ -2853,7 +2853,7 @@
           "name": "Sedgefield"
         },
         {
-          "signature_count": 5899,
+          "signature_count": 5900,
           "mp": "Bill Esterson MP",
           "ons_code": "E14000916",
           "name": "Sefton Central"
@@ -2877,7 +2877,7 @@
           "name": "Sheffield Central"
         },
         {
-          "signature_count": 2858,
+          "signature_count": 2859,
           "mp": "Mr Clive Betts MP",
           "ons_code": "E14000920",
           "name": "Sheffield South East"
@@ -3249,7 +3249,7 @@
           "name": "Streatham"
         },
         {
-          "signature_count": 6896,
+          "signature_count": 6897,
           "mp": "Kate Green MP",
           "ons_code": "E14000979",
           "name": "Stretford and Urmston"
@@ -3657,7 +3657,7 @@
           "name": "Wigan"
         },
         {
-          "signature_count": 15166,
+          "signature_count": 15167,
           "mp": "Stephen Hammond MP",
           "ons_code": "E14001040",
           "name": "Wimbledon"
@@ -4955,12 +4955,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3908188,
+          "signature_count": 3908208,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16631,
+          "signature_count": 16632,
           "code": "US",
           "name": "United States"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T15:21:46.971Z",
+      "updated_at": "2016-06-30T15:23:05.069Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4069786,
+      "signature_count": 4069809,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
