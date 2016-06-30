@@ -261,7 +261,7 @@
           "name": "Aberavon"
         },
         {
-          "signature_count": 3195,
+          "signature_count": 3196,
           "mp": "Guto Bebb MP",
           "ons_code": "W07000058",
           "name": "Aberconwy"
@@ -1893,7 +1893,7 @@
           "name": "Kingston upon Hull North"
         },
         {
-          "signature_count": 2460,
+          "signature_count": 2461,
           "mp": "Rt Hon Alan Johnson MP",
           "ons_code": "E14000773",
           "name": "Kingston upon Hull West and Hessle"
@@ -2169,7 +2169,7 @@
           "name": "Mid Derbyshire"
         },
         {
-          "signature_count": 5130,
+          "signature_count": 5131,
           "mp": "Michael Tomlinson MP",
           "ons_code": "E14000815",
           "name": "Mid Dorset and North Poole"
@@ -2235,7 +2235,7 @@
           "name": "Mole Valley"
         },
         {
-          "signature_count": 5951,
+          "signature_count": 5952,
           "mp": "David T. C. Davies MP",
           "ons_code": "W07000054",
           "name": "Monmouth"
@@ -2301,7 +2301,7 @@
           "name": "Newcastle upon Tyne East"
         },
         {
-          "signature_count": 5171,
+          "signature_count": 5172,
           "mp": "Catherine McKinnell MP",
           "ons_code": "E14000833",
           "name": "Newcastle upon Tyne North"
@@ -2385,7 +2385,7 @@
           "name": "North East Bedfordshire"
         },
         {
-          "signature_count": 3518,
+          "signature_count": 3519,
           "mp": "Stephen Barclay MP",
           "ons_code": "E14000842",
           "name": "North East Cambridgeshire"
@@ -2433,7 +2433,7 @@
           "name": "North Shropshire"
         },
         {
-          "signature_count": 8966,
+          "signature_count": 8967,
           "mp": "Rt Hon Dr Liam Fox MP",
           "ons_code": "E14000850",
           "name": "North Somerset"
@@ -2691,7 +2691,7 @@
           "name": "Reading East"
         },
         {
-          "signature_count": 7047,
+          "signature_count": 7048,
           "mp": "Alok Sharma MP",
           "ons_code": "E14000890",
           "name": "Reading West"
@@ -2949,7 +2949,7 @@
           "name": "Solihull"
         },
         {
-          "signature_count": 8140,
+          "signature_count": 8141,
           "mp": "David Warburton MP",
           "ons_code": "E14000932",
           "name": "Somerton and Frome"
@@ -3243,7 +3243,7 @@
           "name": "Stratford-on-Avon"
         },
         {
-          "signature_count": 17845,
+          "signature_count": 17846,
           "mp": "Mr Chuka Umunna MP",
           "ons_code": "E14000978",
           "name": "Streatham"
@@ -3555,7 +3555,7 @@
           "name": "Wealden"
         },
         {
-          "signature_count": 5113,
+          "signature_count": 5114,
           "mp": "Graham Evans MP",
           "ons_code": "E14001024",
           "name": "Weaver Vale"
@@ -4270,7 +4270,7 @@
           "name": "Georgia"
         },
         {
-          "signature_count": 10973,
+          "signature_count": 10974,
           "code": "DE",
           "name": "Germany"
         },
@@ -4365,7 +4365,7 @@
           "name": "Iraq"
         },
         {
-          "signature_count": 4469,
+          "signature_count": 4470,
           "code": "IE",
           "name": "Ireland"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3916863,
+          "signature_count": 3916875,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T22:36:05.000Z",
+      "updated_at": "2016-06-30T22:37:02.093Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4078816,
+      "signature_count": 4078830,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
