@@ -831,7 +831,7 @@
           "name": "Caerphilly"
         },
         {
-          "signature_count": 6387,
+          "signature_count": 6388,
           "mp": "Craig Whittaker MP",
           "ons_code": "E14000614",
           "name": "Calder Valley"
@@ -1095,7 +1095,7 @@
           "name": "Corby"
         },
         {
-          "signature_count": 4146,
+          "signature_count": 4147,
           "mp": "Colleen Fletcher MP",
           "ons_code": "E14000649",
           "name": "Coventry North East"
@@ -1239,7 +1239,7 @@
           "name": "Dover"
         },
         {
-          "signature_count": 1948,
+          "signature_count": 1949,
           "mp": "Ian Austin MP",
           "ons_code": "E14000671",
           "name": "Dudley North"
@@ -1299,7 +1299,7 @@
           "name": "East Devon"
         },
         {
-          "signature_count": 8579,
+          "signature_count": 8580,
           "mp": "Rt Hon Stephen Timms MP",
           "ons_code": "E14000679",
           "name": "East Ham"
@@ -1575,7 +1575,7 @@
           "name": "Hackney North and Stoke Newington"
         },
         {
-          "signature_count": 19451,
+          "signature_count": 19452,
           "mp": "Meg Hillier MP",
           "ons_code": "E14000721",
           "name": "Hackney South and Shoreditch"
@@ -2037,7 +2037,7 @@
           "name": "Liverpool, Wavertree"
         },
         {
-          "signature_count": 4005,
+          "signature_count": 4006,
           "mp": "Stephen Twigg MP",
           "ons_code": "E14000796",
           "name": "Liverpool, West Derby"
@@ -2115,7 +2115,7 @@
           "name": "Manchester Central"
         },
         {
-          "signature_count": 8255,
+          "signature_count": 8256,
           "mp": "Rt Hon Sir Gerald Kaufman MP",
           "ons_code": "E14000808",
           "name": "Manchester, Gorton"
@@ -2817,7 +2817,7 @@
           "name": "Rutland and Melton"
         },
         {
-          "signature_count": 8116,
+          "signature_count": 8117,
           "mp": "Rt Hon Sir Alan Haselhurst MP",
           "ons_code": "E14000910",
           "name": "Saffron Walden"
@@ -2829,7 +2829,7 @@
           "name": "Salford and Eccles"
         },
         {
-          "signature_count": 7096,
+          "signature_count": 7097,
           "mp": "John Glen MP",
           "ons_code": "E14000912",
           "name": "Salisbury"
@@ -3621,7 +3621,7 @@
           "name": "West Suffolk"
         },
         {
-          "signature_count": 2924,
+          "signature_count": 2925,
           "mp": "Mr Pat Doherty MP",
           "ons_code": "N06000018",
           "name": "West Tyrone"
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3894420,
+          "signature_count": 3894430,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T00:43:55.453Z",
+      "updated_at": "2016-06-30T00:44:45.850Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4055218,
+      "signature_count": 4055228,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
