@@ -69,7 +69,7 @@
           "name": "Glasgow North East"
         },
         {
-          "signature_count": 3675,
+          "signature_count": 3676,
           "mp": "Carol Monaghan MP",
           "ons_code": "S14000033",
           "name": "Glasgow North West"
@@ -687,7 +687,7 @@
           "name": "Brent Central"
         },
         {
-          "signature_count": 8139,
+          "signature_count": 8140,
           "mp": "Barry Gardiner MP",
           "ons_code": "E14000592",
           "name": "Brent North"
@@ -2847,7 +2847,7 @@
           "name": "Scunthorpe"
         },
         {
-          "signature_count": 2540,
+          "signature_count": 2541,
           "mp": "Phil Wilson MP",
           "ons_code": "E14000915",
           "name": "Sedgefield"
@@ -3255,7 +3255,7 @@
           "name": "Stretford and Urmston"
         },
         {
-          "signature_count": 9425,
+          "signature_count": 9426,
           "mp": "Neil Carmichael MP",
           "ons_code": "E14000980",
           "name": "Stroud"
@@ -3405,7 +3405,7 @@
           "name": "Totnes"
         },
         {
-          "signature_count": 12297,
+          "signature_count": 12298,
           "mp": "Rt Hon David Lammy MP",
           "ons_code": "E14001002",
           "name": "Tottenham"
@@ -3447,7 +3447,7 @@
           "name": "Uxbridge and South Ruislip"
         },
         {
-          "signature_count": 2774,
+          "signature_count": 2775,
           "mp": "Dr James Davies MP",
           "ons_code": "W07000060",
           "name": "Vale of Clwyd"
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3894234,
+          "signature_count": 3894240,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T00:06:47.875Z",
+      "updated_at": "2016-06-30T00:07:58.360Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4055016,
+      "signature_count": 4055022,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
