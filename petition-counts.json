@@ -51,7 +51,7 @@
           "name": "Glasgow Central"
         },
         {
-          "signature_count": 1244,
+          "signature_count": 1245,
           "mp": "Natalie McGarry MP",
           "ons_code": "S14000030",
           "name": "Glasgow East"
@@ -381,7 +381,7 @@
           "name": "Bassetlaw"
         },
         {
-          "signature_count": 12320,
+          "signature_count": 12321,
           "mp": "Ben Howlett MP",
           "ons_code": "E14000547",
           "name": "Bath"
@@ -885,7 +885,7 @@
           "name": "Cardiff South and Penarth"
         },
         {
-          "signature_count": 7859,
+          "signature_count": 7860,
           "mp": "Kevin Brennan MP",
           "ons_code": "W07000079",
           "name": "Cardiff West"
@@ -963,7 +963,7 @@
           "name": "Chelmsford"
         },
         {
-          "signature_count": 16642,
+          "signature_count": 16643,
           "mp": "Rt Hon Greg Hands MP",
           "ons_code": "E14000629",
           "name": "Chelsea and Fulham"
@@ -1497,7 +1497,7 @@
           "name": "Garston and Halewood"
         },
         {
-          "signature_count": 3924,
+          "signature_count": 3925,
           "mp": "Ian Mearns MP",
           "ons_code": "E14000709",
           "name": "Gateshead"
@@ -1791,7 +1791,7 @@
           "name": "Huddersfield"
         },
         {
-          "signature_count": 7374,
+          "signature_count": 7375,
           "mp": "Mr Jonathan Djanogly MP",
           "ons_code": "E14000757",
           "name": "Huntingdon"
@@ -1863,7 +1863,7 @@
           "name": "Kenilworth and Southam"
         },
         {
-          "signature_count": 18048,
+          "signature_count": 18049,
           "mp": "Victoria Borwick MP",
           "ons_code": "E14000768",
           "name": "Kensington"
@@ -2181,7 +2181,7 @@
           "name": "Mid Norfolk"
         },
         {
-          "signature_count": 9389,
+          "signature_count": 9390,
           "mp": "Rt Hon Sir Nicholas Soames MP",
           "ons_code": "E14000817",
           "name": "Mid Sussex"
@@ -2379,7 +2379,7 @@
           "name": "North Durham"
         },
         {
-          "signature_count": 6953,
+          "signature_count": 6954,
           "mp": "Rt Hon Alistair Burt MP",
           "ons_code": "E14000841",
           "name": "North East Bedfordshire"
@@ -2643,7 +2643,7 @@
           "name": "Poplar and Limehouse"
         },
         {
-          "signature_count": 3877,
+          "signature_count": 3878,
           "mp": "Penny Mordaunt MP",
           "ons_code": "E14000883",
           "name": "Portsmouth North"
@@ -2733,7 +2733,7 @@
           "name": "Richmond (Yorks)"
         },
         {
-          "signature_count": 20224,
+          "signature_count": 20225,
           "mp": "Zac Goldsmith MP",
           "ons_code": "E14000896",
           "name": "Richmond Park"
@@ -2817,7 +2817,7 @@
           "name": "Rutland and Melton"
         },
         {
-          "signature_count": 8118,
+          "signature_count": 8119,
           "mp": "Rt Hon Sir Alan Haselhurst MP",
           "ons_code": "E14000910",
           "name": "Saffron Walden"
@@ -3225,7 +3225,7 @@
           "name": "Stone"
         },
         {
-          "signature_count": 3454,
+          "signature_count": 3455,
           "mp": "Margot James MP",
           "ons_code": "E14000976",
           "name": "Stourbridge"
@@ -3567,7 +3567,7 @@
           "name": "Wellingborough"
         },
         {
-          "signature_count": 6687,
+          "signature_count": 6688,
           "mp": "James Heappey MP",
           "ons_code": "E14001026",
           "name": "Wells"
@@ -3603,7 +3603,7 @@
           "name": "West Dorset"
         },
         {
-          "signature_count": 12183,
+          "signature_count": 12184,
           "mp": "Lyn Brown MP",
           "ons_code": "E14001032",
           "name": "West Ham"
@@ -3681,7 +3681,7 @@
           "name": "Wirral South"
         },
         {
-          "signature_count": 5233,
+          "signature_count": 5234,
           "mp": "Margaret Greenwood MP",
           "ons_code": "E14001044",
           "name": "Wirral West"
@@ -3741,7 +3741,7 @@
           "name": "Workington"
         },
         {
-          "signature_count": 3898,
+          "signature_count": 3899,
           "mp": "Barbara Keeley MP",
           "ons_code": "E14001054",
           "name": "Worsley and Eccles South"
@@ -3825,7 +3825,7 @@
           "name": "Central Ayrshire"
         },
         {
-          "signature_count": 3241,
+          "signature_count": 3242,
           "mp": "Brendan O'Hara MP",
           "ons_code": "S14000005",
           "name": "Argyll and Bute"
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3895890,
+          "signature_count": 3895908,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T06:37:01.230Z",
+      "updated_at": "2016-06-30T06:38:03.048Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4056871,
+      "signature_count": 4056889,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
