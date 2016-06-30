@@ -441,7 +441,7 @@
           "name": "Belfast West"
         },
         {
-          "signature_count": 17461,
+          "signature_count": 17462,
           "mp": "Neil Coyle MP",
           "ons_code": "E14000553",
           "name": "Bermondsey and Old Southwark"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23298,
+          "signature_count": 23299,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -1269,7 +1269,7 @@
           "name": "Ealing Central and Acton"
         },
         {
-          "signature_count": 8447,
+          "signature_count": 8448,
           "mp": "Stephen Pound MP",
           "ons_code": "E14000675",
           "name": "Ealing North"
@@ -1479,7 +1479,7 @@
           "name": "Foyle"
         },
         {
-          "signature_count": 3838,
+          "signature_count": 3839,
           "mp": "Mark Menzies MP",
           "ons_code": "E14000706",
           "name": "Fylde"
@@ -1497,7 +1497,7 @@
           "name": "Garston and Halewood"
         },
         {
-          "signature_count": 3926,
+          "signature_count": 3927,
           "mp": "Ian Mearns MP",
           "ons_code": "E14000709",
           "name": "Gateshead"
@@ -1545,7 +1545,7 @@
           "name": "Gravesham"
         },
         {
-          "signature_count": 1821,
+          "signature_count": 1822,
           "mp": "Melanie Onn MP",
           "ons_code": "E14000716",
           "name": "Great Grimsby"
@@ -1995,7 +1995,7 @@
           "name": "Lewisham West and Penge"
         },
         {
-          "signature_count": 16236,
+          "signature_count": 16237,
           "mp": "Vicky Foxcroft MP",
           "ons_code": "E14000789",
           "name": "Lewisham, Deptford"
@@ -2043,7 +2043,7 @@
           "name": "Liverpool, West Derby"
         },
         {
-          "signature_count": 2753,
+          "signature_count": 2754,
           "mp": "Nia Griffith MP",
           "ons_code": "W07000045",
           "name": "Llanelli"
@@ -2379,13 +2379,13 @@
           "name": "North Durham"
         },
         {
-          "signature_count": 6962,
+          "signature_count": 6963,
           "mp": "Rt Hon Alistair Burt MP",
           "ons_code": "E14000841",
           "name": "North East Bedfordshire"
         },
         {
-          "signature_count": 3507,
+          "signature_count": 3508,
           "mp": "Stephen Barclay MP",
           "ons_code": "E14000842",
           "name": "North East Cambridgeshire"
@@ -2517,7 +2517,7 @@
           "name": "Norwich North"
         },
         {
-          "signature_count": 9881,
+          "signature_count": 9882,
           "mp": "Clive Lewis MP",
           "ons_code": "E14000864",
           "name": "Norwich South"
@@ -2745,7 +2745,7 @@
           "name": "Rochdale"
         },
         {
-          "signature_count": 4476,
+          "signature_count": 4477,
           "mp": "Kelly Tolhurst MP",
           "ons_code": "E14000898",
           "name": "Rochester and Strood"
@@ -2967,7 +2967,7 @@
           "name": "South Basildon and East Thurrock"
         },
         {
-          "signature_count": 13615,
+          "signature_count": 13616,
           "mp": "Heidi Allen MP",
           "ons_code": "E14000934",
           "name": "South Cambridgeshire"
@@ -3105,7 +3105,7 @@
           "name": "Southampton, Itchen"
         },
         {
-          "signature_count": 6749,
+          "signature_count": 6750,
           "mp": "Dr Alan Whitehead MP",
           "ons_code": "E14000956",
           "name": "Southampton, Test"
@@ -3405,7 +3405,7 @@
           "name": "Totnes"
         },
         {
-          "signature_count": 12319,
+          "signature_count": 12320,
           "mp": "Rt Hon David Lammy MP",
           "ons_code": "E14001002",
           "name": "Tottenham"
@@ -3459,7 +3459,7 @@
           "name": "Vale of Glamorgan"
         },
         {
-          "signature_count": 18127,
+          "signature_count": 18128,
           "mp": "Kate Hoey MP",
           "ons_code": "E14001008",
           "name": "Vauxhall"
@@ -4270,7 +4270,7 @@
           "name": "Georgia"
         },
         {
-          "signature_count": 10902,
+          "signature_count": 10903,
           "code": "DE",
           "name": "Germany"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3898867,
+          "signature_count": 3898884,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T09:06:00.078Z",
+      "updated_at": "2016-06-30T09:07:00.964Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4060015,
+      "signature_count": 4060033,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
