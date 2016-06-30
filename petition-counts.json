@@ -363,7 +363,7 @@
           "name": "Barrow and Furness"
         },
         {
-          "signature_count": 3585,
+          "signature_count": 3586,
           "mp": "Mr John Baron MP",
           "ons_code": "E14000544",
           "name": "Basildon and Billericay"
@@ -423,7 +423,7 @@
           "name": "Belfast East"
         },
         {
-          "signature_count": 3937,
+          "signature_count": 3938,
           "mp": "Rt Hon Nigel Dodds MP",
           "ons_code": "N06000002",
           "name": "Belfast North"
@@ -711,7 +711,7 @@
           "name": "Bridgend"
         },
         {
-          "signature_count": 4488,
+          "signature_count": 4489,
           "mp": "Mr Ian Liddell-Grainger MP",
           "ons_code": "E14000595",
           "name": "Bridgwater and West Somerset"
@@ -753,13 +753,13 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23447,
+          "signature_count": 23448,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
         },
         {
-          "signature_count": 5583,
+          "signature_count": 5584,
           "mp": "Rt Hon Keith Simpson MP",
           "ons_code": "E14000603",
           "name": "Broadland"
@@ -831,7 +831,7 @@
           "name": "Caerphilly"
         },
         {
-          "signature_count": 6425,
+          "signature_count": 6426,
           "mp": "Craig Whittaker MP",
           "ons_code": "E14000614",
           "name": "Calder Valley"
@@ -1335,7 +1335,7 @@
           "name": "East Yorkshire"
         },
         {
-          "signature_count": 5913,
+          "signature_count": 5914,
           "mp": "Caroline Ansell MP",
           "ons_code": "E14000684",
           "name": "Eastbourne"
@@ -1557,7 +1557,7 @@
           "name": "Great Yarmouth"
         },
         {
-          "signature_count": 12455,
+          "signature_count": 12456,
           "mp": "Matthew Pennycook MP",
           "ons_code": "E14000718",
           "name": "Greenwich and Woolwich"
@@ -2085,7 +2085,7 @@
           "name": "Macclesfield"
         },
         {
-          "signature_count": 10197,
+          "signature_count": 10198,
           "mp": "Rt Hon Theresa May MP",
           "ons_code": "E14000803",
           "name": "Maidenhead"
@@ -2139,7 +2139,7 @@
           "name": "Airdrie and Shotts"
         },
         {
-          "signature_count": 6235,
+          "signature_count": 6236,
           "mp": "George Hollingbery MP",
           "ons_code": "E14000811",
           "name": "Meon Valley"
@@ -2301,7 +2301,7 @@
           "name": "Newcastle upon Tyne East"
         },
         {
-          "signature_count": 5170,
+          "signature_count": 5171,
           "mp": "Catherine McKinnell MP",
           "ons_code": "E14000833",
           "name": "Newcastle upon Tyne North"
@@ -2949,7 +2949,7 @@
           "name": "Solihull"
         },
         {
-          "signature_count": 8138,
+          "signature_count": 8139,
           "mp": "David Warburton MP",
           "ons_code": "E14000932",
           "name": "Somerton and Frome"
@@ -2991,7 +2991,7 @@
           "name": "South Down"
         },
         {
-          "signature_count": 11001,
+          "signature_count": 11002,
           "mp": "Lucy Frazer MP",
           "ons_code": "E14000937",
           "name": "South East Cambridgeshire"
@@ -3015,7 +3015,7 @@
           "name": "South Leicestershire"
         },
         {
-          "signature_count": 7180,
+          "signature_count": 7181,
           "mp": "Mr Richard Bacon MP",
           "ons_code": "E14000941",
           "name": "South Norfolk"
@@ -3039,7 +3039,7 @@
           "name": "South Shields"
         },
         {
-          "signature_count": 3038,
+          "signature_count": 3039,
           "mp": "Rt Hon Gavin Williamson MP",
           "ons_code": "E14000945",
           "name": "South Staffordshire"
@@ -3123,7 +3123,7 @@
           "name": "Southport"
         },
         {
-          "signature_count": 5578,
+          "signature_count": 5579,
           "mp": "Kwasi Kwarteng MP",
           "ons_code": "E14000959",
           "name": "Spelthorne"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16881,
+          "signature_count": 16882,
           "code": "AU",
           "name": "Australia"
         },
@@ -4245,7 +4245,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 27671,
+          "signature_count": 27672,
           "code": "FR",
           "name": "France"
         },
@@ -4960,12 +4960,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3916602,
+          "signature_count": 3916618,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16690,
+          "signature_count": 16691,
           "code": "US",
           "name": "United States"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T22:15:56.542Z",
+      "updated_at": "2016-06-30T22:16:57.215Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4078542,
+      "signature_count": 4078561,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
