@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6797,
+          "signature_count": 6798,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -1065,7 +1065,7 @@
           "name": "Clwyd West"
         },
         {
-          "signature_count": 6999,
+          "signature_count": 7000,
           "mp": "Will Quince MP",
           "ons_code": "E14000644",
           "name": "Colchester"
@@ -1203,7 +1203,7 @@
           "name": "Derbyshire Dales"
         },
         {
-          "signature_count": 6094,
+          "signature_count": 6095,
           "mp": "Claire Perry MP",
           "ons_code": "E14000665",
           "name": "Devizes"
@@ -1449,7 +1449,7 @@
           "name": "Fermanagh and South Tyrone"
         },
         {
-          "signature_count": 6730,
+          "signature_count": 6731,
           "mp": "Jack Lopresti MP",
           "ons_code": "E14000702",
           "name": "Filton and Bradley Stoke"
@@ -1491,7 +1491,7 @@
           "name": "Gainsborough"
         },
         {
-          "signature_count": 5866,
+          "signature_count": 5867,
           "mp": "Maria Eagle MP",
           "ons_code": "E14000708",
           "name": "Garston and Halewood"
@@ -1833,7 +1833,7 @@
           "name": "Islington North"
         },
         {
-          "signature_count": 18015,
+          "signature_count": 18016,
           "mp": "Emily Thornberry MP",
           "ons_code": "E14000764",
           "name": "Islington South and Finsbury"
@@ -1995,7 +1995,7 @@
           "name": "Lewisham West and Penge"
         },
         {
-          "signature_count": 16221,
+          "signature_count": 16222,
           "mp": "Vicky Foxcroft MP",
           "ons_code": "E14000789",
           "name": "Lewisham, Deptford"
@@ -2121,7 +2121,7 @@
           "name": "Manchester, Gorton"
         },
         {
-          "signature_count": 13470,
+          "signature_count": 13471,
           "mp": "Jeff Smith MP",
           "ons_code": "E14000809",
           "name": "Manchester, Withington"
@@ -2517,7 +2517,7 @@
           "name": "Norwich North"
         },
         {
-          "signature_count": 9872,
+          "signature_count": 9873,
           "mp": "Clive Lewis MP",
           "ons_code": "E14000864",
           "name": "Norwich South"
@@ -2787,7 +2787,7 @@
           "name": "Rotherham"
         },
         {
-          "signature_count": 4884,
+          "signature_count": 4885,
           "mp": "Mark Pawsey MP",
           "ons_code": "E14000905",
           "name": "Rugby"
@@ -2949,7 +2949,7 @@
           "name": "Solihull"
         },
         {
-          "signature_count": 8085,
+          "signature_count": 8086,
           "mp": "David Warburton MP",
           "ons_code": "E14000932",
           "name": "Somerton and Frome"
@@ -3243,7 +3243,7 @@
           "name": "Stratford-on-Avon"
         },
         {
-          "signature_count": 17745,
+          "signature_count": 17746,
           "mp": "Mr Chuka Umunna MP",
           "ons_code": "E14000978",
           "name": "Streatham"
@@ -3990,7 +3990,7 @@
           "name": "Belarus"
         },
         {
-          "signature_count": 3377,
+          "signature_count": 3378,
           "code": "BE",
           "name": "Belgium"
         },
@@ -4955,7 +4955,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3895762,
+          "signature_count": 3895772,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5025,9 +5025,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-06-30T06:27:02.397Z",
+      "updated_at": "2016-06-30T06:28:04.056Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4056733,
+      "signature_count": 4056744,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
