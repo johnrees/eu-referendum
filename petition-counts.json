@@ -141,7 +141,7 @@
           "name": "Linlithgow and East Falkirk"
         },
         {
-          "signature_count": 2955,
+          "signature_count": 2956,
           "mp": "Hannah Bardell MP",
           "ons_code": "S14000044",
           "name": "Livingston"
@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 19028,
+          "signature_count": 19029,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -495,7 +495,7 @@
           "name": "Birmingham, Erdington"
         },
         {
-          "signature_count": 9192,
+          "signature_count": 9193,
           "mp": "Mr Roger Godsiff MP",
           "ons_code": "E14000562",
           "name": "Birmingham, Hall Green"
@@ -741,7 +741,7 @@
           "name": "Bristol East"
         },
         {
-          "signature_count": 10046,
+          "signature_count": 10047,
           "mp": "Charlotte Leslie MP",
           "ons_code": "E14000600",
           "name": "Bristol North West"
@@ -1833,7 +1833,7 @@
           "name": "Islington North"
         },
         {
-          "signature_count": 18122,
+          "signature_count": 18123,
           "mp": "Emily Thornberry MP",
           "ons_code": "E14000764",
           "name": "Islington South and Finsbury"
@@ -1863,13 +1863,13 @@
           "name": "Kenilworth and Southam"
         },
         {
-          "signature_count": 18143,
+          "signature_count": 18144,
           "mp": "Victoria Borwick MP",
           "ons_code": "E14000768",
           "name": "Kensington"
         },
         {
-          "signature_count": 4032,
+          "signature_count": 4033,
           "mp": "Mr Philip Hollobone MP",
           "ons_code": "E14000769",
           "name": "Kettering"
@@ -1959,7 +1959,7 @@
           "name": "Leicester East"
         },
         {
-          "signature_count": 7591,
+          "signature_count": 7592,
           "mp": "Jonathan Ashworth MP",
           "ons_code": "E14000783",
           "name": "Leicester South"
@@ -2637,7 +2637,7 @@
           "name": "Poole"
         },
         {
-          "signature_count": 17395,
+          "signature_count": 17396,
           "mp": "Jim Fitzpatrick MP",
           "ons_code": "E14000882",
           "name": "Poplar and Limehouse"
@@ -3057,7 +3057,7 @@
           "name": "South Swindon"
         },
         {
-          "signature_count": 4921,
+          "signature_count": 4922,
           "mp": "Craig Mackinlay MP",
           "ons_code": "E14000948",
           "name": "South Thanet"
@@ -3261,13 +3261,13 @@
           "name": "Stroud"
         },
         {
-          "signature_count": 6911,
+          "signature_count": 6912,
           "mp": "Dr Thérèse Coffey MP",
           "ons_code": "E14000981",
           "name": "Suffolk Coastal"
         },
         {
-          "signature_count": 3306,
+          "signature_count": 3307,
           "mp": "Julie Elliott MP",
           "ons_code": "E14000982",
           "name": "Sunderland Central"
@@ -3369,7 +3369,7 @@
           "name": "Tiverton and Honiton"
         },
         {
-          "signature_count": 7670,
+          "signature_count": 7671,
           "mp": "Tom Tugendhat MP",
           "ons_code": "E14000997",
           "name": "Tonbridge and Malling"
@@ -3645,7 +3645,7 @@
           "name": "Westmorland and Lonsdale"
         },
         {
-          "signature_count": 5332,
+          "signature_count": 5333,
           "mp": "John Penrose MP",
           "ons_code": "E14001038",
           "name": "Weston-super-Mare"
@@ -3843,7 +3843,7 @@
           "name": "Cumbernauld, Kilsyth and Kirkintilloch East"
         },
         {
-          "signature_count": 2338,
+          "signature_count": 2339,
           "mp": "Richard Arkless MP",
           "ons_code": "S14000013",
           "name": "Dumfries and Galloway"
@@ -4960,12 +4960,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3923237,
+          "signature_count": 3923253,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16718,
+          "signature_count": 16719,
           "code": "US",
           "name": "United States"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T13:15:55.001Z",
+      "updated_at": "2016-07-01T13:16:56.290Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4085609,
+      "signature_count": 4085626,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
