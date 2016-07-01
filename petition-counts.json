@@ -75,7 +75,7 @@
           "name": "Glasgow North West"
         },
         {
-          "signature_count": 4235,
+          "signature_count": 4236,
           "mp": "Stewart Malcolm McDonald MP",
           "ons_code": "S14000034",
           "name": "Glasgow South"
@@ -615,7 +615,7 @@
           "name": "Bolton West"
         },
         {
-          "signature_count": 4745,
+          "signature_count": 4746,
           "mp": "Peter Dowd MP",
           "ons_code": "E14000581",
           "name": "Bootle"
@@ -693,7 +693,7 @@
           "name": "Brent North"
         },
         {
-          "signature_count": 14803,
+          "signature_count": 14804,
           "mp": "Ruth Cadbury MP",
           "ons_code": "E14000593",
           "name": "Brentford and Isleworth"
@@ -1047,7 +1047,7 @@
           "name": "Clacton"
         },
         {
-          "signature_count": 2381,
+          "signature_count": 2382,
           "mp": "Martin Vickers MP",
           "ons_code": "E14000643",
           "name": "Cleethorpes"
@@ -1263,7 +1263,7 @@
           "name": "Dwyfor Meirionnydd"
         },
         {
-          "signature_count": 17239,
+          "signature_count": 17240,
           "mp": "Dr Rupa Huq MP",
           "ons_code": "E14000674",
           "name": "Ealing Central and Acton"
@@ -2295,7 +2295,7 @@
           "name": "Newcastle upon Tyne Central"
         },
         {
-          "signature_count": 7181,
+          "signature_count": 7182,
           "mp": "Rt Hon Nicholas Brown MP",
           "ons_code": "E14000832",
           "name": "Newcastle upon Tyne East"
@@ -2577,7 +2577,7 @@
           "name": "Orpington"
         },
         {
-          "signature_count": 15046,
+          "signature_count": 15047,
           "mp": "Rt Hon Andrew Smith MP",
           "ons_code": "E14000873",
           "name": "Oxford East"
@@ -3177,7 +3177,7 @@
           "name": "Stalybridge and Hyde"
         },
         {
-          "signature_count": 4803,
+          "signature_count": 4804,
           "mp": "Stephen McPartland MP",
           "ons_code": "E14000968",
           "name": "Stevenage"
@@ -3405,7 +3405,7 @@
           "name": "Totnes"
         },
         {
-          "signature_count": 12388,
+          "signature_count": 12389,
           "mp": "Rt Hon David Lammy MP",
           "ons_code": "E14001002",
           "name": "Tottenham"
@@ -3807,7 +3807,7 @@
           "name": "York Outer"
         },
         {
-          "signature_count": 1383,
+          "signature_count": 1384,
           "mp": "Dr Paul Monaghan MP",
           "ons_code": "S14000009",
           "name": "Caithness, Sutherland and Easter Ross"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3921245,
+          "signature_count": 3921255,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T10:30:01.680Z",
+      "updated_at": "2016-07-01T10:31:02.854Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4083516,
+      "signature_count": 4083526,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
