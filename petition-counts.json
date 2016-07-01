@@ -489,7 +489,7 @@
           "name": "Birmingham, Edgbaston"
         },
         {
-          "signature_count": 3022,
+          "signature_count": 3023,
           "mp": "Jack Dromey MP",
           "ons_code": "E14000561",
           "name": "Birmingham, Erdington"
@@ -1155,7 +1155,7 @@
           "name": "Dagenham and Rainham"
         },
         {
-          "signature_count": 3487,
+          "signature_count": 3488,
           "mp": "Jenny Chapman MP",
           "ons_code": "E14000658",
           "name": "Darlington"
@@ -1221,7 +1221,7 @@
           "name": "Don Valley"
         },
         {
-          "signature_count": 2729,
+          "signature_count": 2730,
           "mp": "Rt Hon Dame  Rosie Winterton MP",
           "ons_code": "E14000668",
           "name": "Doncaster Central"
@@ -1941,7 +1941,7 @@
           "name": "Leeds North East"
         },
         {
-          "signature_count": 7589,
+          "signature_count": 7590,
           "mp": "Greg Mulholland MP",
           "ons_code": "E14000780",
           "name": "Leeds North West"
@@ -2469,7 +2469,7 @@
           "name": "North West Cambridgeshire"
         },
         {
-          "signature_count": 3448,
+          "signature_count": 3449,
           "mp": "Pat Glass MP",
           "ons_code": "E14000856",
           "name": "North West Durham"
@@ -2499,7 +2499,7 @@
           "name": "North Wiltshire"
         },
         {
-          "signature_count": 3611,
+          "signature_count": 3612,
           "mp": "Michael Ellis MP",
           "ons_code": "E14000861",
           "name": "Northampton North"
@@ -2781,7 +2781,7 @@
           "name": "Rother Valley"
         },
         {
-          "signature_count": 2114,
+          "signature_count": 2115,
           "mp": "Sarah Champion MP",
           "ons_code": "E14000904",
           "name": "Rotherham"
@@ -3075,7 +3075,7 @@
           "name": "South West Devon"
         },
         {
-          "signature_count": 10674,
+          "signature_count": 10675,
           "mp": "Mr David Gauke MP",
           "ons_code": "E14000951",
           "name": "South West Hertfordshire"
@@ -3237,7 +3237,7 @@
           "name": "Strangford"
         },
         {
-          "signature_count": 7110,
+          "signature_count": 7111,
           "mp": "Nadhim Zahawi MP",
           "ons_code": "E14000977",
           "name": "Stratford-on-Avon"
@@ -3423,7 +3423,7 @@
           "name": "Tunbridge Wells"
         },
         {
-          "signature_count": 17450,
+          "signature_count": 17451,
           "mp": "Dr Tania Mathias MP",
           "ons_code": "E14001005",
           "name": "Twickenham"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3924057,
+          "signature_count": 3924068,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T14:30:03.737Z",
+      "updated_at": "2016-07-01T14:30:54.745Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4086475,
+      "signature_count": 4086487,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
