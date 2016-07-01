@@ -339,7 +339,7 @@
           "name": "Banbury"
         },
         {
-          "signature_count": 5432,
+          "signature_count": 5433,
           "mp": "Rt Hon Dame Margaret Hodge MP",
           "ons_code": "E14000540",
           "name": "Barking"
@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 19011,
+          "signature_count": 19012,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -783,7 +783,7 @@
           "name": "Broxbourne"
         },
         {
-          "signature_count": 6459,
+          "signature_count": 6460,
           "mp": "Rt Hon Anna Soubry MP",
           "ons_code": "E14000607",
           "name": "Broxtowe"
@@ -921,7 +921,7 @@
           "name": "Castle Point"
         },
         {
-          "signature_count": 7615,
+          "signature_count": 7616,
           "mp": "Mel Stride MP",
           "ons_code": "E14000623",
           "name": "Central Devon"
@@ -1389,7 +1389,7 @@
           "name": "Enfield, Southgate"
         },
         {
-          "signature_count": 5976,
+          "signature_count": 5977,
           "mp": "Mrs Eleanor Laing MP",
           "ons_code": "E14000693",
           "name": "Epping Forest"
@@ -1599,7 +1599,7 @@
           "name": "Haltemprice and Howden"
         },
         {
-          "signature_count": 3435,
+          "signature_count": 3436,
           "mp": "Derek Twigg MP",
           "ons_code": "E14000725",
           "name": "Halton"
@@ -1959,7 +1959,7 @@
           "name": "Leicester East"
         },
         {
-          "signature_count": 7584,
+          "signature_count": 7585,
           "mp": "Jonathan Ashworth MP",
           "ons_code": "E14000783",
           "name": "Leicester South"
@@ -2817,7 +2817,7 @@
           "name": "Rutland and Melton"
         },
         {
-          "signature_count": 8194,
+          "signature_count": 8195,
           "mp": "Rt Hon Sir Alan Haselhurst MP",
           "ons_code": "E14000910",
           "name": "Saffron Walden"
@@ -3093,7 +3093,7 @@
           "name": "South West Surrey"
         },
         {
-          "signature_count": 5745,
+          "signature_count": 5746,
           "mp": "Dr Andrew Murrison MP",
           "ons_code": "E14000954",
           "name": "South West Wiltshire"
@@ -3495,7 +3495,7 @@
           "name": "Walthamstow"
         },
         {
-          "signature_count": 2936,
+          "signature_count": 2937,
           "mp": "Ian Lavery MP",
           "ons_code": "E14001014",
           "name": "Wansbeck"
@@ -3699,7 +3699,7 @@
           "name": "Witney"
         },
         {
-          "signature_count": 9659,
+          "signature_count": 9660,
           "mp": "Mr Jonathan Lord MP",
           "ons_code": "E14001047",
           "name": "Woking"
@@ -3783,7 +3783,7 @@
           "name": "Wythenshawe and Sale East"
         },
         {
-          "signature_count": 4832,
+          "signature_count": 4833,
           "mp": "Marcus Fysh MP",
           "ons_code": "E14001060",
           "name": "Yeovil"
@@ -3795,7 +3795,7 @@
           "name": "Ynys Môn"
         },
         {
-          "signature_count": 9412,
+          "signature_count": 9413,
           "mp": "Rachael Maskell MP",
           "ons_code": "E14001061",
           "name": "York Central"
@@ -4285,7 +4285,7 @@
           "name": "Gibraltar"
         },
         {
-          "signature_count": 1012,
+          "signature_count": 1013,
           "code": "GR",
           "name": "Greece"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3920631,
+          "signature_count": 3920647,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T09:44:58.420Z",
+      "updated_at": "2016-07-01T09:45:59.216Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4082875,
+      "signature_count": 4082894,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
