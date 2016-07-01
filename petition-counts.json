@@ -429,7 +429,7 @@
           "name": "Belfast North"
         },
         {
-          "signature_count": 8674,
+          "signature_count": 8675,
           "mp": "Dr Alasdair McDonnell MP",
           "ons_code": "N06000003",
           "name": "Belfast South"
@@ -711,7 +711,7 @@
           "name": "Bridgend"
         },
         {
-          "signature_count": 4497,
+          "signature_count": 4498,
           "mp": "Mr Ian Liddell-Grainger MP",
           "ons_code": "E14000595",
           "name": "Bridgwater and West Somerset"
@@ -951,7 +951,7 @@
           "name": "Chatham and Aylesford"
         },
         {
-          "signature_count": 8239,
+          "signature_count": 8240,
           "mp": "Mary Robinson MP",
           "ons_code": "E14000627",
           "name": "Cheadle"
@@ -1485,7 +1485,7 @@
           "name": "Fylde"
         },
         {
-          "signature_count": 3656,
+          "signature_count": 3657,
           "mp": "Sir Edward Leigh MP",
           "ons_code": "E14000707",
           "name": "Gainsborough"
@@ -2583,7 +2583,7 @@
           "name": "Oxford East"
         },
         {
-          "signature_count": 14879,
+          "signature_count": 14880,
           "mp": "Nicola Blackwood MP",
           "ons_code": "E14000874",
           "name": "Oxford West and Abingdon"
@@ -2709,7 +2709,7 @@
           "name": "Redditch"
         },
         {
-          "signature_count": 8904,
+          "signature_count": 8905,
           "mp": "Crispin Blunt MP",
           "ons_code": "E14000893",
           "name": "Reigate"
@@ -3183,7 +3183,7 @@
           "name": "Stevenage"
         },
         {
-          "signature_count": 6110,
+          "signature_count": 6111,
           "mp": "Ann Coffey MP",
           "ons_code": "E14000969",
           "name": "Stockport"
@@ -3375,7 +3375,7 @@
           "name": "Tonbridge and Malling"
         },
         {
-          "signature_count": 17331,
+          "signature_count": 17332,
           "mp": "Dr Rosena Allin-Khan MP",
           "ons_code": "E14000998",
           "name": "Tooting"
@@ -3795,7 +3795,7 @@
           "name": "Ynys Môn"
         },
         {
-          "signature_count": 9420,
+          "signature_count": 9421,
           "mp": "Rachael Maskell MP",
           "ons_code": "E14001061",
           "name": "York Central"
@@ -4450,7 +4450,7 @@
           "name": "Latvia"
         },
         {
-          "signature_count": 91,
+          "signature_count": 93,
           "code": "LB",
           "name": "Lebanon"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3922443,
+          "signature_count": 3922452,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T12:08:03.366Z",
+      "updated_at": "2016-07-01T12:09:00.346Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4084778,
+      "signature_count": 4084789,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
