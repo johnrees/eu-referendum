@@ -351,7 +351,7 @@
           "name": "Barnsley Central"
         },
         {
-          "signature_count": 1668,
+          "signature_count": 1669,
           "mp": "Michael Dugher MP",
           "ons_code": "E14000542",
           "name": "Barnsley East"
@@ -513,7 +513,7 @@
           "name": "Birmingham, Ladywood"
         },
         {
-          "signature_count": 3695,
+          "signature_count": 3696,
           "mp": "Richard Burden MP",
           "ons_code": "E14000565",
           "name": "Birmingham, Northfield"
@@ -789,7 +789,7 @@
           "name": "Broxtowe"
         },
         {
-          "signature_count": 9161,
+          "signature_count": 9162,
           "mp": "Rt Hon John Bercow MP",
           "ons_code": "E14000608",
           "name": "Buckingham"
@@ -2079,7 +2079,7 @@
           "name": "Luton South"
         },
         {
-          "signature_count": 7529,
+          "signature_count": 7530,
           "mp": "David Rutley MP",
           "ons_code": "E14000802",
           "name": "Macclesfield"
@@ -2379,7 +2379,7 @@
           "name": "North Durham"
         },
         {
-          "signature_count": 6998,
+          "signature_count": 6999,
           "mp": "Rt Hon Alistair Burt MP",
           "ons_code": "E14000841",
           "name": "North East Bedfordshire"
@@ -2433,7 +2433,7 @@
           "name": "North Shropshire"
         },
         {
-          "signature_count": 8970,
+          "signature_count": 8971,
           "mp": "Rt Hon Dr Liam Fox MP",
           "ons_code": "E14000850",
           "name": "North Somerset"
@@ -2889,7 +2889,7 @@
           "name": "Sheffield, Brightside and Hillsborough"
         },
         {
-          "signature_count": 10552,
+          "signature_count": 10553,
           "mp": "Rt Hon Nick Clegg MP",
           "ons_code": "E14000922",
           "name": "Sheffield, Hallam"
@@ -3135,7 +3135,7 @@
           "name": "St Albans"
         },
         {
-          "signature_count": 4433,
+          "signature_count": 4434,
           "mp": "Steve Double MP",
           "ons_code": "E14000961",
           "name": "St Austell and Newquay"
@@ -3177,7 +3177,7 @@
           "name": "Stalybridge and Hyde"
         },
         {
-          "signature_count": 4795,
+          "signature_count": 4796,
           "mp": "Stephen McPartland MP",
           "ons_code": "E14000968",
           "name": "Stevenage"
@@ -3627,7 +3627,7 @@
           "name": "West Tyrone"
         },
         {
-          "signature_count": 6598,
+          "signature_count": 6599,
           "mp": "Harriett Baldwin MP",
           "ons_code": "E14001035",
           "name": "West Worcestershire"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3918237,
+          "signature_count": 3918247,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T05:58:00.477Z",
+      "updated_at": "2016-07-01T05:59:00.964Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4080322,
+      "signature_count": 4080331,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
