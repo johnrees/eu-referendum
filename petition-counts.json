@@ -339,7 +339,7 @@
           "name": "Banbury"
         },
         {
-          "signature_count": 5438,
+          "signature_count": 5439,
           "mp": "Rt Hon Dame Margaret Hodge MP",
           "ons_code": "E14000540",
           "name": "Barking"
@@ -489,7 +489,7 @@
           "name": "Birmingham, Edgbaston"
         },
         {
-          "signature_count": 3026,
+          "signature_count": 3027,
           "mp": "Jack Dromey MP",
           "ons_code": "E14000561",
           "name": "Birmingham, Erdington"
@@ -837,7 +837,7 @@
           "name": "Calder Valley"
         },
         {
-          "signature_count": 15133,
+          "signature_count": 15134,
           "mp": "Rt Hon Harriet Harman QC MP",
           "ons_code": "E14000615",
           "name": "Camberwell and Peckham"
@@ -849,7 +849,7 @@
           "name": "Camborne and Redruth"
         },
         {
-          "signature_count": 17496,
+          "signature_count": 17497,
           "mp": "Daniel Zeichner MP",
           "ons_code": "E14000617",
           "name": "Cambridge"
@@ -963,13 +963,13 @@
           "name": "Chelmsford"
         },
         {
-          "signature_count": 16770,
+          "signature_count": 16771,
           "mp": "Rt Hon Greg Hands MP",
           "ons_code": "E14000629",
           "name": "Chelsea and Fulham"
         },
         {
-          "signature_count": 9616,
+          "signature_count": 9617,
           "mp": "Alex Chalk MP",
           "ons_code": "E14000630",
           "name": "Cheltenham"
@@ -1395,7 +1395,7 @@
           "name": "Epping Forest"
         },
         {
-          "signature_count": 9361,
+          "signature_count": 9362,
           "mp": "Rt Hon Chris Grayling MP",
           "ons_code": "E14000694",
           "name": "Epsom and Ewell"
@@ -1605,7 +1605,7 @@
           "name": "Halton"
         },
         {
-          "signature_count": 17019,
+          "signature_count": 17020,
           "mp": "Andy Slaughter MP",
           "ons_code": "E14000726",
           "name": "Hammersmith"
@@ -1845,7 +1845,7 @@
           "name": "Islwyn"
         },
         {
-          "signature_count": 2849,
+          "signature_count": 2850,
           "mp": "Mr Stephen Hepburn MP",
           "ons_code": "E14000765",
           "name": "Jarrow"
@@ -2031,7 +2031,7 @@
           "name": "Liverpool, Walton"
         },
         {
-          "signature_count": 6588,
+          "signature_count": 6589,
           "mp": "Luciana Berger MP",
           "ons_code": "E14000795",
           "name": "Liverpool, Wavertree"
@@ -2073,7 +2073,7 @@
           "name": "Luton North"
         },
         {
-          "signature_count": 4572,
+          "signature_count": 4573,
           "mp": "Mr Gavin Shuker MP",
           "ons_code": "E14000801",
           "name": "Luton South"
@@ -2085,7 +2085,7 @@
           "name": "Macclesfield"
         },
         {
-          "signature_count": 10227,
+          "signature_count": 10228,
           "mp": "Rt Hon Theresa May MP",
           "ons_code": "E14000803",
           "name": "Maidenhead"
@@ -2295,7 +2295,7 @@
           "name": "Newcastle upon Tyne Central"
         },
         {
-          "signature_count": 7185,
+          "signature_count": 7186,
           "mp": "Rt Hon Nicholas Brown MP",
           "ons_code": "E14000832",
           "name": "Newcastle upon Tyne East"
@@ -2631,7 +2631,7 @@
           "name": "Pontypridd"
         },
         {
-          "signature_count": 5722,
+          "signature_count": 5723,
           "mp": "Mr Robert Syms MP",
           "ons_code": "E14000881",
           "name": "Poole"
@@ -2661,7 +2661,7 @@
           "name": "Preseli Pembrokeshire"
         },
         {
-          "signature_count": 3858,
+          "signature_count": 3859,
           "mp": "Mr Mark Hendrick MP",
           "ons_code": "E14000885",
           "name": "Preston"
@@ -2907,7 +2907,7 @@
           "name": "Sherwood"
         },
         {
-          "signature_count": 6010,
+          "signature_count": 6011,
           "mp": "Philip Davies MP",
           "ons_code": "E14000925",
           "name": "Shipley"
@@ -3567,7 +3567,7 @@
           "name": "Wellingborough"
         },
         {
-          "signature_count": 6759,
+          "signature_count": 6760,
           "mp": "James Heappey MP",
           "ons_code": "E14001026",
           "name": "Wells"
@@ -3819,7 +3819,7 @@
           "name": "Angus"
         },
         {
-          "signature_count": 1885,
+          "signature_count": 1886,
           "mp": "Dr Philippa Whitford MP",
           "ons_code": "S14000010",
           "name": "Central Ayrshire"
@@ -4800,7 +4800,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17371,
+          "signature_count": 17372,
           "code": "ES",
           "name": "Spain"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3925000,
+          "signature_count": 3925018,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T15:58:02.513Z",
+      "updated_at": "2016-07-01T15:58:55.378Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4087465,
+      "signature_count": 4087484,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
