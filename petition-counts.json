@@ -27,7 +27,7 @@
           "name": "Edinburgh South West"
         },
         {
-          "signature_count": 6016,
+          "signature_count": 6017,
           "mp": "Michelle Thomson MP",
           "ons_code": "S14000026",
           "name": "Edinburgh West"
@@ -453,7 +453,7 @@
           "name": "Berwick-upon-Tweed"
         },
         {
-          "signature_count": 18768,
+          "signature_count": 18769,
           "mp": "Rushanara Ali MP",
           "ons_code": "E14000555",
           "name": "Bethnal Green and Bow"
@@ -849,7 +849,7 @@
           "name": "Camborne and Redruth"
         },
         {
-          "signature_count": 17481,
+          "signature_count": 17482,
           "mp": "Daniel Zeichner MP",
           "ons_code": "E14000617",
           "name": "Cambridge"
@@ -1113,7 +1113,7 @@
           "name": "Coventry South"
         },
         {
-          "signature_count": 5215,
+          "signature_count": 5216,
           "mp": "Henry Smith MP",
           "ons_code": "E14000652",
           "name": "Crawley"
@@ -1287,7 +1287,7 @@
           "name": "Easington"
         },
         {
-          "signature_count": 3050,
+          "signature_count": 3051,
           "mp": "Sammy Wilson MP",
           "ons_code": "N06000005",
           "name": "East Antrim"
@@ -1527,7 +1527,7 @@
           "name": "Gosport"
         },
         {
-          "signature_count": 4941,
+          "signature_count": 4942,
           "mp": "Byron Davies MP",
           "ons_code": "W07000046",
           "name": "Gower"
@@ -1749,7 +1749,7 @@
           "name": "Hitchin and Harpenden"
         },
         {
-          "signature_count": 21673,
+          "signature_count": 21674,
           "mp": "Keir Starmer MP",
           "ons_code": "E14000750",
           "name": "Holborn and St Pancras"
@@ -2859,7 +2859,7 @@
           "name": "Sefton Central"
         },
         {
-          "signature_count": 5155,
+          "signature_count": 5156,
           "mp": "Nigel Adams MP",
           "ons_code": "E14000917",
           "name": "Selby and Ainsty"
@@ -4800,7 +4800,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17340,
+          "signature_count": 17341,
           "code": "ES",
           "name": "Spain"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3920051,
+          "signature_count": 3920060,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T09:01:03.864Z",
+      "updated_at": "2016-07-01T09:01:57.120Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4082265,
+      "signature_count": 4082275,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
