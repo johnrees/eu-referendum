@@ -159,7 +159,7 @@
           "name": "Aberdeen South"
         },
         {
-          "signature_count": 2191,
+          "signature_count": 2192,
           "mp": "Rt Hon Angus Robertson MP",
           "ons_code": "S14000046",
           "name": "Moray"
@@ -267,7 +267,7 @@
           "name": "Aberconwy"
         },
         {
-          "signature_count": 5207,
+          "signature_count": 5208,
           "mp": "Sir Gerald Howarth MP",
           "ons_code": "E14000530",
           "name": "Aldershot"
@@ -363,7 +363,7 @@
           "name": "Barrow and Furness"
         },
         {
-          "signature_count": 3592,
+          "signature_count": 3593,
           "mp": "Mr John Baron MP",
           "ons_code": "E14000544",
           "name": "Basildon and Billericay"
@@ -729,7 +729,7 @@
           "name": "Brighton, Kemptown"
         },
         {
-          "signature_count": 19261,
+          "signature_count": 19262,
           "mp": "Caroline Lucas MP",
           "ons_code": "E14000598",
           "name": "Brighton, Pavilion"
@@ -1197,7 +1197,7 @@
           "name": "Derby South"
         },
         {
-          "signature_count": 5994,
+          "signature_count": 5995,
           "mp": "Rt Hon Patrick McLoughlin MP",
           "ons_code": "E14000664",
           "name": "Derbyshire Dales"
@@ -1251,7 +1251,7 @@
           "name": "Dudley South"
         },
         {
-          "signature_count": 18425,
+          "signature_count": 18426,
           "mp": "Helen Hayes MP",
           "ons_code": "E14000673",
           "name": "Dulwich and West Norwood"
@@ -1767,7 +1767,7 @@
           "name": "Hornsey and Wood Green"
         },
         {
-          "signature_count": 8347,
+          "signature_count": 8348,
           "mp": "Jeremy Quin MP",
           "ons_code": "E14000753",
           "name": "Horsham"
@@ -2253,7 +2253,7 @@
           "name": "Morecambe and Lunesdale"
         },
         {
-          "signature_count": 4037,
+          "signature_count": 4038,
           "mp": "Andrea Jenkyns MP",
           "ons_code": "E14000826",
           "name": "Morley and Outwood"
@@ -2895,7 +2895,7 @@
           "name": "Sheffield, Hallam"
         },
         {
-          "signature_count": 4791,
+          "signature_count": 4792,
           "mp": "Louise Haigh MP",
           "ons_code": "E14000923",
           "name": "Sheffield, Heeley"
@@ -3015,7 +3015,7 @@
           "name": "South Leicestershire"
         },
         {
-          "signature_count": 7184,
+          "signature_count": 7185,
           "mp": "Mr Richard Bacon MP",
           "ons_code": "E14000941",
           "name": "South Norfolk"
@@ -3075,7 +3075,7 @@
           "name": "South West Devon"
         },
         {
-          "signature_count": 10660,
+          "signature_count": 10661,
           "mp": "Mr David Gauke MP",
           "ons_code": "E14000951",
           "name": "South West Hertfordshire"
@@ -3393,7 +3393,7 @@
           "name": "Torfaen"
         },
         {
-          "signature_count": 5755,
+          "signature_count": 5756,
           "mp": "Mr Geoffrey Cox QC MP",
           "ons_code": "E14001000",
           "name": "Torridge and West Devon"
@@ -3549,7 +3549,7 @@
           "name": "Waveney"
         },
         {
-          "signature_count": 8607,
+          "signature_count": 8608,
           "mp": "Nusrat Ghani MP",
           "ons_code": "E14001023",
           "name": "Wealden"
@@ -3777,7 +3777,7 @@
           "name": "Wyre Forest"
         },
         {
-          "signature_count": 6071,
+          "signature_count": 6072,
           "mp": "Mike Kane MP",
           "ons_code": "E14001059",
           "name": "Wythenshawe and Sale East"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3919759,
+          "signature_count": 3919773,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T08:36:56.442Z",
+      "updated_at": "2016-07-01T08:37:57.205Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4081958,
+      "signature_count": 4081972,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
