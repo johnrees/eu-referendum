@@ -15,7 +15,7 @@
           "name": "Edinburgh North and Leith"
         },
         {
-          "signature_count": 8785,
+          "signature_count": 8786,
           "mp": "Ian Murray MP",
           "ons_code": "S14000024",
           "name": "Edinburgh South"
@@ -27,7 +27,7 @@
           "name": "Edinburgh South West"
         },
         {
-          "signature_count": 6026,
+          "signature_count": 6027,
           "mp": "Michelle Thomson MP",
           "ons_code": "S14000026",
           "name": "Edinburgh West"
@@ -849,7 +849,7 @@
           "name": "Camborne and Redruth"
         },
         {
-          "signature_count": 17498,
+          "signature_count": 17499,
           "mp": "Daniel Zeichner MP",
           "ons_code": "E14000617",
           "name": "Cambridge"
@@ -1635,7 +1635,7 @@
           "name": "Harrogate and Knaresborough"
         },
         {
-          "signature_count": 7107,
+          "signature_count": 7108,
           "mp": "Bob Blackman MP",
           "ons_code": "E14000731",
           "name": "Harrow East"
@@ -2085,7 +2085,7 @@
           "name": "Macclesfield"
         },
         {
-          "signature_count": 10228,
+          "signature_count": 10229,
           "mp": "Rt Hon Theresa May MP",
           "ons_code": "E14000803",
           "name": "Maidenhead"
@@ -2211,7 +2211,7 @@
           "name": "Middlesbrough South and East Cleveland"
         },
         {
-          "signature_count": 8326,
+          "signature_count": 8327,
           "mp": "Mark Lancaster MP",
           "ons_code": "E14000821",
           "name": "Milton Keynes North"
@@ -2811,7 +2811,7 @@
           "name": "Rushcliffe"
         },
         {
-          "signature_count": 6488,
+          "signature_count": 6489,
           "mp": "Rt Hon Sir Alan Duncan MP",
           "ons_code": "E14000909",
           "name": "Rutland and Melton"
@@ -3393,7 +3393,7 @@
           "name": "Torfaen"
         },
         {
-          "signature_count": 5764,
+          "signature_count": 5765,
           "mp": "Mr Geoffrey Cox QC MP",
           "ons_code": "E14001000",
           "name": "Torridge and West Devon"
@@ -3801,7 +3801,7 @@
           "name": "York Central"
         },
         {
-          "signature_count": 7208,
+          "signature_count": 7209,
           "mp": "Julian Sturdy MP",
           "ons_code": "E14001062",
           "name": "York Outer"
@@ -3873,7 +3873,7 @@
           "name": "Dunfermline and West Fife"
         },
         {
-          "signature_count": 4692,
+          "signature_count": 4693,
           "mp": "John Nicolson MP",
           "ons_code": "S14000018",
           "name": "East Dunbartonshire"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3925462,
+          "signature_count": 3925472,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T16:44:01.047Z",
+      "updated_at": "2016-07-01T16:44:51.474Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4087950,
+      "signature_count": 4087960,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
