@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 19015,
+          "signature_count": 19016,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -507,7 +507,7 @@
           "name": "Birmingham, Hodge Hill"
         },
         {
-          "signature_count": 7015,
+          "signature_count": 7016,
           "mp": "Shabana Mahmood MP",
           "ons_code": "E14000564",
           "name": "Birmingham, Ladywood"
@@ -639,7 +639,7 @@
           "name": "Bournemouth East"
         },
         {
-          "signature_count": 6064,
+          "signature_count": 6065,
           "mp": "Conor Burns MP",
           "ons_code": "E14000585",
           "name": "Bournemouth West"
@@ -831,7 +831,7 @@
           "name": "Caerphilly"
         },
         {
-          "signature_count": 6432,
+          "signature_count": 6433,
           "mp": "Craig Whittaker MP",
           "ons_code": "E14000614",
           "name": "Calder Valley"
@@ -1257,7 +1257,7 @@
           "name": "Dulwich and West Norwood"
         },
         {
-          "signature_count": 3210,
+          "signature_count": 3211,
           "mp": "Liz Saville Roberts MP",
           "ons_code": "W07000061",
           "name": "Dwyfor Meirionnydd"
@@ -1863,7 +1863,7 @@
           "name": "Kenilworth and Southam"
         },
         {
-          "signature_count": 18139,
+          "signature_count": 18140,
           "mp": "Victoria Borwick MP",
           "ons_code": "E14000768",
           "name": "Kensington"
@@ -2673,7 +2673,7 @@
           "name": "Pudsey"
         },
         {
-          "signature_count": 14945,
+          "signature_count": 14946,
           "mp": "Rt Hon Justine Greening MP",
           "ons_code": "E14000887",
           "name": "Putney"
@@ -3075,7 +3075,7 @@
           "name": "South West Devon"
         },
         {
-          "signature_count": 10667,
+          "signature_count": 10668,
           "mp": "Mr David Gauke MP",
           "ons_code": "E14000951",
           "name": "South West Hertfordshire"
@@ -3411,7 +3411,7 @@
           "name": "Tottenham"
         },
         {
-          "signature_count": 8248,
+          "signature_count": 8249,
           "mp": "Sarah Newton MP",
           "ons_code": "E14001003",
           "name": "Truro and Falmouth"
@@ -3423,7 +3423,7 @@
           "name": "Tunbridge Wells"
         },
         {
-          "signature_count": 17441,
+          "signature_count": 17442,
           "mp": "Dr Tania Mathias MP",
           "ons_code": "E14001005",
           "name": "Twickenham"
@@ -3501,7 +3501,7 @@
           "name": "Wansbeck"
         },
         {
-          "signature_count": 10371,
+          "signature_count": 10372,
           "mp": "Mr Edward Vaizey MP",
           "ons_code": "E14001015",
           "name": "Wantage"
@@ -3597,7 +3597,7 @@
           "name": "West Bromwich West"
         },
         {
-          "signature_count": 7782,
+          "signature_count": 7783,
           "mp": "Rt Hon Oliver Letwin MP",
           "ons_code": "E14001031",
           "name": "West Dorset"
@@ -3669,7 +3669,7 @@
           "name": "Winchester"
         },
         {
-          "signature_count": 8876,
+          "signature_count": 8877,
           "mp": "Adam Afriyie MP",
           "ons_code": "E14001042",
           "name": "Windsor"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 16931,
+          "signature_count": 16932,
           "code": "AU",
           "name": "Australia"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3921328,
+          "signature_count": 3921341,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T10:35:53.889Z",
+      "updated_at": "2016-07-01T10:37:00.117Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4083600,
+      "signature_count": 4083614,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
