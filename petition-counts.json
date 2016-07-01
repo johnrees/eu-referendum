@@ -147,7 +147,7 @@
           "name": "Livingston"
         },
         {
-          "signature_count": 2943,
+          "signature_count": 2944,
           "mp": "Owen Thompson MP",
           "ons_code": "S14000045",
           "name": "Midlothian"
@@ -327,7 +327,7 @@
           "name": "Ashton-under-Lyne"
         },
         {
-          "signature_count": 7087,
+          "signature_count": 7088,
           "mp": "Rt Hon David Lidington MP",
           "ons_code": "E14000538",
           "name": "Aylesbury"
@@ -1137,7 +1137,7 @@
           "name": "Croydon North"
         },
         {
-          "signature_count": 8895,
+          "signature_count": 8896,
           "mp": "Chris Philp MP",
           "ons_code": "E14000656",
           "name": "Croydon South"
@@ -2361,7 +2361,7 @@
           "name": "North Devon"
         },
         {
-          "signature_count": 6235,
+          "signature_count": 6236,
           "mp": "Simon Hoare MP",
           "ons_code": "E14000839",
           "name": "North Dorset"
@@ -4240,7 +4240,7 @@
           "name": "Fiji"
         },
         {
-          "signature_count": 616,
+          "signature_count": 617,
           "code": "FI",
           "name": "Finland"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3917916,
+          "signature_count": 3917920,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T03:35:26.751Z",
+      "updated_at": "2016-07-01T03:36:53.893Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4079954,
+      "signature_count": 4079959,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
