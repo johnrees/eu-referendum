@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6845,
+          "signature_count": 6846,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -381,7 +381,7 @@
           "name": "Bassetlaw"
         },
         {
-          "signature_count": 12398,
+          "signature_count": 12399,
           "mp": "Ben Howlett MP",
           "ons_code": "E14000547",
           "name": "Bath"
@@ -651,7 +651,7 @@
           "name": "Bracknell"
         },
         {
-          "signature_count": 4070,
+          "signature_count": 4071,
           "mp": "Imran Hussain MP",
           "ons_code": "E14000587",
           "name": "Bradford East"
@@ -969,7 +969,7 @@
           "name": "Chelsea and Fulham"
         },
         {
-          "signature_count": 9601,
+          "signature_count": 9602,
           "mp": "Alex Chalk MP",
           "ons_code": "E14000630",
           "name": "Cheltenham"
@@ -1233,7 +1233,7 @@
           "name": "Doncaster North"
         },
         {
-          "signature_count": 4023,
+          "signature_count": 4024,
           "mp": "Charlie Elphicke MP",
           "ons_code": "E14000670",
           "name": "Dover"
@@ -2823,7 +2823,7 @@
           "name": "Saffron Walden"
         },
         {
-          "signature_count": 6671,
+          "signature_count": 6672,
           "mp": "Rebecca Long Bailey MP",
           "ons_code": "E14000911",
           "name": "Salford and Eccles"
@@ -2931,7 +2931,7 @@
           "name": "Skipton and Ripon"
         },
         {
-          "signature_count": 4918,
+          "signature_count": 4919,
           "mp": "Stephen Phillips QC MP",
           "ons_code": "E14000929",
           "name": "Sleaford and North Hykeham"
@@ -3333,7 +3333,7 @@
           "name": "Tewkesbury"
         },
         {
-          "signature_count": 8834,
+          "signature_count": 8835,
           "mp": "Geoffrey Clifton-Brown MP",
           "ons_code": "E14000991",
           "name": "The Cotswolds"
@@ -3381,7 +3381,7 @@
           "name": "Tooting"
         },
         {
-          "signature_count": 4163,
+          "signature_count": 4164,
           "mp": "Kevin Foster MP",
           "ons_code": "E14000999",
           "name": "Torbay"
@@ -3573,7 +3573,7 @@
           "name": "Wells"
         },
         {
-          "signature_count": 7034,
+          "signature_count": 7035,
           "mp": "Rt Hon Grant Shapps MP",
           "ons_code": "E14001027",
           "name": "Welwyn Hatfield"
@@ -4800,7 +4800,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17332,
+          "signature_count": 17333,
           "code": "ES",
           "name": "Spain"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3919226,
+          "signature_count": 3919236,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T07:52:03.429Z",
+      "updated_at": "2016-07-01T07:53:04.473Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4081384,
+      "signature_count": 4081395,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
