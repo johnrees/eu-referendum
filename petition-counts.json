@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6858,
+          "signature_count": 6859,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -693,7 +693,7 @@
           "name": "Brent North"
         },
         {
-          "signature_count": 14819,
+          "signature_count": 14820,
           "mp": "Ruth Cadbury MP",
           "ons_code": "E14000593",
           "name": "Brentford and Isleworth"
@@ -723,7 +723,7 @@
           "name": "Brigg and Goole"
         },
         {
-          "signature_count": 9943,
+          "signature_count": 9944,
           "mp": "Simon Kirby MP",
           "ons_code": "E14000597",
           "name": "Brighton, Kemptown"
@@ -807,7 +807,7 @@
           "name": "Burton"
         },
         {
-          "signature_count": 4229,
+          "signature_count": 4230,
           "mp": "Mr David Nuttall MP",
           "ons_code": "E14000611",
           "name": "Bury North"
@@ -825,7 +825,7 @@
           "name": "Bury St Edmunds"
         },
         {
-          "signature_count": 3589,
+          "signature_count": 3590,
           "mp": "Wayne David MP",
           "ons_code": "W07000076",
           "name": "Caerphilly"
@@ -1023,7 +1023,7 @@
           "name": "Christchurch"
         },
         {
-          "signature_count": 18806,
+          "signature_count": 18807,
           "mp": "Rt Hon Mark Field MP",
           "ons_code": "E14000639",
           "name": "Cities of London and Westminster"
@@ -1287,7 +1287,7 @@
           "name": "Easington"
         },
         {
-          "signature_count": 3053,
+          "signature_count": 3054,
           "mp": "Sammy Wilson MP",
           "ons_code": "N06000005",
           "name": "East Antrim"
@@ -1389,7 +1389,7 @@
           "name": "Enfield, Southgate"
         },
         {
-          "signature_count": 5986,
+          "signature_count": 5987,
           "mp": "Mrs Eleanor Laing MP",
           "ons_code": "E14000693",
           "name": "Epping Forest"
@@ -1563,7 +1563,7 @@
           "name": "Greenwich and Woolwich"
         },
         {
-          "signature_count": 11536,
+          "signature_count": 11537,
           "mp": "Rt Hon Anne Milton MP",
           "ons_code": "E14000719",
           "name": "Guildford"
@@ -2217,7 +2217,7 @@
           "name": "Milton Keynes North"
         },
         {
-          "signature_count": 8195,
+          "signature_count": 8196,
           "mp": "Iain Stewart MP",
           "ons_code": "E14000822",
           "name": "Milton Keynes South"
@@ -3087,7 +3087,7 @@
           "name": "South West Norfolk"
         },
         {
-          "signature_count": 11760,
+          "signature_count": 11761,
           "mp": "Rt Hon Jeremy Hunt MP",
           "ons_code": "E14000953",
           "name": "South West Surrey"
@@ -3447,7 +3447,7 @@
           "name": "Uxbridge and South Ruislip"
         },
         {
-          "signature_count": 2789,
+          "signature_count": 2790,
           "mp": "Dr James Davies MP",
           "ons_code": "W07000060",
           "name": "Vale of Clwyd"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3926012,
+          "signature_count": 3926024,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T17:39:04.133Z",
+      "updated_at": "2016-07-01T17:39:55.754Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4088527,
+      "signature_count": 4088539,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
