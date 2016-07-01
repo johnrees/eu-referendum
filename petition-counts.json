@@ -27,7 +27,7 @@
           "name": "Edinburgh South West"
         },
         {
-          "signature_count": 6022,
+          "signature_count": 6023,
           "mp": "Michelle Thomson MP",
           "ons_code": "S14000026",
           "name": "Edinburgh West"
@@ -309,7 +309,7 @@
           "name": "Arundel and South Downs"
         },
         {
-          "signature_count": 2422,
+          "signature_count": 2423,
           "mp": "Gloria De Piero MP",
           "ons_code": "E14000535",
           "name": "Ashfield"
@@ -747,13 +747,13 @@
           "name": "Bristol North West"
         },
         {
-          "signature_count": 9580,
+          "signature_count": 9581,
           "mp": "Karin Smyth MP",
           "ons_code": "E14000601",
           "name": "Bristol South"
         },
         {
-          "signature_count": 23508,
+          "signature_count": 23509,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -825,7 +825,7 @@
           "name": "Bury St Edmunds"
         },
         {
-          "signature_count": 3584,
+          "signature_count": 3585,
           "mp": "Wayne David MP",
           "ons_code": "W07000076",
           "name": "Caerphilly"
@@ -927,7 +927,7 @@
           "name": "Central Devon"
         },
         {
-          "signature_count": 6176,
+          "signature_count": 6177,
           "mp": "Dr Poulter MP",
           "ons_code": "E14000624",
           "name": "Central Suffolk and North Ipswich"
@@ -1167,7 +1167,7 @@
           "name": "Dartford"
         },
         {
-          "signature_count": 5371,
+          "signature_count": 5372,
           "mp": "Chris Heaton-Harris MP",
           "ons_code": "E14000660",
           "name": "Daventry"
@@ -1377,7 +1377,7 @@
           "name": "Eltham"
         },
         {
-          "signature_count": 5918,
+          "signature_count": 5919,
           "mp": "Rt Hon Joan Ryan MP",
           "ons_code": "E14000691",
           "name": "Enfield North"
@@ -1413,7 +1413,7 @@
           "name": "Erith and Thamesmead"
         },
         {
-          "signature_count": 12662,
+          "signature_count": 12663,
           "mp": "Dominic Raab MP",
           "ons_code": "E14000697",
           "name": "Esher and Walton"
@@ -1761,7 +1761,7 @@
           "name": "Hornchurch and Upminster"
         },
         {
-          "signature_count": 23847,
+          "signature_count": 23848,
           "mp": "Catherine West MP",
           "ons_code": "E14000752",
           "name": "Hornsey and Wood Green"
@@ -1827,7 +1827,7 @@
           "name": "Isle of Wight"
         },
         {
-          "signature_count": 20106,
+          "signature_count": 20107,
           "mp": "Rt Hon Jeremy Corbyn MP",
           "ons_code": "E14000763",
           "name": "Islington North"
@@ -1923,7 +1923,7 @@
           "name": "Lancaster and Fleetwood"
         },
         {
-          "signature_count": 6960,
+          "signature_count": 6961,
           "mp": "Rt Hon Hilary Benn MP",
           "ons_code": "E14000777",
           "name": "Leeds Central"
@@ -2019,7 +2019,7 @@
           "name": "Lincoln"
         },
         {
-          "signature_count": 9858,
+          "signature_count": 9859,
           "mp": "Mrs Louise Ellman MP",
           "ons_code": "E14000793",
           "name": "Liverpool, Riverside"
@@ -2523,7 +2523,7 @@
           "name": "Norwich South"
         },
         {
-          "signature_count": 6628,
+          "signature_count": 6629,
           "mp": "Chris Leslie MP",
           "ons_code": "E14000865",
           "name": "Nottingham East"
@@ -2667,7 +2667,7 @@
           "name": "Preston"
         },
         {
-          "signature_count": 6827,
+          "signature_count": 6828,
           "mp": "Stuart Andrew MP",
           "ons_code": "E14000886",
           "name": "Pudsey"
@@ -2871,7 +2871,7 @@
           "name": "Sevenoaks"
         },
         {
-          "signature_count": 10306,
+          "signature_count": 10307,
           "mp": "Paul Blomfield MP",
           "ons_code": "E14000919",
           "name": "Sheffield Central"
@@ -2979,7 +2979,7 @@
           "name": "South Derbyshire"
         },
         {
-          "signature_count": 4703,
+          "signature_count": 4704,
           "mp": "Richard Drax MP",
           "ons_code": "E14000936",
           "name": "South Dorset"
@@ -3237,7 +3237,7 @@
           "name": "Strangford"
         },
         {
-          "signature_count": 7106,
+          "signature_count": 7107,
           "mp": "Nadhim Zahawi MP",
           "ons_code": "E14000977",
           "name": "Stratford-on-Avon"
@@ -3747,7 +3747,7 @@
           "name": "Worsley and Eccles South"
         },
         {
-          "signature_count": 6170,
+          "signature_count": 6171,
           "mp": "Sir Peter Bottomley MP",
           "ons_code": "E14001055",
           "name": "Worthing West"
@@ -3879,7 +3879,7 @@
           "name": "East Dunbartonshire"
         },
         {
-          "signature_count": 2797,
+          "signature_count": 2798,
           "mp": "Dr Lisa Cameron MP",
           "ons_code": "S14000019",
           "name": "East Kilbride, Strathaven and Lesmahagow"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3922893,
+          "signature_count": 3922914,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T12:48:01.016Z",
+      "updated_at": "2016-07-01T12:49:00.530Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4085249,
+      "signature_count": 4085270,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
