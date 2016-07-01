@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6854,
+          "signature_count": 6855,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23519,
+          "signature_count": 23520,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -1005,7 +1005,7 @@
           "name": "Chippenham"
         },
         {
-          "signature_count": 12697,
+          "signature_count": 12698,
           "mp": "Rt Hon Theresa Villiers MP",
           "ons_code": "E14000636",
           "name": "Chipping Barnet"
@@ -1749,7 +1749,7 @@
           "name": "Hitchin and Harpenden"
         },
         {
-          "signature_count": 21694,
+          "signature_count": 21695,
           "mp": "Keir Starmer MP",
           "ons_code": "E14000750",
           "name": "Holborn and St Pancras"
@@ -2043,7 +2043,7 @@
           "name": "Liverpool, West Derby"
         },
         {
-          "signature_count": 2772,
+          "signature_count": 2773,
           "mp": "Nia Griffith MP",
           "ons_code": "W07000045",
           "name": "Llanelli"
@@ -2157,7 +2157,7 @@
           "name": "Merthyr Tydfil and Rhymney"
         },
         {
-          "signature_count": 6672,
+          "signature_count": 6673,
           "mp": "Nadine Dorries MP",
           "ons_code": "E14000813",
           "name": "Mid Bedfordshire"
@@ -2349,7 +2349,7 @@
           "name": "North Antrim"
         },
         {
-          "signature_count": 4593,
+          "signature_count": 4594,
           "mp": "Scott Mann MP",
           "ons_code": "E14000837",
           "name": "North Cornwall"
@@ -2433,7 +2433,7 @@
           "name": "North Shropshire"
         },
         {
-          "signature_count": 8985,
+          "signature_count": 8986,
           "mp": "Rt Hon Dr Liam Fox MP",
           "ons_code": "E14000850",
           "name": "North Somerset"
@@ -2607,7 +2607,7 @@
           "name": "Penrith and The Border"
         },
         {
-          "signature_count": 4459,
+          "signature_count": 4460,
           "mp": "Mr Stewart Jackson MP",
           "ons_code": "E14000878",
           "name": "Peterborough"
@@ -2739,7 +2739,7 @@
           "name": "Richmond Park"
         },
         {
-          "signature_count": 3871,
+          "signature_count": 3872,
           "mp": "Simon Danczuk MP",
           "ons_code": "E14000897",
           "name": "Rochdale"
@@ -2751,7 +2751,7 @@
           "name": "Rochester and Strood"
         },
         {
-          "signature_count": 4171,
+          "signature_count": 4172,
           "mp": "James Duddridge MP",
           "ons_code": "E14000899",
           "name": "Rochford and Southend East"
@@ -3441,7 +3441,7 @@
           "name": "Upper Bann"
         },
         {
-          "signature_count": 6185,
+          "signature_count": 6186,
           "mp": "Boris Johnson MP",
           "ons_code": "E14001007",
           "name": "Uxbridge and South Ruislip"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3924551,
+          "signature_count": 3924563,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T15:16:05.443Z",
+      "updated_at": "2016-07-01T15:16:59.868Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4086993,
+      "signature_count": 4087005,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
