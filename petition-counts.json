@@ -741,7 +741,7 @@
           "name": "Bristol East"
         },
         {
-          "signature_count": 10050,
+          "signature_count": 10051,
           "mp": "Charlotte Leslie MP",
           "ons_code": "E14000600",
           "name": "Bristol North West"
@@ -1185,7 +1185,7 @@
           "name": "Denton and Reddish"
         },
         {
-          "signature_count": 5261,
+          "signature_count": 5262,
           "mp": "Amanda Solloway MP",
           "ons_code": "E14000662",
           "name": "Derby North"
@@ -1803,7 +1803,7 @@
           "name": "Hyndburn"
         },
         {
-          "signature_count": 7597,
+          "signature_count": 7598,
           "mp": "Wes Streeting MP",
           "ons_code": "E14000759",
           "name": "Ilford North"
@@ -1827,7 +1827,7 @@
           "name": "Isle of Wight"
         },
         {
-          "signature_count": 20126,
+          "signature_count": 20127,
           "mp": "Rt Hon Jeremy Corbyn MP",
           "ons_code": "E14000763",
           "name": "Islington North"
@@ -2307,7 +2307,7 @@
           "name": "Newcastle upon Tyne North"
         },
         {
-          "signature_count": 3439,
+          "signature_count": 3440,
           "mp": "Paul Farrelly MP",
           "ons_code": "E14000834",
           "name": "Newcastle-under-Lyme"
@@ -2751,7 +2751,7 @@
           "name": "Rochester and Strood"
         },
         {
-          "signature_count": 4172,
+          "signature_count": 4173,
           "mp": "James Duddridge MP",
           "ons_code": "E14000899",
           "name": "Rochford and Southend East"
@@ -2889,7 +2889,7 @@
           "name": "Sheffield, Brightside and Hillsborough"
         },
         {
-          "signature_count": 10581,
+          "signature_count": 10582,
           "mp": "Rt Hon Nick Clegg MP",
           "ons_code": "E14000922",
           "name": "Sheffield, Hallam"
@@ -2967,7 +2967,7 @@
           "name": "South Basildon and East Thurrock"
         },
         {
-          "signature_count": 13726,
+          "signature_count": 13727,
           "mp": "Heidi Allen MP",
           "ons_code": "E14000934",
           "name": "South Cambridgeshire"
@@ -3681,7 +3681,7 @@
           "name": "Wirral South"
         },
         {
-          "signature_count": 5268,
+          "signature_count": 5269,
           "mp": "Margaret Greenwood MP",
           "ons_code": "E14001044",
           "name": "Wirral West"
@@ -4800,7 +4800,7 @@
           "name": "South Sudan"
         },
         {
-          "signature_count": 17378,
+          "signature_count": 17379,
           "code": "ES",
           "name": "Spain"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3925824,
+          "signature_count": 3925833,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-01T17:20:55.792Z",
+      "updated_at": "2016-07-01T17:21:52.504Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4088333,
+      "signature_count": 4088343,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
