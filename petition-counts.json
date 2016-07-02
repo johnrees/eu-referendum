@@ -357,7 +357,7 @@
           "name": "Barnsley East"
         },
         {
-          "signature_count": 3240,
+          "signature_count": 3241,
           "mp": "John Woodcock MP",
           "ons_code": "E14000543",
           "name": "Barrow and Furness"
@@ -927,7 +927,7 @@
           "name": "Central Devon"
         },
         {
-          "signature_count": 6191,
+          "signature_count": 6192,
           "mp": "Dr Poulter MP",
           "ons_code": "E14000624",
           "name": "Central Suffolk and North Ipswich"
@@ -1047,7 +1047,7 @@
           "name": "Clacton"
         },
         {
-          "signature_count": 2388,
+          "signature_count": 2389,
           "mp": "Martin Vickers MP",
           "ons_code": "E14000643",
           "name": "Cleethorpes"
@@ -1239,7 +1239,7 @@
           "name": "Dover"
         },
         {
-          "signature_count": 1967,
+          "signature_count": 1968,
           "mp": "Ian Austin MP",
           "ons_code": "E14000671",
           "name": "Dudley North"
@@ -1347,7 +1347,7 @@
           "name": "Eastleigh"
         },
         {
-          "signature_count": 5249,
+          "signature_count": 5250,
           "mp": "Antoinette Sandbach MP",
           "ons_code": "E14000686",
           "name": "Eddisbury"
@@ -1419,7 +1419,7 @@
           "name": "Esher and Walton"
         },
         {
-          "signature_count": 9239,
+          "signature_count": 9240,
           "mp": "Rt Hon Ben Bradshaw MP",
           "ons_code": "E14000698",
           "name": "Exeter"
@@ -1827,7 +1827,7 @@
           "name": "Isle of Wight"
         },
         {
-          "signature_count": 20139,
+          "signature_count": 20140,
           "mp": "Rt Hon Jeremy Corbyn MP",
           "ons_code": "E14000763",
           "name": "Islington North"
@@ -1887,7 +1887,7 @@
           "name": "Kingston upon Hull East"
         },
         {
-          "signature_count": 3383,
+          "signature_count": 3384,
           "mp": "Diana Johnson MP",
           "ons_code": "E14000772",
           "name": "Kingston upon Hull North"
@@ -2967,7 +2967,7 @@
           "name": "South Basildon and East Thurrock"
         },
         {
-          "signature_count": 13746,
+          "signature_count": 13747,
           "mp": "Heidi Allen MP",
           "ons_code": "E14000934",
           "name": "South Cambridgeshire"
@@ -3159,7 +3159,7 @@
           "name": "St Ives"
         },
         {
-          "signature_count": 4379,
+          "signature_count": 4381,
           "mp": "Jeremy Lefroy MP",
           "ons_code": "E14000965",
           "name": "Stafford"
@@ -3333,7 +3333,7 @@
           "name": "Tewkesbury"
         },
         {
-          "signature_count": 8859,
+          "signature_count": 8860,
           "mp": "Geoffrey Clifton-Brown MP",
           "ons_code": "E14000991",
           "name": "The Cotswolds"
@@ -3441,7 +3441,7 @@
           "name": "Upper Bann"
         },
         {
-          "signature_count": 6195,
+          "signature_count": 6196,
           "mp": "Boris Johnson MP",
           "ons_code": "E14001007",
           "name": "Uxbridge and South Ruislip"
@@ -3633,7 +3633,7 @@
           "name": "West Worcestershire"
         },
         {
-          "signature_count": 16136,
+          "signature_count": 16137,
           "mp": "Ms Karen Buck MP",
           "ons_code": "E14001036",
           "name": "Westminster North"
@@ -3795,7 +3795,7 @@
           "name": "Ynys Môn"
         },
         {
-          "signature_count": 9434,
+          "signature_count": 9435,
           "mp": "Rachael Maskell MP",
           "ons_code": "E14001061",
           "name": "York Central"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3930107,
+          "signature_count": 3930123,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-02T08:35:01.776Z",
+      "updated_at": "2016-07-02T08:36:03.888Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4092840,
+      "signature_count": 4092856,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
