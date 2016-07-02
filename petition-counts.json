@@ -69,7 +69,7 @@
           "name": "Glasgow North East"
         },
         {
-          "signature_count": 3725,
+          "signature_count": 3726,
           "mp": "Carol Monaghan MP",
           "ons_code": "S14000033",
           "name": "Glasgow North West"
@@ -105,7 +105,7 @@
           "name": "Aberdeen North"
         },
         {
-          "signature_count": 1705,
+          "signature_count": 1706,
           "mp": "Ronnie Cowan MP",
           "ons_code": "S14000038",
           "name": "Inverclyde"
@@ -279,7 +279,7 @@
           "name": "Aldridge-Brownhills"
         },
         {
-          "signature_count": 9914,
+          "signature_count": 9915,
           "mp": "Mr Graham Brady MP",
           "ons_code": "E14000532",
           "name": "Altrincham and Sale West"
@@ -429,7 +429,7 @@
           "name": "Belfast North"
         },
         {
-          "signature_count": 8704,
+          "signature_count": 8705,
           "mp": "Dr Alasdair McDonnell MP",
           "ons_code": "N06000003",
           "name": "Belfast South"
@@ -507,7 +507,7 @@
           "name": "Birmingham, Hodge Hill"
         },
         {
-          "signature_count": 7037,
+          "signature_count": 7038,
           "mp": "Shabana Mahmood MP",
           "ons_code": "E14000564",
           "name": "Birmingham, Ladywood"
@@ -747,7 +747,7 @@
           "name": "Bristol North West"
         },
         {
-          "signature_count": 9607,
+          "signature_count": 9608,
           "mp": "Karin Smyth MP",
           "ons_code": "E14000601",
           "name": "Bristol South"
@@ -801,7 +801,7 @@
           "name": "Burnley"
         },
         {
-          "signature_count": 3656,
+          "signature_count": 3657,
           "mp": "Andrew Griffiths MP",
           "ons_code": "E14000610",
           "name": "Burton"
@@ -1209,7 +1209,7 @@
           "name": "Devizes"
         },
         {
-          "signature_count": 4968,
+          "signature_count": 4969,
           "mp": "Paula Sherriff MP",
           "ons_code": "E14000666",
           "name": "Dewsbury"
@@ -1749,7 +1749,7 @@
           "name": "Hitchin and Harpenden"
         },
         {
-          "signature_count": 21739,
+          "signature_count": 21740,
           "mp": "Keir Starmer MP",
           "ons_code": "E14000750",
           "name": "Holborn and St Pancras"
@@ -1941,7 +1941,7 @@
           "name": "Leeds North East"
         },
         {
-          "signature_count": 7608,
+          "signature_count": 7609,
           "mp": "Greg Mulholland MP",
           "ons_code": "E14000780",
           "name": "Leeds North West"
@@ -1989,7 +1989,7 @@
           "name": "Lewisham East"
         },
         {
-          "signature_count": 13029,
+          "signature_count": 13030,
           "mp": "Jim Dowd MP",
           "ons_code": "E14000788",
           "name": "Lewisham West and Penge"
@@ -2493,7 +2493,7 @@
           "name": "North West Norfolk"
         },
         {
-          "signature_count": 6717,
+          "signature_count": 6718,
           "mp": "James Gray MP",
           "ons_code": "E14000860",
           "name": "North Wiltshire"
@@ -2793,7 +2793,7 @@
           "name": "Rugby"
         },
         {
-          "signature_count": 8830,
+          "signature_count": 8831,
           "mp": "Mr Nick Hurd MP",
           "ons_code": "E14000906",
           "name": "Ruislip, Northwood and Pinner"
@@ -2829,7 +2829,7 @@
           "name": "Salford and Eccles"
         },
         {
-          "signature_count": 7169,
+          "signature_count": 7170,
           "mp": "John Glen MP",
           "ons_code": "E14000912",
           "name": "Salisbury"
@@ -2865,7 +2865,7 @@
           "name": "Selby and Ainsty"
         },
         {
-          "signature_count": 7366,
+          "signature_count": 7367,
           "mp": "Rt Hon Michael Fallon MP",
           "ons_code": "E14000918",
           "name": "Sevenoaks"
@@ -2913,7 +2913,7 @@
           "name": "Shipley"
         },
         {
-          "signature_count": 6489,
+          "signature_count": 6490,
           "mp": "Daniel Kawczynski MP",
           "ons_code": "E14000926",
           "name": "Shrewsbury and Atcham"
@@ -2979,7 +2979,7 @@
           "name": "South Derbyshire"
         },
         {
-          "signature_count": 4715,
+          "signature_count": 4716,
           "mp": "Richard Drax MP",
           "ons_code": "E14000936",
           "name": "South Dorset"
@@ -3633,7 +3633,7 @@
           "name": "West Worcestershire"
         },
         {
-          "signature_count": 16152,
+          "signature_count": 16153,
           "mp": "Ms Karen Buck MP",
           "ons_code": "E14001036",
           "name": "Westminster North"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3933745,
+          "signature_count": 3933763,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-02T15:32:55.169Z",
+      "updated_at": "2016-07-02T15:34:00.976Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4096728,
+      "signature_count": 4096746,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
