@@ -69,7 +69,7 @@
           "name": "Glasgow North East"
         },
         {
-          "signature_count": 3728,
+          "signature_count": 3729,
           "mp": "Carol Monaghan MP",
           "ons_code": "S14000033",
           "name": "Glasgow North West"
@@ -303,7 +303,7 @@
           "name": "Arfon"
         },
         {
-          "signature_count": 8759,
+          "signature_count": 8760,
           "mp": "Rt Hon Nick Herbert MP",
           "ons_code": "E14000534",
           "name": "Arundel and South Downs"
@@ -1761,7 +1761,7 @@
           "name": "Hornchurch and Upminster"
         },
         {
-          "signature_count": 23904,
+          "signature_count": 23905,
           "mp": "Catherine West MP",
           "ons_code": "E14000752",
           "name": "Hornsey and Wood Green"
@@ -1827,7 +1827,7 @@
           "name": "Isle of Wight"
         },
         {
-          "signature_count": 20169,
+          "signature_count": 20170,
           "mp": "Rt Hon Jeremy Corbyn MP",
           "ons_code": "E14000763",
           "name": "Islington North"
@@ -1995,7 +1995,7 @@
           "name": "Lewisham West and Penge"
         },
         {
-          "signature_count": 16394,
+          "signature_count": 16395,
           "mp": "Vicky Foxcroft MP",
           "ons_code": "E14000789",
           "name": "Lewisham, Deptford"
@@ -2031,7 +2031,7 @@
           "name": "Liverpool, Walton"
         },
         {
-          "signature_count": 6607,
+          "signature_count": 6608,
           "mp": "Luciana Berger MP",
           "ons_code": "E14000795",
           "name": "Liverpool, Wavertree"
@@ -3471,7 +3471,7 @@
           "name": "Wakefield"
         },
         {
-          "signature_count": 4558,
+          "signature_count": 4559,
           "mp": "Ms Angela Eagle MP",
           "ons_code": "E14001010",
           "name": "Wallasey"
@@ -3525,7 +3525,7 @@
           "name": "Warrington South"
         },
         {
-          "signature_count": 9744,
+          "signature_count": 9745,
           "mp": "Chris White MP",
           "ons_code": "E14001019",
           "name": "Warwick and Leamington"
@@ -4960,12 +4960,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3935471,
+          "signature_count": 3935480,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16796,
+          "signature_count": 16797,
           "code": "US",
           "name": "United States"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-02T18:35:57.188Z",
+      "updated_at": "2016-07-02T18:36:49.674Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4098608,
+      "signature_count": 4098618,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
