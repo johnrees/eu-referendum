@@ -363,7 +363,7 @@
           "name": "Barrow and Furness"
         },
         {
-          "signature_count": 3602,
+          "signature_count": 3603,
           "mp": "Mr John Baron MP",
           "ons_code": "E14000544",
           "name": "Basildon and Billericay"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23562,
+          "signature_count": 23563,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -1767,7 +1767,7 @@
           "name": "Hornsey and Wood Green"
         },
         {
-          "signature_count": 8368,
+          "signature_count": 8369,
           "mp": "Jeremy Quin MP",
           "ons_code": "E14000753",
           "name": "Horsham"
@@ -2121,7 +2121,7 @@
           "name": "Manchester, Gorton"
         },
         {
-          "signature_count": 13592,
+          "signature_count": 13593,
           "mp": "Jeff Smith MP",
           "ons_code": "E14000809",
           "name": "Manchester, Withington"
@@ -2601,7 +2601,7 @@
           "name": "Penistone and Stocksbridge"
         },
         {
-          "signature_count": 4312,
+          "signature_count": 4313,
           "mp": "Rory Stewart MP",
           "ons_code": "E14000877",
           "name": "Penrith and The Border"
@@ -2733,7 +2733,7 @@
           "name": "Richmond (Yorks)"
         },
         {
-          "signature_count": 20412,
+          "signature_count": 20413,
           "mp": "Zac Goldsmith MP",
           "ons_code": "E14000896",
           "name": "Richmond Park"
@@ -3153,7 +3153,7 @@
           "name": "St Helens South and Whiston"
         },
         {
-          "signature_count": 5633,
+          "signature_count": 5634,
           "mp": "Derek Thomas MP",
           "ons_code": "E14000964",
           "name": "St Ives"
@@ -3879,7 +3879,7 @@
           "name": "East Dunbartonshire"
         },
         {
-          "signature_count": 2801,
+          "signature_count": 2803,
           "mp": "Dr Lisa Cameron MP",
           "ons_code": "S14000019",
           "name": "East Kilbride, Strathaven and Lesmahagow"
@@ -4090,7 +4090,7 @@
           "name": "Cameroon"
         },
         {
-          "signature_count": 6218,
+          "signature_count": 6219,
           "code": "CA",
           "name": "Canada"
         },
@@ -4860,7 +4860,7 @@
           "name": "Sweden"
         },
         {
-          "signature_count": 3462,
+          "signature_count": 3463,
           "code": "CH",
           "name": "Switzerland"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3932671,
+          "signature_count": 3932680,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-02T14:06:45.189Z",
+      "updated_at": "2016-07-02T14:07:56.962Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4095562,
+      "signature_count": 4095573,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
