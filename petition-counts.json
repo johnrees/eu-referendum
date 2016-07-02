@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 19082,
+          "signature_count": 19083,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -723,7 +723,7 @@
           "name": "Brigg and Goole"
         },
         {
-          "signature_count": 9961,
+          "signature_count": 9962,
           "mp": "Simon Kirby MP",
           "ons_code": "E14000597",
           "name": "Brighton, Kemptown"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23563,
+          "signature_count": 23564,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -849,7 +849,7 @@
           "name": "Camborne and Redruth"
         },
         {
-          "signature_count": 17528,
+          "signature_count": 17529,
           "mp": "Daniel Zeichner MP",
           "ons_code": "E14000617",
           "name": "Cambridge"
@@ -933,7 +933,7 @@
           "name": "Central Suffolk and North Ipswich"
         },
         {
-          "signature_count": 5275,
+          "signature_count": 5276,
           "mp": "Mr Mark Williams MP",
           "ons_code": "W07000064",
           "name": "Ceredigion"
@@ -1119,7 +1119,7 @@
           "name": "Crawley"
         },
         {
-          "signature_count": 4718,
+          "signature_count": 4719,
           "mp": "Edward Timpson MP",
           "ons_code": "E14000653",
           "name": "Crewe and Nantwich"
@@ -1263,13 +1263,13 @@
           "name": "Dwyfor Meirionnydd"
         },
         {
-          "signature_count": 17288,
+          "signature_count": 17289,
           "mp": "Dr Rupa Huq MP",
           "ons_code": "E14000674",
           "name": "Ealing Central and Acton"
         },
         {
-          "signature_count": 8513,
+          "signature_count": 8515,
           "mp": "Stephen Pound MP",
           "ons_code": "E14000675",
           "name": "Ealing North"
@@ -1575,7 +1575,7 @@
           "name": "Hackney North and Stoke Newington"
         },
         {
-          "signature_count": 19636,
+          "signature_count": 19637,
           "mp": "Meg Hillier MP",
           "ons_code": "E14000721",
           "name": "Hackney South and Shoreditch"
@@ -1851,7 +1851,7 @@
           "name": "Jarrow"
         },
         {
-          "signature_count": 5275,
+          "signature_count": 5276,
           "mp": "Kris Hopkins MP",
           "ons_code": "E14000766",
           "name": "Keighley"
@@ -2637,7 +2637,7 @@
           "name": "Poole"
         },
         {
-          "signature_count": 17431,
+          "signature_count": 17432,
           "mp": "Jim Fitzpatrick MP",
           "ons_code": "E14000882",
           "name": "Poplar and Limehouse"
@@ -2691,7 +2691,7 @@
           "name": "Reading East"
         },
         {
-          "signature_count": 7087,
+          "signature_count": 7088,
           "mp": "Alok Sharma MP",
           "ons_code": "E14000890",
           "name": "Reading West"
@@ -2721,7 +2721,7 @@
           "name": "Rhondda"
         },
         {
-          "signature_count": 4555,
+          "signature_count": 4556,
           "mp": "Mr Nigel Evans MP",
           "ons_code": "E14000894",
           "name": "Ribble Valley"
@@ -2769,7 +2769,7 @@
           "name": "Romsey and Southampton North"
         },
         {
-          "signature_count": 3792,
+          "signature_count": 3793,
           "mp": "Jake Berry MP",
           "ons_code": "E14000902",
           "name": "Rossendale and Darwen"
@@ -2949,7 +2949,7 @@
           "name": "Solihull"
         },
         {
-          "signature_count": 8186,
+          "signature_count": 8187,
           "mp": "David Warburton MP",
           "ons_code": "E14000932",
           "name": "Somerton and Frome"
@@ -3129,7 +3129,7 @@
           "name": "Spelthorne"
         },
         {
-          "signature_count": 12542,
+          "signature_count": 12543,
           "mp": "Mrs Anne Main MP",
           "ons_code": "E14000960",
           "name": "St Albans"
@@ -3243,7 +3243,7 @@
           "name": "Stratford-on-Avon"
         },
         {
-          "signature_count": 17920,
+          "signature_count": 17921,
           "mp": "Mr Chuka Umunna MP",
           "ons_code": "E14000978",
           "name": "Streatham"
@@ -3873,7 +3873,7 @@
           "name": "Dunfermline and West Fife"
         },
         {
-          "signature_count": 4704,
+          "signature_count": 4706,
           "mp": "John Nicolson MP",
           "ons_code": "S14000018",
           "name": "East Dunbartonshire"
@@ -4960,12 +4960,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3933107,
+          "signature_count": 3933127,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16765,
+          "signature_count": 16766,
           "code": "US",
           "name": "United States"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-02T15:07:00.813Z",
+      "updated_at": "2016-07-02T15:07:55.661Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4096029,
+      "signature_count": 4096050,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
