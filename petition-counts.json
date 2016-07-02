@@ -891,7 +891,7 @@
           "name": "Cardiff West"
         },
         {
-          "signature_count": 2897,
+          "signature_count": 2898,
           "mp": "John Stevenson MP",
           "ons_code": "E14000620",
           "name": "Carlisle"
@@ -1017,13 +1017,13 @@
           "name": "Chorley"
         },
         {
-          "signature_count": 4730,
+          "signature_count": 4731,
           "mp": "Mr Christopher Chope MP",
           "ons_code": "E14000638",
           "name": "Christchurch"
         },
         {
-          "signature_count": 18849,
+          "signature_count": 18850,
           "mp": "Rt Hon Mark Field MP",
           "ons_code": "E14000639",
           "name": "Cities of London and Westminster"
@@ -1137,7 +1137,7 @@
           "name": "Croydon North"
         },
         {
-          "signature_count": 8934,
+          "signature_count": 8935,
           "mp": "Chris Philp MP",
           "ons_code": "E14000656",
           "name": "Croydon South"
@@ -1761,7 +1761,7 @@
           "name": "Hornchurch and Upminster"
         },
         {
-          "signature_count": 23892,
+          "signature_count": 23893,
           "mp": "Catherine West MP",
           "ons_code": "E14000752",
           "name": "Hornsey and Wood Green"
@@ -2145,7 +2145,7 @@
           "name": "Meon Valley"
         },
         {
-          "signature_count": 5387,
+          "signature_count": 5388,
           "mp": "Rt Hon Caroline Spelman MP",
           "ons_code": "E14000812",
           "name": "Meriden"
@@ -2355,7 +2355,7 @@
           "name": "North Cornwall"
         },
         {
-          "signature_count": 5206,
+          "signature_count": 5207,
           "mp": "Peter Heaton-Jones MP",
           "ons_code": "E14000838",
           "name": "North Devon"
@@ -2535,7 +2535,7 @@
           "name": "Nottingham North"
         },
         {
-          "signature_count": 6543,
+          "signature_count": 6545,
           "mp": "Lilian Greenwood MP",
           "ons_code": "E14000867",
           "name": "Nottingham South"
@@ -2907,7 +2907,7 @@
           "name": "Sherwood"
         },
         {
-          "signature_count": 6022,
+          "signature_count": 6023,
           "mp": "Philip Davies MP",
           "ons_code": "E14000925",
           "name": "Shipley"
@@ -3081,7 +3081,7 @@
           "name": "South West Hertfordshire"
         },
         {
-          "signature_count": 3542,
+          "signature_count": 3543,
           "mp": "Rt Hon Elizabeth Truss MP",
           "ons_code": "E14000952",
           "name": "South West Norfolk"
@@ -3417,7 +3417,7 @@
           "name": "Truro and Falmouth"
         },
         {
-          "signature_count": 10151,
+          "signature_count": 10152,
           "mp": "Rt Hon Greg Clark MP",
           "ons_code": "E14001004",
           "name": "Tunbridge Wells"
@@ -3843,7 +3843,7 @@
           "name": "Cumbernauld, Kilsyth and Kirkintilloch East"
         },
         {
-          "signature_count": 2348,
+          "signature_count": 2349,
           "mp": "Richard Arkless MP",
           "ons_code": "S14000013",
           "name": "Dumfries and Galloway"
@@ -4270,7 +4270,7 @@
           "name": "Georgia"
         },
         {
-          "signature_count": 11035,
+          "signature_count": 11036,
           "code": "DE",
           "name": "Germany"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3934450,
+          "signature_count": 3934463,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-02T16:38:52.256Z",
+      "updated_at": "2016-07-02T16:40:01.864Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4097510,
+      "signature_count": 4097524,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
