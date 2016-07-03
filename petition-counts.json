@@ -903,7 +903,7 @@
           "name": "Carmarthen East and Dinefwr"
         },
         {
-          "signature_count": 3346,
+          "signature_count": 3347,
           "mp": "Simon Hart MP",
           "ons_code": "W07000066",
           "name": "Carmarthen West and South Pembrokeshire"
@@ -1131,7 +1131,7 @@
           "name": "Croydon Central"
         },
         {
-          "signature_count": 9427,
+          "signature_count": 9428,
           "mp": "Mr Steve Reed MP",
           "ons_code": "E14000655",
           "name": "Croydon North"
@@ -1497,7 +1497,7 @@
           "name": "Garston and Halewood"
         },
         {
-          "signature_count": 3972,
+          "signature_count": 3973,
           "mp": "Ian Mearns MP",
           "ons_code": "E14000709",
           "name": "Gateshead"
@@ -2229,7 +2229,7 @@
           "name": "Mitcham and Morden"
         },
         {
-          "signature_count": 9873,
+          "signature_count": 9874,
           "mp": "Sir Paul Beresford MP",
           "ons_code": "E14000824",
           "name": "Mole Valley"
@@ -2781,7 +2781,7 @@
           "name": "Rother Valley"
         },
         {
-          "signature_count": 2125,
+          "signature_count": 2126,
           "mp": "Sarah Champion MP",
           "ons_code": "E14000904",
           "name": "Rotherham"
@@ -3045,7 +3045,7 @@
           "name": "South Staffordshire"
         },
         {
-          "signature_count": 5961,
+          "signature_count": 5962,
           "mp": "James Cartlidge MP",
           "ons_code": "E14000946",
           "name": "South Suffolk"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3941371,
+          "signature_count": 3941377,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-03T16:53:00.704Z",
+      "updated_at": "2016-07-03T16:54:03.473Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4104868,
+      "signature_count": 4104874,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
