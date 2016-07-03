@@ -57,7 +57,7 @@
           "name": "Glasgow East"
         },
         {
-          "signature_count": 5491,
+          "signature_count": 5492,
           "mp": "Patrick Grady MP",
           "ons_code": "S14000031",
           "name": "Glasgow North"
@@ -753,7 +753,7 @@
           "name": "Bristol South"
         },
         {
-          "signature_count": 23599,
+          "signature_count": 23600,
           "mp": "Thangam Debbonaire MP",
           "ons_code": "E14000602",
           "name": "Bristol West"
@@ -807,7 +807,7 @@
           "name": "Burton"
         },
         {
-          "signature_count": 4247,
+          "signature_count": 4248,
           "mp": "Mr David Nuttall MP",
           "ons_code": "E14000611",
           "name": "Bury North"
@@ -1353,7 +1353,7 @@
           "name": "Eddisbury"
         },
         {
-          "signature_count": 5095,
+          "signature_count": 5096,
           "mp": "Kate Osamor MP",
           "ons_code": "E14000687",
           "name": "Edmonton"
@@ -3087,7 +3087,7 @@
           "name": "South West Norfolk"
         },
         {
-          "signature_count": 11805,
+          "signature_count": 11806,
           "mp": "Rt Hon Jeremy Hunt MP",
           "ons_code": "E14000953",
           "name": "South West Surrey"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3938825,
+          "signature_count": 3938830,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-03T09:30:50.826Z",
+      "updated_at": "2016-07-03T09:31:53.969Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4102175,
+      "signature_count": 4102180,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
