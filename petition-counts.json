@@ -693,7 +693,7 @@
           "name": "Brent North"
         },
         {
-          "signature_count": 14873,
+          "signature_count": 14874,
           "mp": "Ruth Cadbury MP",
           "ons_code": "E14000593",
           "name": "Brentford and Isleworth"
@@ -807,7 +807,7 @@
           "name": "Burton"
         },
         {
-          "signature_count": 4252,
+          "signature_count": 4253,
           "mp": "Mr David Nuttall MP",
           "ons_code": "E14000611",
           "name": "Bury North"
@@ -1473,7 +1473,7 @@
           "name": "Forest of Dean"
         },
         {
-          "signature_count": 5351,
+          "signature_count": 5352,
           "mp": "Mark Durkan MP",
           "ons_code": "N06000008",
           "name": "Foyle"
@@ -1551,7 +1551,7 @@
           "name": "Great Grimsby"
         },
         {
-          "signature_count": 2598,
+          "signature_count": 2599,
           "mp": "Brandon Lewis MP",
           "ons_code": "E14000717",
           "name": "Great Yarmouth"
@@ -2133,7 +2133,7 @@
           "name": "Mansfield"
         },
         {
-          "signature_count": 1354,
+          "signature_count": 1355,
           "mp": "Neil Gray MP",
           "ons_code": "S14000003",
           "name": "Airdrie and Shotts"
@@ -3105,7 +3105,7 @@
           "name": "Southampton, Itchen"
         },
         {
-          "signature_count": 6826,
+          "signature_count": 6827,
           "mp": "Dr Alan Whitehead MP",
           "ons_code": "E14000956",
           "name": "Southampton, Test"
@@ -4365,7 +4365,7 @@
           "name": "Iraq"
         },
         {
-          "signature_count": 4521,
+          "signature_count": 4522,
           "code": "IE",
           "name": "Ireland"
         },
@@ -4380,7 +4380,7 @@
           "name": "Israel"
         },
         {
-          "signature_count": 3986,
+          "signature_count": 3987,
           "code": "IT",
           "name": "Italy"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3942206,
+          "signature_count": 3942211,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-03T18:56:02.940Z",
+      "updated_at": "2016-07-03T18:56:55.159Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4105738,
+      "signature_count": 4105745,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
