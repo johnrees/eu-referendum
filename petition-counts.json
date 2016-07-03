@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6881,
+          "signature_count": 6882,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -789,7 +789,7 @@
           "name": "Broxtowe"
         },
         {
-          "signature_count": 9206,
+          "signature_count": 9207,
           "mp": "Rt Hon John Bercow MP",
           "ons_code": "E14000608",
           "name": "Buckingham"
@@ -1383,7 +1383,7 @@
           "name": "Enfield North"
         },
         {
-          "signature_count": 10371,
+          "signature_count": 10372,
           "mp": "Mr David Burrowes MP",
           "ons_code": "E14000692",
           "name": "Enfield, Southgate"
@@ -2463,7 +2463,7 @@
           "name": "North Warwickshire"
         },
         {
-          "signature_count": 6418,
+          "signature_count": 6419,
           "mp": "Mr Shailesh Vara MP",
           "ons_code": "E14000855",
           "name": "North West Cambridgeshire"
@@ -2799,7 +2799,7 @@
           "name": "Ruislip, Northwood and Pinner"
         },
         {
-          "signature_count": 8528,
+          "signature_count": 8529,
           "mp": "Rt Hon Philip Hammond MP",
           "ons_code": "E14000907",
           "name": "Runnymede and Weybridge"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3938949,
+          "signature_count": 3938954,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-03T09:48:54.107Z",
+      "updated_at": "2016-07-03T09:50:03.008Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4102304,
+      "signature_count": 4102309,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
