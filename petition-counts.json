@@ -75,7 +75,7 @@
           "name": "Glasgow North West"
         },
         {
-          "signature_count": 4249,
+          "signature_count": 4250,
           "mp": "Stewart Malcolm McDonald MP",
           "ons_code": "S14000034",
           "name": "Glasgow South"
@@ -423,7 +423,7 @@
           "name": "Belfast East"
         },
         {
-          "signature_count": 3956,
+          "signature_count": 3957,
           "mp": "Rt Hon Nigel Dodds MP",
           "ons_code": "N06000002",
           "name": "Belfast North"
@@ -1533,7 +1533,7 @@
           "name": "Gower"
         },
         {
-          "signature_count": 5230,
+          "signature_count": 5231,
           "mp": "Nick Boles MP",
           "ons_code": "E14000714",
           "name": "Grantham and Stamford"
@@ -1833,7 +1833,7 @@
           "name": "Islington North"
         },
         {
-          "signature_count": 18191,
+          "signature_count": 18192,
           "mp": "Emily Thornberry MP",
           "ons_code": "E14000764",
           "name": "Islington South and Finsbury"
@@ -1905,7 +1905,7 @@
           "name": "Kingswood"
         },
         {
-          "signature_count": 3759,
+          "signature_count": 3760,
           "mp": "Rt Hon George Howarth MP",
           "ons_code": "E14000775",
           "name": "Knowsley"
@@ -3075,7 +3075,7 @@
           "name": "South West Devon"
         },
         {
-          "signature_count": 10721,
+          "signature_count": 10722,
           "mp": "Mr David Gauke MP",
           "ons_code": "E14000951",
           "name": "South West Hertfordshire"
@@ -3135,7 +3135,7 @@
           "name": "St Albans"
         },
         {
-          "signature_count": 4462,
+          "signature_count": 4463,
           "mp": "Steve Double MP",
           "ons_code": "E14000961",
           "name": "St Austell and Newquay"
@@ -3195,7 +3195,7 @@
           "name": "Stockton North"
         },
         {
-          "signature_count": 3751,
+          "signature_count": 3752,
           "mp": "James Wharton MP",
           "ons_code": "E14000971",
           "name": "Stockton South"
@@ -3567,7 +3567,7 @@
           "name": "Wellingborough"
         },
         {
-          "signature_count": 6797,
+          "signature_count": 6798,
           "mp": "James Heappey MP",
           "ons_code": "E14001026",
           "name": "Wells"
@@ -4780,7 +4780,7 @@
           "name": "Somalia"
         },
         {
-          "signature_count": 1679,
+          "signature_count": 1680,
           "code": "ZA",
           "name": "South Africa"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3940570,
+          "signature_count": 3940579,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-03T14:39:54.076Z",
+      "updated_at": "2016-07-03T14:40:55.670Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4104017,
+      "signature_count": 4104027,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
