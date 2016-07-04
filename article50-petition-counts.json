@@ -321,7 +321,7 @@
           "name": "Ashford"
         },
         {
-          "signature_count": 82,
+          "signature_count": 83,
           "mp": "Angela Rayner MP",
           "ons_code": "E14000537",
           "name": "Ashton-under-Lyne"
@@ -513,7 +513,7 @@
           "name": "Birmingham, Ladywood"
         },
         {
-          "signature_count": 103,
+          "signature_count": 104,
           "mp": "Richard Burden MP",
           "ons_code": "E14000565",
           "name": "Birmingham, Northfield"
@@ -831,7 +831,7 @@
           "name": "Caerphilly"
         },
         {
-          "signature_count": 96,
+          "signature_count": 97,
           "mp": "Craig Whittaker MP",
           "ons_code": "E14000614",
           "name": "Calder Valley"
@@ -861,7 +861,7 @@
           "name": "Cannock Chase"
         },
         {
-          "signature_count": 87,
+          "signature_count": 88,
           "mp": "Mr Julian Brazier MP",
           "ons_code": "E14000619",
           "name": "Canterbury"
@@ -1167,7 +1167,7 @@
           "name": "Dartford"
         },
         {
-          "signature_count": 120,
+          "signature_count": 121,
           "mp": "Chris Heaton-Harris MP",
           "ons_code": "E14000660",
           "name": "Daventry"
@@ -1341,7 +1341,7 @@
           "name": "Eastbourne"
         },
         {
-          "signature_count": 77,
+          "signature_count": 78,
           "mp": "Mims Davies MP",
           "ons_code": "E14000685",
           "name": "Eastleigh"
@@ -1443,7 +1443,7 @@
           "name": "Feltham and Heston"
         },
         {
-          "signature_count": 20,
+          "signature_count": 21,
           "mp": "Tom Elliott MP",
           "ons_code": "N06000007",
           "name": "Fermanagh and South Tyrone"
@@ -1521,7 +1521,7 @@
           "name": "Gloucester"
         },
         {
-          "signature_count": 133,
+          "signature_count": 134,
           "mp": "Caroline Dinenage MP",
           "ons_code": "E14000713",
           "name": "Gosport"
@@ -1677,7 +1677,7 @@
           "name": "Hayes and Harlington"
         },
         {
-          "signature_count": 75,
+          "signature_count": 76,
           "mp": "William Wragg MP",
           "ons_code": "E14000738",
           "name": "Hazel Grove"
@@ -2313,7 +2313,7 @@
           "name": "Newcastle-under-Lyme"
         },
         {
-          "signature_count": 47,
+          "signature_count": 48,
           "mp": "Jessica Morden MP",
           "ons_code": "W07000055",
           "name": "Newport East"
@@ -2829,7 +2829,7 @@
           "name": "Salford and Eccles"
         },
         {
-          "signature_count": 88,
+          "signature_count": 89,
           "mp": "John Glen MP",
           "ons_code": "E14000912",
           "name": "Salisbury"
@@ -3069,7 +3069,7 @@
           "name": "South West Bedfordshire"
         },
         {
-          "signature_count": 80,
+          "signature_count": 81,
           "mp": "Mr Gary Streeter MP",
           "ons_code": "E14000950",
           "name": "South West Devon"
@@ -3081,7 +3081,7 @@
           "name": "South West Hertfordshire"
         },
         {
-          "signature_count": 135,
+          "signature_count": 136,
           "mp": "Rt Hon Elizabeth Truss MP",
           "ons_code": "E14000952",
           "name": "South West Norfolk"
@@ -3267,7 +3267,7 @@
           "name": "Suffolk Coastal"
         },
         {
-          "signature_count": 104,
+          "signature_count": 105,
           "mp": "Julie Elliott MP",
           "ons_code": "E14000982",
           "name": "Sunderland Central"
@@ -3429,7 +3429,7 @@
           "name": "Twickenham"
         },
         {
-          "signature_count": 105,
+          "signature_count": 106,
           "mp": "Rt Hon Alan Campbell MP",
           "ons_code": "E14001006",
           "name": "Tynemouth"
@@ -3459,7 +3459,7 @@
           "name": "Vale of Glamorgan"
         },
         {
-          "signature_count": 44,
+          "signature_count": 45,
           "mp": "Kate Hoey MP",
           "ons_code": "E14001008",
           "name": "Vauxhall"
@@ -3801,7 +3801,7 @@
           "name": "York Central"
         },
         {
-          "signature_count": 79,
+          "signature_count": 80,
           "mp": "Julian Sturdy MP",
           "ons_code": "E14001062",
           "name": "York Outer"
@@ -4245,7 +4245,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 52371,
+          "signature_count": 52388,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4295,9 +4295,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T18:19:01.079Z",
+      "updated_at": "2016-07-04T18:20:05.701Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 53262,
+      "signature_count": 53279,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
