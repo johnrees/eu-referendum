@@ -405,7 +405,7 @@
           "name": "Beaconsfield"
         },
         {
-          "signature_count": 84,
+          "signature_count": 85,
           "mp": "Bob Stewart MP",
           "ons_code": "E14000551",
           "name": "Beckenham"
@@ -465,7 +465,7 @@
           "name": "Beverley and Holderness"
         },
         {
-          "signature_count": 107,
+          "signature_count": 108,
           "mp": "Huw Merriman MP",
           "ons_code": "E14000557",
           "name": "Bexhill and Battle"
@@ -729,7 +729,7 @@
           "name": "Brighton, Kemptown"
         },
         {
-          "signature_count": 59,
+          "signature_count": 60,
           "mp": "Caroline Lucas MP",
           "ons_code": "E14000598",
           "name": "Brighton, Pavilion"
@@ -1005,7 +1005,7 @@
           "name": "Chippenham"
         },
         {
-          "signature_count": 47,
+          "signature_count": 48,
           "mp": "Rt Hon Theresa Villiers MP",
           "ons_code": "E14000636",
           "name": "Chipping Barnet"
@@ -1083,7 +1083,7 @@
           "name": "Congleton"
         },
         {
-          "signature_count": 81,
+          "signature_count": 82,
           "mp": "Mr Jamie Reed MP",
           "ons_code": "E14000647",
           "name": "Copeland"
@@ -1755,7 +1755,7 @@
           "name": "Holborn and St Pancras"
         },
         {
-          "signature_count": 132,
+          "signature_count": 133,
           "mp": "Dame Angela Watkinson MP",
           "ons_code": "E14000751",
           "name": "Hornchurch and Upminster"
@@ -1935,7 +1935,7 @@
           "name": "Leeds East"
         },
         {
-          "signature_count": 41,
+          "signature_count": 42,
           "mp": "Fabian Hamilton MP",
           "ons_code": "E14000779",
           "name": "Leeds North East"
@@ -2145,7 +2145,7 @@
           "name": "Meon Valley"
         },
         {
-          "signature_count": 84,
+          "signature_count": 85,
           "mp": "Rt Hon Caroline Spelman MP",
           "ons_code": "E14000812",
           "name": "Meriden"
@@ -2511,7 +2511,7 @@
           "name": "Northampton South"
         },
         {
-          "signature_count": 89,
+          "signature_count": 90,
           "mp": "Chloe Smith MP",
           "ons_code": "E14000863",
           "name": "Norwich North"
@@ -2715,7 +2715,7 @@
           "name": "Reigate"
         },
         {
-          "signature_count": 50,
+          "signature_count": 51,
           "mp": "Chris Bryant MP",
           "ons_code": "W07000052",
           "name": "Rhondda"
@@ -2949,7 +2949,7 @@
           "name": "Solihull"
         },
         {
-          "signature_count": 90,
+          "signature_count": 91,
           "mp": "David Warburton MP",
           "ons_code": "E14000932",
           "name": "Somerton and Frome"
@@ -3291,7 +3291,7 @@
           "name": "Sutton Coldfield"
         },
         {
-          "signature_count": 73,
+          "signature_count": 74,
           "mp": "Carolyn Harris MP",
           "ons_code": "W07000048",
           "name": "Swansea East"
@@ -3489,7 +3489,7 @@
           "name": "Walsall South"
         },
         {
-          "signature_count": 49,
+          "signature_count": 50,
           "mp": "Stella Creasy MP",
           "ons_code": "E14001013",
           "name": "Walthamstow"
@@ -3651,7 +3651,7 @@
           "name": "Weston-super-Mare"
         },
         {
-          "signature_count": 116,
+          "signature_count": 117,
           "mp": "Lisa Nandy MP",
           "ons_code": "E14001039",
           "name": "Wigan"
@@ -4250,7 +4250,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 54271,
+          "signature_count": 54285,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4300,9 +4300,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T20:44:04.206Z",
+      "updated_at": "2016-07-04T20:44:56.580Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 55183,
+      "signature_count": 55197,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
