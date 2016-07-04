@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 19140,
+          "signature_count": 19141,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -1131,7 +1131,7 @@
           "name": "Croydon Central"
         },
         {
-          "signature_count": 9434,
+          "signature_count": 9435,
           "mp": "Mr Steve Reed MP",
           "ons_code": "E14000655",
           "name": "Croydon North"
@@ -1443,7 +1443,7 @@
           "name": "Feltham and Heston"
         },
         {
-          "signature_count": 3183,
+          "signature_count": 3184,
           "mp": "Tom Elliott MP",
           "ons_code": "N06000007",
           "name": "Fermanagh and South Tyrone"
@@ -1473,7 +1473,7 @@
           "name": "Forest of Dean"
         },
         {
-          "signature_count": 5514,
+          "signature_count": 5515,
           "mp": "Mark Durkan MP",
           "ons_code": "N06000008",
           "name": "Foyle"
@@ -1965,7 +1965,7 @@
           "name": "Leicester South"
         },
         {
-          "signature_count": 4223,
+          "signature_count": 4224,
           "mp": "Liz Kendall MP",
           "ons_code": "E14000784",
           "name": "Leicester West"
@@ -1989,7 +1989,7 @@
           "name": "Lewisham East"
         },
         {
-          "signature_count": 13062,
+          "signature_count": 13063,
           "mp": "Jim Dowd MP",
           "ons_code": "E14000788",
           "name": "Lewisham West and Penge"
@@ -2475,7 +2475,7 @@
           "name": "North West Durham"
         },
         {
-          "signature_count": 6782,
+          "signature_count": 6783,
           "mp": "Kit Malthouse MP",
           "ons_code": "E14000857",
           "name": "North West Hampshire"
@@ -2577,7 +2577,7 @@
           "name": "Orpington"
         },
         {
-          "signature_count": 15137,
+          "signature_count": 15138,
           "mp": "Rt Hon Andrew Smith MP",
           "ons_code": "E14000873",
           "name": "Oxford East"
@@ -2865,7 +2865,7 @@
           "name": "Selby and Ainsty"
         },
         {
-          "signature_count": 7385,
+          "signature_count": 7386,
           "mp": "Rt Hon Michael Fallon MP",
           "ons_code": "E14000918",
           "name": "Sevenoaks"
@@ -3897,7 +3897,7 @@
           "name": "East Lothian"
         },
         {
-          "signature_count": 4520,
+          "signature_count": 4521,
           "mp": "Kirsten Oswald MP",
           "ons_code": "S14000021",
           "name": "East Renfrewshire"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3949362,
+          "signature_count": 3949372,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T10:17:58.948Z",
+      "updated_at": "2016-07-04T10:19:00.352Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4109477,
+      "signature_count": 4109487,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
