@@ -57,7 +57,7 @@
           "name": "Glasgow East"
         },
         {
-          "signature_count": 5504,
+          "signature_count": 5505,
           "mp": "Patrick Grady MP",
           "ons_code": "S14000031",
           "name": "Glasgow North"
@@ -585,7 +585,7 @@
           "name": "Blyth Valley"
         },
         {
-          "signature_count": 4067,
+          "signature_count": 4068,
           "mp": "Nick Gibb MP",
           "ons_code": "E14000576",
           "name": "Bognor Regis and Littlehampton"
@@ -1455,7 +1455,7 @@
           "name": "Filton and Bradley Stoke"
         },
         {
-          "signature_count": 16079,
+          "signature_count": 16080,
           "mp": "Mike Freer MP",
           "ons_code": "E14000703",
           "name": "Finchley and Golders Green"
@@ -1473,7 +1473,7 @@
           "name": "Forest of Dean"
         },
         {
-          "signature_count": 5524,
+          "signature_count": 5525,
           "mp": "Mark Durkan MP",
           "ons_code": "N06000008",
           "name": "Foyle"
@@ -1821,7 +1821,7 @@
           "name": "Ipswich"
         },
         {
-          "signature_count": 6731,
+          "signature_count": 6732,
           "mp": "Mr Andrew Turner MP",
           "ons_code": "E14000762",
           "name": "Isle of Wight"
@@ -3633,7 +3633,7 @@
           "name": "West Worcestershire"
         },
         {
-          "signature_count": 16198,
+          "signature_count": 16199,
           "mp": "Ms Karen Buck MP",
           "ons_code": "E14001036",
           "name": "Westminster North"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3949832,
+          "signature_count": 3949838,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T11:27:00.932Z",
+      "updated_at": "2016-07-04T11:27:53.792Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4109966,
+      "signature_count": 4109972,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
