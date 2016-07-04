@@ -501,7 +501,7 @@
           "name": "Birmingham, Hall Green"
         },
         {
-          "signature_count": 39,
+          "signature_count": 40,
           "mp": "Rt Hon Liam Byrne MP",
           "ons_code": "E14000563",
           "name": "Birmingham, Hodge Hill"
@@ -987,7 +987,7 @@
           "name": "Chesterfield"
         },
         {
-          "signature_count": 85,
+          "signature_count": 86,
           "mp": "Rt Hon Andrew Tyrie MP",
           "ons_code": "E14000633",
           "name": "Chichester"
@@ -1533,7 +1533,7 @@
           "name": "Gower"
         },
         {
-          "signature_count": 134,
+          "signature_count": 135,
           "mp": "Nick Boles MP",
           "ons_code": "E14000714",
           "name": "Grantham and Stamford"
@@ -1929,7 +1929,7 @@
           "name": "Leeds Central"
         },
         {
-          "signature_count": 71,
+          "signature_count": 72,
           "mp": "Richard Burgon MP",
           "ons_code": "E14000778",
           "name": "Leeds East"
@@ -1947,7 +1947,7 @@
           "name": "Leeds North West"
         },
         {
-          "signature_count": 66,
+          "signature_count": 67,
           "mp": "Rachel Reeves MP",
           "ons_code": "E14000781",
           "name": "Leeds West"
@@ -2157,7 +2157,7 @@
           "name": "Merthyr Tydfil and Rhymney"
         },
         {
-          "signature_count": 92,
+          "signature_count": 93,
           "mp": "Nadine Dorries MP",
           "ons_code": "E14000813",
           "name": "Mid Bedfordshire"
@@ -2565,7 +2565,7 @@
           "name": "Oldham East and Saddleworth"
         },
         {
-          "signature_count": 96,
+          "signature_count": 97,
           "mp": "Jim McMahon MP",
           "ons_code": "E14000871",
           "name": "Oldham West and Royton"
@@ -3183,13 +3183,13 @@
           "name": "Stevenage"
         },
         {
-          "signature_count": 78,
+          "signature_count": 79,
           "mp": "Ann Coffey MP",
           "ons_code": "E14000969",
           "name": "Stockport"
         },
         {
-          "signature_count": 110,
+          "signature_count": 111,
           "mp": "Alex Cunningham MP",
           "ons_code": "E14000970",
           "name": "Stockton North"
@@ -3213,7 +3213,7 @@
           "name": "Stoke-on-Trent North"
         },
         {
-          "signature_count": 116,
+          "signature_count": 117,
           "mp": "Robert Flello MP",
           "ons_code": "E14000974",
           "name": "Stoke-on-Trent South"
@@ -3603,7 +3603,7 @@
           "name": "West Dorset"
         },
         {
-          "signature_count": 51,
+          "signature_count": 52,
           "mp": "Lyn Brown MP",
           "ons_code": "E14001032",
           "name": "West Ham"
@@ -3711,7 +3711,7 @@
           "name": "Wokingham"
         },
         {
-          "signature_count": 77,
+          "signature_count": 78,
           "mp": "Emma Reynolds MP",
           "ons_code": "E14001049",
           "name": "Wolverhampton North East"
@@ -3789,7 +3789,7 @@
           "name": "Yeovil"
         },
         {
-          "signature_count": 60,
+          "signature_count": 61,
           "mp": "Albert Owen MP",
           "ons_code": "W07000041",
           "name": "Ynys Môn"
@@ -4245,7 +4245,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 52709,
+          "signature_count": 52722,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4295,9 +4295,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T18:44:02.491Z",
+      "updated_at": "2016-07-04T18:45:04.379Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 53604,
+      "signature_count": 53617,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
