@@ -603,7 +603,7 @@
           "name": "Bolton North East"
         },
         {
-          "signature_count": 3354,
+          "signature_count": 3355,
           "mp": "Yasmin Qureshi MP",
           "ons_code": "E14000579",
           "name": "Bolton South East"
@@ -1107,7 +1107,7 @@
           "name": "Coventry North West"
         },
         {
-          "signature_count": 8690,
+          "signature_count": 8731,
           "mp": "Mr Jim Cunningham MP",
           "ons_code": "E14000651",
           "name": "Coventry South"
@@ -1869,7 +1869,7 @@
           "name": "Kensington"
         },
         {
-          "signature_count": 4053,
+          "signature_count": 4054,
           "mp": "Mr Philip Hollobone MP",
           "ons_code": "E14000769",
           "name": "Kettering"
@@ -4960,12 +4960,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3946756,
+          "signature_count": 3946799,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16844,
+          "signature_count": 16845,
           "code": "US",
           "name": "United States"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T01:43:02.621Z",
+      "updated_at": "2016-07-04T01:44:04.119Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4110375,
+      "signature_count": 4110419,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
