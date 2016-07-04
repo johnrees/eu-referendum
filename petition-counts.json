@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6895,
+          "signature_count": 6896,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -285,7 +285,7 @@
           "name": "Altrincham and Sale West"
         },
         {
-          "signature_count": 3693,
+          "signature_count": 3694,
           "mp": "Mark Tami MP",
           "ons_code": "W07000043",
           "name": "Alyn and Deeside"
@@ -813,7 +813,7 @@
           "name": "Bury North"
         },
         {
-          "signature_count": 5110,
+          "signature_count": 5111,
           "mp": "Mr Ivan Lewis MP",
           "ons_code": "E14000612",
           "name": "Bury South"
@@ -1269,7 +1269,7 @@
           "name": "Ealing Central and Acton"
         },
         {
-          "signature_count": 8546,
+          "signature_count": 8547,
           "mp": "Stephen Pound MP",
           "ons_code": "E14000675",
           "name": "Ealing North"
@@ -1413,7 +1413,7 @@
           "name": "Erith and Thamesmead"
         },
         {
-          "signature_count": 12747,
+          "signature_count": 12748,
           "mp": "Dominic Raab MP",
           "ons_code": "E14000697",
           "name": "Esher and Walton"
@@ -1473,7 +1473,7 @@
           "name": "Forest of Dean"
         },
         {
-          "signature_count": 5561,
+          "signature_count": 5562,
           "mp": "Mark Durkan MP",
           "ons_code": "N06000008",
           "name": "Foyle"
@@ -2019,7 +2019,7 @@
           "name": "Lincoln"
         },
         {
-          "signature_count": 9929,
+          "signature_count": 9930,
           "mp": "Mrs Louise Ellman MP",
           "ons_code": "E14000793",
           "name": "Liverpool, Riverside"
@@ -3759,7 +3759,7 @@
           "name": "Wrexham"
         },
         {
-          "signature_count": 8097,
+          "signature_count": 8098,
           "mp": "Mr Steve Baker MP",
           "ons_code": "E14001056",
           "name": "Wycombe"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3951516,
+          "signature_count": 3951524,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T16:26:26.547Z",
+      "updated_at": "2016-07-04T16:27:59.199Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4111736,
+      "signature_count": 4111744,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
