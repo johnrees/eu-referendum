@@ -309,7 +309,7 @@
           "name": "Arundel and South Downs"
         },
         {
-          "signature_count": 131,
+          "signature_count": 132,
           "mp": "Gloria De Piero MP",
           "ons_code": "E14000535",
           "name": "Ashfield"
@@ -357,7 +357,7 @@
           "name": "Barnsley East"
         },
         {
-          "signature_count": 88,
+          "signature_count": 89,
           "mp": "John Woodcock MP",
           "ons_code": "E14000543",
           "name": "Barrow and Furness"
@@ -531,7 +531,7 @@
           "name": "Birmingham, Selly Oak"
         },
         {
-          "signature_count": 57,
+          "signature_count": 58,
           "mp": "Jess Phillips MP",
           "ons_code": "E14000568",
           "name": "Birmingham, Yardley"
@@ -1095,13 +1095,13 @@
           "name": "Corby"
         },
         {
-          "signature_count": 92,
+          "signature_count": 93,
           "mp": "Colleen Fletcher MP",
           "ons_code": "E14000649",
           "name": "Coventry North East"
         },
         {
-          "signature_count": 59,
+          "signature_count": 60,
           "mp": "Mr Geoffrey Robinson MP",
           "ons_code": "E14000650",
           "name": "Coventry North West"
@@ -1401,7 +1401,7 @@
           "name": "Epsom and Ewell"
         },
         {
-          "signature_count": 101,
+          "signature_count": 102,
           "mp": "Maggie Throup MP",
           "ons_code": "E14000695",
           "name": "Erewash"
@@ -1437,7 +1437,7 @@
           "name": "Faversham and Mid Kent"
         },
         {
-          "signature_count": 71,
+          "signature_count": 72,
           "mp": "Seema Malhotra MP",
           "ons_code": "E14000701",
           "name": "Feltham and Heston"
@@ -1701,7 +1701,7 @@
           "name": "Hendon"
         },
         {
-          "signature_count": 62,
+          "signature_count": 63,
           "mp": "John Howell MP",
           "ons_code": "E14000742",
           "name": "Henley"
@@ -2349,7 +2349,7 @@
           "name": "North Antrim"
         },
         {
-          "signature_count": 84,
+          "signature_count": 85,
           "mp": "Scott Mann MP",
           "ons_code": "E14000837",
           "name": "North Cornwall"
@@ -2745,13 +2745,13 @@
           "name": "Rochdale"
         },
         {
-          "signature_count": 126,
+          "signature_count": 127,
           "mp": "Kelly Tolhurst MP",
           "ons_code": "E14000898",
           "name": "Rochester and Strood"
         },
         {
-          "signature_count": 117,
+          "signature_count": 118,
           "mp": "James Duddridge MP",
           "ons_code": "E14000899",
           "name": "Rochford and Southend East"
@@ -2811,7 +2811,7 @@
           "name": "Rushcliffe"
         },
         {
-          "signature_count": 81,
+          "signature_count": 82,
           "mp": "Rt Hon Sir Alan Duncan MP",
           "ons_code": "E14000909",
           "name": "Rutland and Melton"
@@ -2853,7 +2853,7 @@
           "name": "Sedgefield"
         },
         {
-          "signature_count": 60,
+          "signature_count": 61,
           "mp": "Bill Esterson MP",
           "ons_code": "E14000916",
           "name": "Sefton Central"
@@ -3141,13 +3141,13 @@
           "name": "St Austell and Newquay"
         },
         {
-          "signature_count": 89,
+          "signature_count": 90,
           "mp": "Conor McGinn MP",
           "ons_code": "E14000962",
           "name": "St Helens North"
         },
         {
-          "signature_count": 111,
+          "signature_count": 112,
           "mp": "Marie Rimmer MP",
           "ons_code": "E14000963",
           "name": "St Helens South and Whiston"
@@ -3609,7 +3609,7 @@
           "name": "West Ham"
         },
         {
-          "signature_count": 93,
+          "signature_count": 94,
           "mp": "Rosie Cooper MP",
           "ons_code": "E14001033",
           "name": "West Lancashire"
@@ -3711,7 +3711,7 @@
           "name": "Wokingham"
         },
         {
-          "signature_count": 75,
+          "signature_count": 76,
           "mp": "Emma Reynolds MP",
           "ons_code": "E14001049",
           "name": "Wolverhampton North East"
@@ -4070,7 +4070,7 @@
           "name": "Indonesia"
         },
         {
-          "signature_count": 30,
+          "signature_count": 31,
           "code": "IE",
           "name": "Ireland"
         },
@@ -4245,7 +4245,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 51878,
+          "signature_count": 51895,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4295,9 +4295,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T17:47:57.707Z",
+      "updated_at": "2016-07-04T17:49:00.659Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 52760,
+      "signature_count": 52778,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
