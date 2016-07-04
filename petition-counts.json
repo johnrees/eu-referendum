@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 19159,
+          "signature_count": 19160,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -1749,7 +1749,7 @@
           "name": "Hitchin and Harpenden"
         },
         {
-          "signature_count": 21826,
+          "signature_count": 21827,
           "mp": "Keir Starmer MP",
           "ons_code": "E14000750",
           "name": "Holborn and St Pancras"
@@ -2427,7 +2427,7 @@
           "name": "North Norfolk"
         },
         {
-          "signature_count": 4479,
+          "signature_count": 4480,
           "mp": "Rt Hon Owen Paterson MP",
           "ons_code": "E14000849",
           "name": "North Shropshire"
@@ -2955,7 +2955,7 @@
           "name": "Somerton and Frome"
         },
         {
-          "signature_count": 3470,
+          "signature_count": 3471,
           "mp": "Danny Kinahan MP",
           "ons_code": "N06000014",
           "name": "South Antrim"
@@ -3231,7 +3231,7 @@
           "name": "Stourbridge"
         },
         {
-          "signature_count": 2988,
+          "signature_count": 2989,
           "mp": "Jim Shannon MP",
           "ons_code": "N06000016",
           "name": "Strangford"
@@ -3291,7 +3291,7 @@
           "name": "Sutton Coldfield"
         },
         {
-          "signature_count": 2650,
+          "signature_count": 2651,
           "mp": "Carolyn Harris MP",
           "ons_code": "W07000048",
           "name": "Swansea East"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3952510,
+          "signature_count": 3952516,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T19:34:57.162Z",
+      "updated_at": "2016-07-04T19:35:56.356Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4112784,
+      "signature_count": 4112790,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
