@@ -153,7 +153,7 @@
           "name": "Midlothian"
         },
         {
-          "signature_count": 26,
+          "signature_count": 27,
           "mp": "Callum McCaig MP",
           "ons_code": "S14000002",
           "name": "Aberdeen South"
@@ -357,7 +357,7 @@
           "name": "Barnsley East"
         },
         {
-          "signature_count": 85,
+          "signature_count": 86,
           "mp": "John Woodcock MP",
           "ons_code": "E14000543",
           "name": "Barrow and Furness"
@@ -387,7 +387,7 @@
           "name": "Bath"
         },
         {
-          "signature_count": 91,
+          "signature_count": 92,
           "mp": null,
           "ons_code": "E14000548",
           "name": "Batley and Spen"
@@ -561,7 +561,7 @@
           "name": "Blackpool North and Cleveleys"
         },
         {
-          "signature_count": 118,
+          "signature_count": 119,
           "mp": "Gordon Marsden MP",
           "ons_code": "E14000573",
           "name": "Blackpool South"
@@ -729,7 +729,7 @@
           "name": "Brighton, Kemptown"
         },
         {
-          "signature_count": 56,
+          "signature_count": 57,
           "mp": "Caroline Lucas MP",
           "ons_code": "E14000598",
           "name": "Brighton, Pavilion"
@@ -741,7 +741,7 @@
           "name": "Bristol East"
         },
         {
-          "signature_count": 54,
+          "signature_count": 55,
           "mp": "Charlotte Leslie MP",
           "ons_code": "E14000600",
           "name": "Bristol North West"
@@ -1521,7 +1521,7 @@
           "name": "Gloucester"
         },
         {
-          "signature_count": 131,
+          "signature_count": 132,
           "mp": "Caroline Dinenage MP",
           "ons_code": "E14000713",
           "name": "Gosport"
@@ -1647,7 +1647,7 @@
           "name": "Harrow West"
         },
         {
-          "signature_count": 107,
+          "signature_count": 108,
           "mp": "Mr Iain Wright MP",
           "ons_code": "E14000733",
           "name": "Hartlepool"
@@ -1821,7 +1821,7 @@
           "name": "Ipswich"
         },
         {
-          "signature_count": 158,
+          "signature_count": 159,
           "mp": "Mr Andrew Turner MP",
           "ons_code": "E14000762",
           "name": "Isle of Wight"
@@ -2199,7 +2199,7 @@
           "name": "Mid Worcestershire"
         },
         {
-          "signature_count": 83,
+          "signature_count": 84,
           "mp": "Andy McDonald MP",
           "ons_code": "E14000819",
           "name": "Middlesbrough"
@@ -2649,7 +2649,7 @@
           "name": "Portsmouth North"
         },
         {
-          "signature_count": 121,
+          "signature_count": 122,
           "mp": "Mrs Flick Drummond MP",
           "ons_code": "E14000884",
           "name": "Portsmouth South"
@@ -2745,7 +2745,7 @@
           "name": "Rochdale"
         },
         {
-          "signature_count": 122,
+          "signature_count": 123,
           "mp": "Kelly Tolhurst MP",
           "ons_code": "E14000898",
           "name": "Rochester and Strood"
@@ -2775,7 +2775,7 @@
           "name": "Rossendale and Darwen"
         },
         {
-          "signature_count": 115,
+          "signature_count": 116,
           "mp": "Rt Hon Kevin Barron MP",
           "ons_code": "E14000903",
           "name": "Rother Valley"
@@ -2889,7 +2889,7 @@
           "name": "Sheffield, Brightside and Hillsborough"
         },
         {
-          "signature_count": 53,
+          "signature_count": 54,
           "mp": "Rt Hon Nick Clegg MP",
           "ons_code": "E14000922",
           "name": "Sheffield, Hallam"
@@ -3063,7 +3063,7 @@
           "name": "South Thanet"
         },
         {
-          "signature_count": 120,
+          "signature_count": 121,
           "mp": "Andrew Selous MP",
           "ons_code": "E14000949",
           "name": "South West Bedfordshire"
@@ -3321,7 +3321,7 @@
           "name": "Taunton Deane"
         },
         {
-          "signature_count": 123,
+          "signature_count": 124,
           "mp": "Lucy Allan MP",
           "ons_code": "E14000989",
           "name": "Telford"
@@ -3531,13 +3531,13 @@
           "name": "Warwick and Leamington"
         },
         {
-          "signature_count": 100,
+          "signature_count": 101,
           "mp": "Mrs Sharon Hodgson MP",
           "ons_code": "E14001020",
           "name": "Washington and Sunderland West"
         },
         {
-          "signature_count": 74,
+          "signature_count": 75,
           "mp": "Richard Harrington MP",
           "ons_code": "E14001021",
           "name": "Watford"
@@ -3645,7 +3645,7 @@
           "name": "Westmorland and Lonsdale"
         },
         {
-          "signature_count": 118,
+          "signature_count": 119,
           "mp": "John Penrose MP",
           "ons_code": "E14001038",
           "name": "Weston-super-Mare"
@@ -4240,7 +4240,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 50767,
+          "signature_count": 50787,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4285,9 +4285,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T16:22:58.097Z",
+      "updated_at": "2016-07-04T16:24:02.082Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 51633,
+      "signature_count": 51653,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
