@@ -387,7 +387,7 @@
           "name": "Bath"
         },
         {
-          "signature_count": 4171,
+          "signature_count": 4172,
           "mp": null,
           "ons_code": "E14000548",
           "name": "Batley and Spen"
@@ -723,7 +723,7 @@
           "name": "Brigg and Goole"
         },
         {
-          "signature_count": 10009,
+          "signature_count": 10010,
           "mp": "Simon Kirby MP",
           "ons_code": "E14000597",
           "name": "Brighton, Kemptown"
@@ -1005,7 +1005,7 @@
           "name": "Chippenham"
         },
         {
-          "signature_count": 12753,
+          "signature_count": 12754,
           "mp": "Rt Hon Theresa Villiers MP",
           "ons_code": "E14000636",
           "name": "Chipping Barnet"
@@ -1497,7 +1497,7 @@
           "name": "Garston and Halewood"
         },
         {
-          "signature_count": 3976,
+          "signature_count": 3977,
           "mp": "Ian Mearns MP",
           "ons_code": "E14000709",
           "name": "Gateshead"
@@ -3081,7 +3081,7 @@
           "name": "South West Hertfordshire"
         },
         {
-          "signature_count": 3558,
+          "signature_count": 3559,
           "mp": "Rt Hon Elizabeth Truss MP",
           "ons_code": "E14000952",
           "name": "South West Norfolk"
@@ -3099,7 +3099,7 @@
           "name": "South West Wiltshire"
         },
         {
-          "signature_count": 5195,
+          "signature_count": 5196,
           "mp": "Royston Smith MP",
           "ons_code": "E14000955",
           "name": "Southampton, Itchen"
@@ -3447,7 +3447,7 @@
           "name": "Uxbridge and South Ruislip"
         },
         {
-          "signature_count": 2798,
+          "signature_count": 2799,
           "mp": "Dr James Davies MP",
           "ons_code": "W07000060",
           "name": "Vale of Clwyd"
@@ -4245,7 +4245,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 28112,
+          "signature_count": 28113,
           "code": "FR",
           "name": "France"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3951430,
+          "signature_count": 3951437,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5000,7 +5000,7 @@
           "name": "Vietnam"
         },
         {
-          "signature_count": 15,
+          "signature_count": 16,
           "code": "WF",
           "name": "Wallis and Futuna"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T16:09:02.462Z",
+      "updated_at": "2016-07-04T16:10:04.435Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4111643,
+      "signature_count": 4111652,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
