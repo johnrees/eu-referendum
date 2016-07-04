@@ -39,7 +39,7 @@
           "name": "Banff and Buchan"
         },
         {
-          "signature_count": 36,
+          "signature_count": 37,
           "mp": "John Mc Nally MP",
           "ons_code": "S14000028",
           "name": "Falkirk"
@@ -309,13 +309,13 @@
           "name": "Arundel and South Downs"
         },
         {
-          "signature_count": 133,
+          "signature_count": 134,
           "mp": "Gloria De Piero MP",
           "ons_code": "E14000535",
           "name": "Ashfield"
         },
         {
-          "signature_count": 145,
+          "signature_count": 147,
           "mp": "Rt Hon Damian Green MP",
           "ons_code": "E14000536",
           "name": "Ashford"
@@ -483,7 +483,7 @@
           "name": "Birkenhead"
         },
         {
-          "signature_count": 55,
+          "signature_count": 56,
           "mp": "Rt Hon Gisela Stuart MP",
           "ons_code": "E14000560",
           "name": "Birmingham, Edgbaston"
@@ -513,7 +513,7 @@
           "name": "Birmingham, Ladywood"
         },
         {
-          "signature_count": 101,
+          "signature_count": 102,
           "mp": "Richard Burden MP",
           "ons_code": "E14000565",
           "name": "Birmingham, Northfield"
@@ -591,7 +591,7 @@
           "name": "Bognor Regis and Littlehampton"
         },
         {
-          "signature_count": 73,
+          "signature_count": 74,
           "mp": "Mr Dennis Skinner MP",
           "ons_code": "E14000577",
           "name": "Bolsover"
@@ -657,7 +657,7 @@
           "name": "Bradford East"
         },
         {
-          "signature_count": 92,
+          "signature_count": 93,
           "mp": "Judith Cummins MP",
           "ons_code": "E14000588",
           "name": "Bradford South"
@@ -1143,7 +1143,7 @@
           "name": "Croydon South"
         },
         {
-          "signature_count": 47,
+          "signature_count": 48,
           "mp": "Rt Hon Ann Clwyd MP",
           "ons_code": "W07000070",
           "name": "Cynon Valley"
@@ -1239,7 +1239,7 @@
           "name": "Dover"
         },
         {
-          "signature_count": 103,
+          "signature_count": 104,
           "mp": "Ian Austin MP",
           "ons_code": "E14000671",
           "name": "Dudley North"
@@ -1539,7 +1539,7 @@
           "name": "Grantham and Stamford"
         },
         {
-          "signature_count": 137,
+          "signature_count": 138,
           "mp": "Adam Holloway MP",
           "ons_code": "E14000715",
           "name": "Gravesham"
@@ -2157,7 +2157,7 @@
           "name": "Merthyr Tydfil and Rhymney"
         },
         {
-          "signature_count": 90,
+          "signature_count": 92,
           "mp": "Nadine Dorries MP",
           "ons_code": "E14000813",
           "name": "Mid Bedfordshire"
@@ -2289,7 +2289,7 @@
           "name": "Newbury"
         },
         {
-          "signature_count": 61,
+          "signature_count": 62,
           "mp": "Chi Onwurah MP",
           "ons_code": "E14000831",
           "name": "Newcastle upon Tyne Central"
@@ -2481,7 +2481,7 @@
           "name": "North West Hampshire"
         },
         {
-          "signature_count": 92,
+          "signature_count": 93,
           "mp": "Andrew Bridgen MP",
           "ons_code": "E14000858",
           "name": "North West Leicestershire"
@@ -2685,7 +2685,7 @@
           "name": "Rayleigh and Wickford"
         },
         {
-          "signature_count": 47,
+          "signature_count": 48,
           "mp": "Mr Rob Wilson MP",
           "ons_code": "E14000889",
           "name": "Reading East"
@@ -2805,7 +2805,7 @@
           "name": "Runnymede and Weybridge"
         },
         {
-          "signature_count": 66,
+          "signature_count": 67,
           "mp": "Rt Hon Kenneth Clarke QC MP",
           "ons_code": "E14000908",
           "name": "Rushcliffe"
@@ -3015,7 +3015,7 @@
           "name": "South Leicestershire"
         },
         {
-          "signature_count": 140,
+          "signature_count": 141,
           "mp": "Mr Richard Bacon MP",
           "ons_code": "E14000941",
           "name": "South Norfolk"
@@ -3159,7 +3159,7 @@
           "name": "St Ives"
         },
         {
-          "signature_count": 73,
+          "signature_count": 74,
           "mp": "Jeremy Lefroy MP",
           "ons_code": "E14000965",
           "name": "Stafford"
@@ -4245,7 +4245,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 52270,
+          "signature_count": 52289,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4295,9 +4295,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T18:11:59.529Z",
+      "updated_at": "2016-07-04T18:13:01.567Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 53161,
+      "signature_count": 53180,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
