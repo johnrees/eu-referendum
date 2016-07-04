@@ -657,7 +657,7 @@
           "name": "Bradford East"
         },
         {
-          "signature_count": 97,
+          "signature_count": 98,
           "mp": "Judith Cummins MP",
           "ons_code": "E14000588",
           "name": "Bradford South"
@@ -669,7 +669,7 @@
           "name": "Bradford West"
         },
         {
-          "signature_count": 127,
+          "signature_count": 128,
           "mp": "James Cleverly MP",
           "ons_code": "E14000590",
           "name": "Braintree"
@@ -861,7 +861,7 @@
           "name": "Cannock Chase"
         },
         {
-          "signature_count": 90,
+          "signature_count": 91,
           "mp": "Mr Julian Brazier MP",
           "ons_code": "E14000619",
           "name": "Canterbury"
@@ -1161,7 +1161,7 @@
           "name": "Darlington"
         },
         {
-          "signature_count": 109,
+          "signature_count": 110,
           "mp": "Gareth Johnson MP",
           "ons_code": "E14000659",
           "name": "Dartford"
@@ -1587,7 +1587,7 @@
           "name": "Halesowen and Rowley Regis"
         },
         {
-          "signature_count": 108,
+          "signature_count": 109,
           "mp": "Holly Lynch MP",
           "ons_code": "E14000723",
           "name": "Halifax"
@@ -1845,7 +1845,7 @@
           "name": "Islwyn"
         },
         {
-          "signature_count": 91,
+          "signature_count": 92,
           "mp": "Mr Stephen Hepburn MP",
           "ons_code": "E14000765",
           "name": "Jarrow"
@@ -2625,7 +2625,7 @@
           "name": "Plymouth, Sutton and Devonport"
         },
         {
-          "signature_count": 57,
+          "signature_count": 58,
           "mp": "Owen Smith MP",
           "ons_code": "W07000075",
           "name": "Pontypridd"
@@ -3225,7 +3225,7 @@
           "name": "Stone"
         },
         {
-          "signature_count": 92,
+          "signature_count": 93,
           "mp": "Margot James MP",
           "ons_code": "E14000976",
           "name": "Stourbridge"
@@ -3291,7 +3291,7 @@
           "name": "Sutton Coldfield"
         },
         {
-          "signature_count": 72,
+          "signature_count": 73,
           "mp": "Carolyn Harris MP",
           "ons_code": "W07000048",
           "name": "Swansea East"
@@ -4245,7 +4245,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 53151,
+          "signature_count": 53161,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4295,9 +4295,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T19:13:55.972Z",
+      "updated_at": "2016-07-04T19:14:57.898Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 54052,
+      "signature_count": 54062,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
