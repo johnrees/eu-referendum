@@ -1071,7 +1071,7 @@
           "name": "Colchester"
         },
         {
-          "signature_count": 62,
+          "signature_count": 63,
           "mp": "Jason McCartney MP",
           "ons_code": "E14000645",
           "name": "Colne Valley"
@@ -1155,7 +1155,7 @@
           "name": "Dagenham and Rainham"
         },
         {
-          "signature_count": 88,
+          "signature_count": 89,
           "mp": "Jenny Chapman MP",
           "ons_code": "E14000658",
           "name": "Darlington"
@@ -1539,7 +1539,7 @@
           "name": "Grantham and Stamford"
         },
         {
-          "signature_count": 149,
+          "signature_count": 150,
           "mp": "Adam Holloway MP",
           "ons_code": "E14000715",
           "name": "Gravesham"
@@ -1821,7 +1821,7 @@
           "name": "Ipswich"
         },
         {
-          "signature_count": 169,
+          "signature_count": 170,
           "mp": "Mr Andrew Turner MP",
           "ons_code": "E14000762",
           "name": "Isle of Wight"
@@ -1905,7 +1905,7 @@
           "name": "Kingswood"
         },
         {
-          "signature_count": 93,
+          "signature_count": 94,
           "mp": "Rt Hon George Howarth MP",
           "ons_code": "E14000775",
           "name": "Knowsley"
@@ -2355,7 +2355,7 @@
           "name": "North Cornwall"
         },
         {
-          "signature_count": 114,
+          "signature_count": 115,
           "mp": "Peter Heaton-Jones MP",
           "ons_code": "E14000838",
           "name": "North Devon"
@@ -2535,13 +2535,13 @@
           "name": "Nottingham North"
         },
         {
-          "signature_count": 62,
+          "signature_count": 63,
           "mp": "Lilian Greenwood MP",
           "ons_code": "E14000867",
           "name": "Nottingham South"
         },
         {
-          "signature_count": 105,
+          "signature_count": 106,
           "mp": "Mr Marcus Jones MP",
           "ons_code": "E14000868",
           "name": "Nuneaton"
@@ -2667,7 +2667,7 @@
           "name": "Preston"
         },
         {
-          "signature_count": 53,
+          "signature_count": 54,
           "mp": "Stuart Andrew MP",
           "ons_code": "E14000886",
           "name": "Pudsey"
@@ -2901,7 +2901,7 @@
           "name": "Sheffield, Heeley"
         },
         {
-          "signature_count": 138,
+          "signature_count": 139,
           "mp": "Mark Spencer MP",
           "ons_code": "E14000924",
           "name": "Sherwood"
@@ -3249,7 +3249,7 @@
           "name": "Streatham"
         },
         {
-          "signature_count": 98,
+          "signature_count": 99,
           "mp": "Kate Green MP",
           "ons_code": "E14000979",
           "name": "Stretford and Urmston"
@@ -3771,7 +3771,7 @@
           "name": "Wyre and Preston North"
         },
         {
-          "signature_count": 134,
+          "signature_count": 135,
           "mp": "Mark Garnier MP",
           "ons_code": "E14001058",
           "name": "Wyre Forest"
@@ -4250,7 +4250,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 54642,
+          "signature_count": 54654,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4300,9 +4300,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T21:21:55.941Z",
+      "updated_at": "2016-07-04T21:22:57.752Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 55558,
+      "signature_count": 55570,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
