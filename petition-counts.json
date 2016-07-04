@@ -1107,7 +1107,7 @@
           "name": "Coventry North West"
         },
         {
-          "signature_count": 9730,
+          "signature_count": 6116,
           "mp": "Mr Jim Cunningham MP",
           "ons_code": "E14000651",
           "name": "Coventry South"
@@ -3920,7 +3920,7 @@
           "name": "Algeria"
         },
         {
-          "signature_count": 24,
+          "signature_count": -3590,
           "code": "AD",
           "name": "Andorra"
         },
@@ -4090,7 +4090,7 @@
           "name": "Cameroon"
         },
         {
-          "signature_count": 6269,
+          "signature_count": 6270,
           "code": "CA",
           "name": "Canada"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T03:59:48.801Z",
+      "updated_at": "2016-07-04T04:01:39.055Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4107870,
+      "signature_count": 4107871,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
