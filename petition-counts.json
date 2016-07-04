@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6898,
+          "signature_count": 6899,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -543,7 +543,7 @@
           "name": "Bishop Auckland"
         },
         {
-          "signature_count": 4930,
+          "signature_count": 4931,
           "mp": "Kate Hollern MP",
           "ons_code": "E14000570",
           "name": "Blackburn"
@@ -2649,7 +2649,7 @@
           "name": "Portsmouth North"
         },
         {
-          "signature_count": 6657,
+          "signature_count": 6658,
           "mp": "Mrs Flick Drummond MP",
           "ons_code": "E14000884",
           "name": "Portsmouth South"
@@ -2673,7 +2673,7 @@
           "name": "Pudsey"
         },
         {
-          "signature_count": 15034,
+          "signature_count": 15035,
           "mp": "Rt Hon Justine Greening MP",
           "ons_code": "E14000887",
           "name": "Putney"
@@ -3789,7 +3789,7 @@
           "name": "Yeovil"
         },
         {
-          "signature_count": 3441,
+          "signature_count": 3442,
           "mp": "Albert Owen MP",
           "ons_code": "W07000041",
           "name": "Ynys Môn"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3952271,
+          "signature_count": 3952276,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T18:48:01.286Z",
+      "updated_at": "2016-07-04T18:49:03.487Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4112532,
+      "signature_count": 4112537,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
