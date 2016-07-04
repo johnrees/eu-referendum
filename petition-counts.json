@@ -2505,7 +2505,7 @@
           "name": "Northampton North"
         },
         {
-          "signature_count": 4246,
+          "signature_count": 4247,
           "mp": "David Mackintosh MP",
           "ons_code": "E14000862",
           "name": "Northampton South"
@@ -2547,7 +2547,7 @@
           "name": "Nuneaton"
         },
         {
-          "signature_count": 2496,
+          "signature_count": 2497,
           "mp": "Chris Elmore MP",
           "ons_code": "W07000074",
           "name": "Ogmore"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3953429,
+          "signature_count": 3953431,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T22:54:41.729Z",
+      "updated_at": "2016-07-04T22:56:02.935Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4113738,
+      "signature_count": 4113740,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
