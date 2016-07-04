@@ -9,7 +9,7 @@
           "name": "Edinburgh East"
         },
         {
-          "signature_count": 17,
+          "signature_count": 18,
           "mp": "Deidre Brock MP",
           "ons_code": "S14000023",
           "name": "Edinburgh North and Leith"
@@ -63,7 +63,7 @@
           "name": "Glasgow North"
         },
         {
-          "signature_count": 15,
+          "signature_count": 16,
           "mp": "Anne McLaughlin MP",
           "ons_code": "S14000032",
           "name": "Glasgow North East"
@@ -555,7 +555,7 @@
           "name": "Blackley and Broughton"
         },
         {
-          "signature_count": 94,
+          "signature_count": 95,
           "mp": "Paul Maynard MP",
           "ons_code": "E14000572",
           "name": "Blackpool North and Cleveleys"
@@ -639,7 +639,7 @@
           "name": "Bournemouth East"
         },
         {
-          "signature_count": 109,
+          "signature_count": 110,
           "mp": "Conor Burns MP",
           "ons_code": "E14000585",
           "name": "Bournemouth West"
@@ -693,7 +693,7 @@
           "name": "Brent North"
         },
         {
-          "signature_count": 65,
+          "signature_count": 66,
           "mp": "Ruth Cadbury MP",
           "ons_code": "E14000593",
           "name": "Brentford and Isleworth"
@@ -891,7 +891,7 @@
           "name": "Cardiff West"
         },
         {
-          "signature_count": 86,
+          "signature_count": 87,
           "mp": "John Stevenson MP",
           "ons_code": "E14000620",
           "name": "Carlisle"
@@ -1125,7 +1125,7 @@
           "name": "Crewe and Nantwich"
         },
         {
-          "signature_count": 87,
+          "signature_count": 88,
           "mp": "Gavin Barwell MP",
           "ons_code": "E14000654",
           "name": "Croydon Central"
@@ -1155,7 +1155,7 @@
           "name": "Dagenham and Rainham"
         },
         {
-          "signature_count": 83,
+          "signature_count": 84,
           "mp": "Jenny Chapman MP",
           "ons_code": "E14000658",
           "name": "Darlington"
@@ -1293,7 +1293,7 @@
           "name": "East Antrim"
         },
         {
-          "signature_count": 90,
+          "signature_count": 91,
           "mp": "Rt Hon Hugo Swire MP",
           "ons_code": "E14000678",
           "name": "East Devon"
@@ -1521,7 +1521,7 @@
           "name": "Gloucester"
         },
         {
-          "signature_count": 135,
+          "signature_count": 136,
           "mp": "Caroline Dinenage MP",
           "ons_code": "E14000713",
           "name": "Gosport"
@@ -1701,7 +1701,7 @@
           "name": "Hendon"
         },
         {
-          "signature_count": 66,
+          "signature_count": 67,
           "mp": "John Howell MP",
           "ons_code": "E14000742",
           "name": "Henley"
@@ -2427,7 +2427,7 @@
           "name": "North Norfolk"
         },
         {
-          "signature_count": 96,
+          "signature_count": 97,
           "mp": "Rt Hon Owen Paterson MP",
           "ons_code": "E14000849",
           "name": "North Shropshire"
@@ -2445,7 +2445,7 @@
           "name": "North Swindon"
         },
         {
-          "signature_count": 140,
+          "signature_count": 141,
           "mp": "Sir Roger Gale MP",
           "ons_code": "E14000852",
           "name": "North Thanet"
@@ -2577,7 +2577,7 @@
           "name": "Orpington"
         },
         {
-          "signature_count": 59,
+          "signature_count": 60,
           "mp": "Rt Hon Andrew Smith MP",
           "ons_code": "E14000873",
           "name": "Oxford East"
@@ -3135,7 +3135,7 @@
           "name": "St Albans"
         },
         {
-          "signature_count": 113,
+          "signature_count": 114,
           "mp": "Steve Double MP",
           "ons_code": "E14000961",
           "name": "St Austell and Newquay"
@@ -3327,7 +3327,7 @@
           "name": "Telford"
         },
         {
-          "signature_count": 71,
+          "signature_count": 72,
           "mp": "Mr Laurence Robertson MP",
           "ons_code": "E14000990",
           "name": "Tewkesbury"
@@ -3345,7 +3345,7 @@
           "name": "The Wrekin"
         },
         {
-          "signature_count": 80,
+          "signature_count": 81,
           "mp": "Kevin Hollinrake MP",
           "ons_code": "E14000993",
           "name": "Thirsk and Malton"
@@ -3447,7 +3447,7 @@
           "name": "Uxbridge and South Ruislip"
         },
         {
-          "signature_count": 48,
+          "signature_count": 49,
           "mp": "Dr James Davies MP",
           "ons_code": "W07000060",
           "name": "Vale of Clwyd"
@@ -3549,7 +3549,7 @@
           "name": "Waveney"
         },
         {
-          "signature_count": 127,
+          "signature_count": 128,
           "mp": "Nusrat Ghani MP",
           "ons_code": "E14001023",
           "name": "Wealden"
@@ -3591,7 +3591,7 @@
           "name": "West Bromwich East"
         },
         {
-          "signature_count": 95,
+          "signature_count": 96,
           "mp": "Mr Adrian Bailey MP",
           "ons_code": "E14001030",
           "name": "West Bromwich West"
@@ -3699,7 +3699,7 @@
           "name": "Witney"
         },
         {
-          "signature_count": 75,
+          "signature_count": 76,
           "mp": "Mr Jonathan Lord MP",
           "ons_code": "E14001047",
           "name": "Woking"
@@ -4245,7 +4245,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 52750,
+          "signature_count": 52772,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4295,9 +4295,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-04T18:46:58.475Z",
+      "updated_at": "2016-07-04T18:48:01.480Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 53645,
+      "signature_count": 53667,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
