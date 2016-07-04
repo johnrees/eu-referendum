@@ -489,7 +489,7 @@
           "name": "Birmingham, Edgbaston"
         },
         {
-          "signature_count": 3039,
+          "signature_count": 3040,
           "mp": "Jack Dromey MP",
           "ons_code": "E14000561",
           "name": "Birmingham, Erdington"
@@ -1203,7 +1203,7 @@
           "name": "Derbyshire Dales"
         },
         {
-          "signature_count": 6152,
+          "signature_count": 6153,
           "mp": "Claire Perry MP",
           "ons_code": "E14000665",
           "name": "Devizes"
@@ -1311,7 +1311,7 @@
           "name": "East Hampshire"
         },
         {
-          "signature_count": 3127,
+          "signature_count": 3128,
           "mp": "Mr Gregory Campbell MP",
           "ons_code": "N06000006",
           "name": "East Londonderry"
@@ -1323,7 +1323,7 @@
           "name": "East Surrey"
         },
         {
-          "signature_count": 7261,
+          "signature_count": 7262,
           "mp": "Tim Loughton MP",
           "ons_code": "E14000682",
           "name": "East Worthing and Shoreham"
@@ -1563,7 +1563,7 @@
           "name": "Greenwich and Woolwich"
         },
         {
-          "signature_count": 11591,
+          "signature_count": 11592,
           "mp": "Rt Hon Anne Milton MP",
           "ons_code": "E14000719",
           "name": "Guildford"
@@ -1611,7 +1611,7 @@
           "name": "Hammersmith"
         },
         {
-          "signature_count": 22697,
+          "signature_count": 22698,
           "mp": "Tulip Siddiq MP",
           "ons_code": "E14000727",
           "name": "Hampstead and Kilburn"
@@ -3633,7 +3633,7 @@
           "name": "West Worcestershire"
         },
         {
-          "signature_count": 16194,
+          "signature_count": 16195,
           "mp": "Ms Karen Buck MP",
           "ons_code": "E14001036",
           "name": "Westminster North"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3948413,
+          "signature_count": 3948421,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-04T08:02:54.209Z",
+      "updated_at": "2016-07-04T08:04:00.255Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4108482,
+      "signature_count": 4108490,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
