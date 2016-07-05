@@ -387,7 +387,7 @@
           "name": "Bath"
         },
         {
-          "signature_count": 109,
+          "signature_count": 110,
           "mp": null,
           "ons_code": "E14000548",
           "name": "Batley and Spen"
@@ -711,7 +711,7 @@
           "name": "Bridgend"
         },
         {
-          "signature_count": 106,
+          "signature_count": 107,
           "mp": "Mr Ian Liddell-Grainger MP",
           "ons_code": "E14000595",
           "name": "Bridgwater and West Somerset"
@@ -831,7 +831,7 @@
           "name": "Caerphilly"
         },
         {
-          "signature_count": 106,
+          "signature_count": 107,
           "mp": "Craig Whittaker MP",
           "ons_code": "E14000614",
           "name": "Calder Valley"
@@ -873,7 +873,7 @@
           "name": "Cardiff Central"
         },
         {
-          "signature_count": 48,
+          "signature_count": 49,
           "mp": "Craig Williams MP",
           "ons_code": "W07000051",
           "name": "Cardiff North"
@@ -1605,7 +1605,7 @@
           "name": "Halton"
         },
         {
-          "signature_count": 50,
+          "signature_count": 51,
           "mp": "Andy Slaughter MP",
           "ons_code": "E14000726",
           "name": "Hammersmith"
@@ -1725,7 +1725,7 @@
           "name": "Hertsmere"
         },
         {
-          "signature_count": 67,
+          "signature_count": 68,
           "mp": "Guy Opperman MP",
           "ons_code": "E14000746",
           "name": "Hexham"
@@ -2769,7 +2769,7 @@
           "name": "Romsey and Southampton North"
         },
         {
-          "signature_count": 134,
+          "signature_count": 135,
           "mp": "Jake Berry MP",
           "ons_code": "E14000902",
           "name": "Rossendale and Darwen"
@@ -3249,7 +3249,7 @@
           "name": "Streatham"
         },
         {
-          "signature_count": 105,
+          "signature_count": 106,
           "mp": "Kate Green MP",
           "ons_code": "E14000979",
           "name": "Stretford and Urmston"
@@ -3447,7 +3447,7 @@
           "name": "Uxbridge and South Ruislip"
         },
         {
-          "signature_count": 54,
+          "signature_count": 55,
           "mp": "Dr James Davies MP",
           "ons_code": "W07000060",
           "name": "Vale of Clwyd"
@@ -3693,7 +3693,7 @@
           "name": "Witham"
         },
         {
-          "signature_count": 97,
+          "signature_count": 98,
           "mp": "Rt Hon David Cameron MP",
           "ons_code": "E14001046",
           "name": "Witney"
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 58134,
+          "signature_count": 58144,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T11:43:56.800Z",
+      "updated_at": "2016-07-05T11:44:59.829Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 59145,
+      "signature_count": 59155,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
