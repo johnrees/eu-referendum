@@ -387,7 +387,7 @@
           "name": "Bath"
         },
         {
-          "signature_count": 4173,
+          "signature_count": 4174,
           "mp": null,
           "ons_code": "E14000548",
           "name": "Batley and Spen"
@@ -879,7 +879,7 @@
           "name": "Cardiff North"
         },
         {
-          "signature_count": 8084,
+          "signature_count": 8085,
           "mp": "Stephen Doughty MP",
           "ons_code": "W07000080",
           "name": "Cardiff South and Penarth"
@@ -1575,7 +1575,7 @@
           "name": "Hackney North and Stoke Newington"
         },
         {
-          "signature_count": 19713,
+          "signature_count": 19714,
           "mp": "Meg Hillier MP",
           "ons_code": "E14000721",
           "name": "Hackney South and Shoreditch"
@@ -1623,7 +1623,7 @@
           "name": "Harborough"
         },
         {
-          "signature_count": 3266,
+          "signature_count": 3267,
           "mp": "Rt Hon Robert Halfon MP",
           "ons_code": "E14000729",
           "name": "Harlow"
@@ -1647,7 +1647,7 @@
           "name": "Harrow West"
         },
         {
-          "signature_count": 2003,
+          "signature_count": 2004,
           "mp": "Mr Iain Wright MP",
           "ons_code": "E14000733",
           "name": "Hartlepool"
@@ -3543,7 +3543,7 @@
           "name": "Watford"
         },
         {
-          "signature_count": 3772,
+          "signature_count": 3773,
           "mp": "Peter Aldous MP",
           "ons_code": "E14001022",
           "name": "Waveney"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3954415,
+          "signature_count": 3954420,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-05T09:29:55.471Z",
+      "updated_at": "2016-07-05T09:30:46.711Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4114808,
+      "signature_count": 4114813,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
