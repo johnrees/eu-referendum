@@ -159,7 +159,7 @@
           "name": "Aberdeen South"
         },
         {
-          "signature_count": 47,
+          "signature_count": 48,
           "mp": "Rt Hon Angus Robertson MP",
           "ons_code": "S14000046",
           "name": "Moray"
@@ -327,7 +327,7 @@
           "name": "Ashton-under-Lyne"
         },
         {
-          "signature_count": 98,
+          "signature_count": 99,
           "mp": "Rt Hon David Lidington MP",
           "ons_code": "E14000538",
           "name": "Aylesbury"
@@ -345,7 +345,7 @@
           "name": "Barking"
         },
         {
-          "signature_count": 140,
+          "signature_count": 141,
           "mp": "Dan Jarvis MP",
           "ons_code": "E14000541",
           "name": "Barnsley Central"
@@ -915,7 +915,7 @@
           "name": "Carshalton and Wallington"
         },
         {
-          "signature_count": 150,
+          "signature_count": 151,
           "mp": "Rebecca Harris MP",
           "ons_code": "E14000622",
           "name": "Castle Point"
@@ -1539,7 +1539,7 @@
           "name": "Grantham and Stamford"
         },
         {
-          "signature_count": 172,
+          "signature_count": 173,
           "mp": "Adam Holloway MP",
           "ons_code": "E14000715",
           "name": "Gravesham"
@@ -1725,7 +1725,7 @@
           "name": "Hertsmere"
         },
         {
-          "signature_count": 79,
+          "signature_count": 80,
           "mp": "Guy Opperman MP",
           "ons_code": "E14000746",
           "name": "Hexham"
@@ -3477,7 +3477,7 @@
           "name": "Wallasey"
         },
         {
-          "signature_count": 114,
+          "signature_count": 115,
           "mp": "Mr David Winnick MP",
           "ons_code": "E14001011",
           "name": "Walsall North"
@@ -3519,7 +3519,7 @@
           "name": "Warrington North"
         },
         {
-          "signature_count": 107,
+          "signature_count": 108,
           "mp": "David Mowat MP",
           "ons_code": "E14001018",
           "name": "Warrington South"
@@ -4015,7 +4015,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 76,
+          "signature_count": 77,
           "code": "FR",
           "name": "France"
         },
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 63359,
+          "signature_count": 63367,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T21:22:55.329Z",
+      "updated_at": "2016-07-05T21:23:46.864Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 64461,
+      "signature_count": 64470,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
