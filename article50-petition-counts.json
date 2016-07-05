@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 27,
+          "signature_count": 28,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -1491,7 +1491,7 @@
           "name": "Gainsborough"
         },
         {
-          "signature_count": 68,
+          "signature_count": 69,
           "mp": "Maria Eagle MP",
           "ons_code": "E14000708",
           "name": "Garston and Halewood"
@@ -1533,7 +1533,7 @@
           "name": "Gower"
         },
         {
-          "signature_count": 143,
+          "signature_count": 144,
           "mp": "Nick Boles MP",
           "ons_code": "E14000714",
           "name": "Grantham and Stamford"
@@ -2565,7 +2565,7 @@
           "name": "Oldham East and Saddleworth"
         },
         {
-          "signature_count": 103,
+          "signature_count": 104,
           "mp": "Jim McMahon MP",
           "ons_code": "E14000871",
           "name": "Oldham West and Royton"
@@ -4235,7 +4235,7 @@
           "name": "Switzerland"
         },
         {
-          "signature_count": 3,
+          "signature_count": 4,
           "code": "TW",
           "name": "Taiwan"
         },
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 57109,
+          "signature_count": 57113,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T09:09:05.336Z",
+      "updated_at": "2016-07-05T09:09:56.500Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 58100,
+      "signature_count": 58105,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
