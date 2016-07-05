@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 29,
+          "signature_count": 30,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -633,7 +633,7 @@
           "name": "Bosworth"
         },
         {
-          "signature_count": 125,
+          "signature_count": 126,
           "mp": "Mr Tobias Ellwood MP",
           "ons_code": "E14000584",
           "name": "Bournemouth East"
@@ -939,7 +939,7 @@
           "name": "Ceredigion"
         },
         {
-          "signature_count": 74,
+          "signature_count": 75,
           "mp": "Edward Argar MP",
           "ons_code": "E14000625",
           "name": "Charnwood"
@@ -2145,7 +2145,7 @@
           "name": "Meon Valley"
         },
         {
-          "signature_count": 95,
+          "signature_count": 96,
           "mp": "Rt Hon Caroline Spelman MP",
           "ons_code": "E14000812",
           "name": "Meriden"
@@ -2175,7 +2175,7 @@
           "name": "Mid Dorset and North Poole"
         },
         {
-          "signature_count": 131,
+          "signature_count": 132,
           "mp": "George Freeman MP",
           "ons_code": "E14000816",
           "name": "Mid Norfolk"
@@ -3069,7 +3069,7 @@
           "name": "South West Bedfordshire"
         },
         {
-          "signature_count": 92,
+          "signature_count": 93,
           "mp": "Mr Gary Streeter MP",
           "ons_code": "E14000950",
           "name": "South West Devon"
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 58997,
+          "signature_count": 59003,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T13:20:07.390Z",
+      "updated_at": "2016-07-05T13:20:57.902Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 60029,
+      "signature_count": 60035,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
