@@ -309,7 +309,7 @@
           "name": "Arundel and South Downs"
         },
         {
-          "signature_count": 147,
+          "signature_count": 148,
           "mp": "Gloria De Piero MP",
           "ons_code": "E14000535",
           "name": "Ashfield"
@@ -375,7 +375,7 @@
           "name": "Basingstoke"
         },
         {
-          "signature_count": 155,
+          "signature_count": 156,
           "mp": "John Mann MP",
           "ons_code": "E14000546",
           "name": "Bassetlaw"
@@ -747,7 +747,7 @@
           "name": "Bristol North West"
         },
         {
-          "signature_count": 115,
+          "signature_count": 116,
           "mp": "Karin Smyth MP",
           "ons_code": "E14000601",
           "name": "Bristol South"
@@ -2073,7 +2073,7 @@
           "name": "Luton North"
         },
         {
-          "signature_count": 72,
+          "signature_count": 73,
           "mp": "Mr Gavin Shuker MP",
           "ons_code": "E14000801",
           "name": "Luton South"
@@ -2235,7 +2235,7 @@
           "name": "Mole Valley"
         },
         {
-          "signature_count": 66,
+          "signature_count": 67,
           "mp": "David T. C. Davies MP",
           "ons_code": "W07000054",
           "name": "Monmouth"
@@ -2271,7 +2271,7 @@
           "name": "New Forest East"
         },
         {
-          "signature_count": 99,
+          "signature_count": 100,
           "mp": "Rt Hon Sir Desmond Swayne MP",
           "ons_code": "E14000828",
           "name": "New Forest West"
@@ -2865,7 +2865,7 @@
           "name": "Selby and Ainsty"
         },
         {
-          "signature_count": 95,
+          "signature_count": 96,
           "mp": "Rt Hon Michael Fallon MP",
           "ons_code": "E14000918",
           "name": "Sevenoaks"
@@ -3309,7 +3309,7 @@
           "name": "Tamworth"
         },
         {
-          "signature_count": 77,
+          "signature_count": 78,
           "mp": "Rt Hon George Osborne MP",
           "ons_code": "E14000987",
           "name": "Tatton"
@@ -4080,7 +4080,7 @@
           "name": "Isle of Man"
         },
         {
-          "signature_count": 9,
+          "signature_count": 10,
           "code": "IT",
           "name": "Italy"
         },
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 59286,
+          "signature_count": 59295,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T13:55:51.012Z",
+      "updated_at": "2016-07-05T13:57:01.076Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 60324,
+      "signature_count": 60334,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
