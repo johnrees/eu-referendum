@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6905,
+          "signature_count": 6906,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -915,7 +915,7 @@
           "name": "Carshalton and Wallington"
         },
         {
-          "signature_count": 2330,
+          "signature_count": 2331,
           "mp": "Rebecca Harris MP",
           "ons_code": "E14000622",
           "name": "Castle Point"
@@ -2547,7 +2547,7 @@
           "name": "Nuneaton"
         },
         {
-          "signature_count": 2498,
+          "signature_count": 2499,
           "mp": "Chris Elmore MP",
           "ons_code": "W07000074",
           "name": "Ogmore"
@@ -3891,7 +3891,7 @@
           "name": "Ayr, Carrick and Cumnock"
         },
         {
-          "signature_count": 4709,
+          "signature_count": 4710,
           "mp": "George Kerevan MP",
           "ons_code": "S14000020",
           "name": "East Lothian"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3955910,
+          "signature_count": 3955913,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-05T15:31:58.769Z",
+      "updated_at": "2016-07-05T15:32:33.706Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4116383,
+      "signature_count": 4116386,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
