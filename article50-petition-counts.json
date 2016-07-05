@@ -375,7 +375,7 @@
           "name": "Basingstoke"
         },
         {
-          "signature_count": 167,
+          "signature_count": 168,
           "mp": "John Mann MP",
           "ons_code": "E14000546",
           "name": "Bassetlaw"
@@ -969,7 +969,7 @@
           "name": "Chelsea and Fulham"
         },
         {
-          "signature_count": 83,
+          "signature_count": 84,
           "mp": "Alex Chalk MP",
           "ons_code": "E14000630",
           "name": "Cheltenham"
@@ -1461,7 +1461,7 @@
           "name": "Finchley and Golders Green"
         },
         {
-          "signature_count": 187,
+          "signature_count": 188,
           "mp": "Damian Collins MP",
           "ons_code": "E14000704",
           "name": "Folkestone and Hythe"
@@ -1509,7 +1509,7 @@
           "name": "Gedling"
         },
         {
-          "signature_count": 140,
+          "signature_count": 141,
           "mp": "Rehman Chishti MP",
           "ons_code": "E14000711",
           "name": "Gillingham and Rainham"
@@ -1581,7 +1581,7 @@
           "name": "Hackney South and Shoreditch"
         },
         {
-          "signature_count": 101,
+          "signature_count": 102,
           "mp": "James Morris MP",
           "ons_code": "E14000722",
           "name": "Halesowen and Rowley Regis"
@@ -1593,7 +1593,7 @@
           "name": "Halifax"
         },
         {
-          "signature_count": 120,
+          "signature_count": 121,
           "mp": "Rt Hon David Davis MP",
           "ons_code": "E14000724",
           "name": "Haltemprice and Howden"
@@ -2037,7 +2037,7 @@
           "name": "Liverpool, Wavertree"
         },
         {
-          "signature_count": 71,
+          "signature_count": 72,
           "mp": "Stephen Twigg MP",
           "ons_code": "E14000796",
           "name": "Liverpool, West Derby"
@@ -2889,7 +2889,7 @@
           "name": "Sheffield, Brightside and Hillsborough"
         },
         {
-          "signature_count": 66,
+          "signature_count": 67,
           "mp": "Rt Hon Nick Clegg MP",
           "ons_code": "E14000922",
           "name": "Sheffield, Hallam"
@@ -3489,7 +3489,7 @@
           "name": "Walsall South"
         },
         {
-          "signature_count": 61,
+          "signature_count": 62,
           "mp": "Stella Creasy MP",
           "ons_code": "E14001013",
           "name": "Walthamstow"
@@ -3843,7 +3843,7 @@
           "name": "Cumbernauld, Kilsyth and Kirkintilloch East"
         },
         {
-          "signature_count": 46,
+          "signature_count": 47,
           "mp": "Richard Arkless MP",
           "ons_code": "S14000013",
           "name": "Dumfries and Galloway"
@@ -3873,7 +3873,7 @@
           "name": "Dunfermline and West Fife"
         },
         {
-          "signature_count": 17,
+          "signature_count": 18,
           "mp": "John Nicolson MP",
           "ons_code": "S14000018",
           "name": "East Dunbartonshire"
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 63078,
+          "signature_count": 63089,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T20:53:02.251Z",
+      "updated_at": "2016-07-05T20:54:03.810Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 64179,
+      "signature_count": 64190,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
