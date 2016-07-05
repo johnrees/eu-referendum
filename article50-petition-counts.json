@@ -309,7 +309,7 @@
           "name": "Arundel and South Downs"
         },
         {
-          "signature_count": 158,
+          "signature_count": 159,
           "mp": "Gloria De Piero MP",
           "ons_code": "E14000535",
           "name": "Ashfield"
@@ -1233,7 +1233,7 @@
           "name": "Doncaster North"
         },
         {
-          "signature_count": 151,
+          "signature_count": 152,
           "mp": "Charlie Elphicke MP",
           "ons_code": "E14000670",
           "name": "Dover"
@@ -2775,7 +2775,7 @@
           "name": "Rossendale and Darwen"
         },
         {
-          "signature_count": 139,
+          "signature_count": 140,
           "mp": "Rt Hon Kevin Barron MP",
           "ons_code": "E14000903",
           "name": "Rother Valley"
@@ -2949,7 +2949,7 @@
           "name": "Solihull"
         },
         {
-          "signature_count": 102,
+          "signature_count": 104,
           "mp": "David Warburton MP",
           "ons_code": "E14000932",
           "name": "Somerton and Frome"
@@ -3027,7 +3027,7 @@
           "name": "South Northamptonshire"
         },
         {
-          "signature_count": 110,
+          "signature_count": 111,
           "mp": "Seema Kennedy MP",
           "ons_code": "E14000943",
           "name": "South Ribble"
@@ -3507,7 +3507,7 @@
           "name": "Wantage"
         },
         {
-          "signature_count": 60,
+          "signature_count": 61,
           "mp": "Rt Hon John Spellar MP",
           "ons_code": "E14001016",
           "name": "Warley"
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 62850,
+          "signature_count": 62858,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T20:28:58.588Z",
+      "updated_at": "2016-07-05T20:30:00.364Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 63946,
+      "signature_count": 63954,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
