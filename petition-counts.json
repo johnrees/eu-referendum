@@ -15,7 +15,7 @@
           "name": "Edinburgh North and Leith"
         },
         {
-          "signature_count": 8856,
+          "signature_count": 8857,
           "mp": "Ian Murray MP",
           "ons_code": "S14000024",
           "name": "Edinburgh South"
@@ -351,7 +351,7 @@
           "name": "Barnsley Central"
         },
         {
-          "signature_count": 1683,
+          "signature_count": 1684,
           "mp": "Michael Dugher MP",
           "ons_code": "E14000542",
           "name": "Barnsley East"
@@ -1203,7 +1203,7 @@
           "name": "Derbyshire Dales"
         },
         {
-          "signature_count": 6167,
+          "signature_count": 6168,
           "mp": "Claire Perry MP",
           "ons_code": "E14000665",
           "name": "Devizes"
@@ -1437,7 +1437,7 @@
           "name": "Faversham and Mid Kent"
         },
         {
-          "signature_count": 6529,
+          "signature_count": 6530,
           "mp": "Seema Malhotra MP",
           "ons_code": "E14000701",
           "name": "Feltham and Heston"
@@ -1467,7 +1467,7 @@
           "name": "Folkestone and Hythe"
         },
         {
-          "signature_count": 4722,
+          "signature_count": 4723,
           "mp": "Rt Hon Mark Harper MP",
           "ons_code": "E14000705",
           "name": "Forest of Dean"
@@ -1611,7 +1611,7 @@
           "name": "Hammersmith"
         },
         {
-          "signature_count": 22723,
+          "signature_count": 22724,
           "mp": "Tulip Siddiq MP",
           "ons_code": "E14000727",
           "name": "Hampstead and Kilburn"
@@ -2925,7 +2925,7 @@
           "name": "Sittingbourne and Sheppey"
         },
         {
-          "signature_count": 6466,
+          "signature_count": 6467,
           "mp": "Julian Smith MP",
           "ons_code": "E14000928",
           "name": "Skipton and Ripon"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3954444,
+          "signature_count": 3954451,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-05T09:36:02.552Z",
+      "updated_at": "2016-07-05T09:37:03.776Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4114838,
+      "signature_count": 4114845,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
