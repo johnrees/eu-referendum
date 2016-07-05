@@ -813,7 +813,7 @@
           "name": "Bury North"
         },
         {
-          "signature_count": 92,
+          "signature_count": 93,
           "mp": "Mr Ivan Lewis MP",
           "ons_code": "E14000612",
           "name": "Bury South"
@@ -921,7 +921,7 @@
           "name": "Castle Point"
         },
         {
-          "signature_count": 97,
+          "signature_count": 98,
           "mp": "Mel Stride MP",
           "ons_code": "E14000623",
           "name": "Central Devon"
@@ -2091,7 +2091,7 @@
           "name": "Maidenhead"
         },
         {
-          "signature_count": 125,
+          "signature_count": 126,
           "mp": "Mrs Helen Grant MP",
           "ons_code": "E14000804",
           "name": "Maidstone and The Weald"
@@ -2211,7 +2211,7 @@
           "name": "Middlesbrough South and East Cleveland"
         },
         {
-          "signature_count": 139,
+          "signature_count": 140,
           "mp": "Mark Lancaster MP",
           "ons_code": "E14000821",
           "name": "Milton Keynes North"
@@ -4220,7 +4220,7 @@
           "name": "South Korea"
         },
         {
-          "signature_count": 98,
+          "signature_count": 99,
           "code": "ES",
           "name": "Spain"
         },
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 56267,
+          "signature_count": 56271,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T07:03:44.725Z",
+      "updated_at": "2016-07-05T07:04:56.518Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 57237,
+      "signature_count": 57242,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
