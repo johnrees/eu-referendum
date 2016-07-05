@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6904,
+          "signature_count": 6905,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -369,7 +369,7 @@
           "name": "Basildon and Billericay"
         },
         {
-          "signature_count": 6873,
+          "signature_count": 6874,
           "mp": "Rt Hon Maria Miller MP",
           "ons_code": "E14000545",
           "name": "Basingstoke"
@@ -1197,7 +1197,7 @@
           "name": "Derby South"
         },
         {
-          "signature_count": 6056,
+          "signature_count": 6057,
           "mp": "Rt Hon Patrick McLoughlin MP",
           "ons_code": "E14000664",
           "name": "Derbyshire Dales"
@@ -2913,7 +2913,7 @@
           "name": "Shipley"
         },
         {
-          "signature_count": 6530,
+          "signature_count": 6531,
           "mp": "Daniel Kawczynski MP",
           "ons_code": "E14000926",
           "name": "Shrewsbury and Atcham"
@@ -3357,7 +3357,7 @@
           "name": "Thornbury and Yate"
         },
         {
-          "signature_count": 3738,
+          "signature_count": 3739,
           "mp": "Jackie Doyle-Price MP",
           "ons_code": "E14000995",
           "name": "Thurrock"
@@ -3411,7 +3411,7 @@
           "name": "Tottenham"
         },
         {
-          "signature_count": 8311,
+          "signature_count": 8312,
           "mp": "Sarah Newton MP",
           "ons_code": "E14001003",
           "name": "Truro and Falmouth"
@@ -4960,12 +4960,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3955155,
+          "signature_count": 3955161,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 16866,
+          "signature_count": 16867,
           "code": "US",
           "name": "United States"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-05T12:27:00.473Z",
+      "updated_at": "2016-07-05T12:28:01.912Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4115583,
+      "signature_count": 4115590,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
