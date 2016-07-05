@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 32,
+          "signature_count": 33,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -411,7 +411,7 @@
           "name": "Beckenham"
         },
         {
-          "signature_count": 77,
+          "signature_count": 78,
           "mp": "Richard Fuller MP",
           "ons_code": "E14000552",
           "name": "Bedford"
@@ -645,7 +645,7 @@
           "name": "Bournemouth West"
         },
         {
-          "signature_count": 127,
+          "signature_count": 128,
           "mp": "Dr Phillip Lee MP",
           "ons_code": "E14000586",
           "name": "Bracknell"
@@ -1185,7 +1185,7 @@
           "name": "Denton and Reddish"
         },
         {
-          "signature_count": 77,
+          "signature_count": 78,
           "mp": "Amanda Solloway MP",
           "ons_code": "E14000662",
           "name": "Derby North"
@@ -1371,7 +1371,7 @@
           "name": "Elmet and Rothwell"
         },
         {
-          "signature_count": 108,
+          "signature_count": 109,
           "mp": "Clive Efford MP",
           "ons_code": "E14000690",
           "name": "Eltham"
@@ -1431,7 +1431,7 @@
           "name": "Fareham"
         },
         {
-          "signature_count": 99,
+          "signature_count": 100,
           "mp": "Helen Whately MP",
           "ons_code": "E14000700",
           "name": "Faversham and Mid Kent"
@@ -1617,7 +1617,7 @@
           "name": "Hampstead and Kilburn"
         },
         {
-          "signature_count": 80,
+          "signature_count": 81,
           "mp": "Rt Hon Sir Edward Garnier QC MP",
           "ons_code": "E14000728",
           "name": "Harborough"
@@ -1629,7 +1629,7 @@
           "name": "Harlow"
         },
         {
-          "signature_count": 103,
+          "signature_count": 104,
           "mp": "Andrew Jones MP",
           "ons_code": "E14000730",
           "name": "Harrogate and Knaresborough"
@@ -1641,7 +1641,7 @@
           "name": "Harrow East"
         },
         {
-          "signature_count": 40,
+          "signature_count": 41,
           "mp": "Gareth Thomas MP",
           "ons_code": "E14000732",
           "name": "Harrow West"
@@ -1767,7 +1767,7 @@
           "name": "Hornsey and Wood Green"
         },
         {
-          "signature_count": 87,
+          "signature_count": 88,
           "mp": "Jeremy Quin MP",
           "ons_code": "E14000753",
           "name": "Horsham"
@@ -2253,7 +2253,7 @@
           "name": "Morecambe and Lunesdale"
         },
         {
-          "signature_count": 141,
+          "signature_count": 142,
           "mp": "Andrea Jenkyns MP",
           "ons_code": "E14000826",
           "name": "Morley and Outwood"
@@ -3159,7 +3159,7 @@
           "name": "St Ives"
         },
         {
-          "signature_count": 88,
+          "signature_count": 89,
           "mp": "Jeremy Lefroy MP",
           "ons_code": "E14000965",
           "name": "Stafford"
@@ -3429,7 +3429,7 @@
           "name": "Twickenham"
         },
         {
-          "signature_count": 125,
+          "signature_count": 126,
           "mp": "Rt Hon Alan Campbell MP",
           "ons_code": "E14001006",
           "name": "Tynemouth"
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 60839,
+          "signature_count": 60852,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T16:56:01.036Z",
+      "updated_at": "2016-07-05T16:57:03.272Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 61907,
+      "signature_count": 61920,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
