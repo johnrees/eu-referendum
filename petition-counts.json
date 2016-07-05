@@ -1065,7 +1065,7 @@
           "name": "Clwyd West"
         },
         {
-          "signature_count": 7126,
+          "signature_count": 7127,
           "mp": "Will Quince MP",
           "ons_code": "E14000644",
           "name": "Colchester"
@@ -1575,7 +1575,7 @@
           "name": "Hackney North and Stoke Newington"
         },
         {
-          "signature_count": 19719,
+          "signature_count": 19720,
           "mp": "Meg Hillier MP",
           "ons_code": "E14000721",
           "name": "Hackney South and Shoreditch"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3956052,
+          "signature_count": 3956054,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5030,9 +5030,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-05T16:02:38.066Z",
+      "updated_at": "2016-07-05T16:03:38.732Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4116532,
+      "signature_count": 4116534,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
