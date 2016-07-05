@@ -393,7 +393,7 @@
           "name": "Batley and Spen"
         },
         {
-          "signature_count": 41,
+          "signature_count": 42,
           "mp": "Jane Ellison MP",
           "ons_code": "E14000549",
           "name": "Battersea"
@@ -717,7 +717,7 @@
           "name": "Bridgwater and West Somerset"
         },
         {
-          "signature_count": 119,
+          "signature_count": 120,
           "mp": "Andrew Percy MP",
           "ons_code": "E14000596",
           "name": "Brigg and Goole"
@@ -1329,7 +1329,7 @@
           "name": "East Worthing and Shoreham"
         },
         {
-          "signature_count": 132,
+          "signature_count": 133,
           "mp": "Rt Hon Sir Greg Knight MP",
           "ons_code": "E14000683",
           "name": "East Yorkshire"
@@ -2487,7 +2487,7 @@
           "name": "North West Leicestershire"
         },
         {
-          "signature_count": 91,
+          "signature_count": 92,
           "mp": "Sir Henry Bellingham MP",
           "ons_code": "E14000859",
           "name": "North West Norfolk"
@@ -3303,7 +3303,7 @@
           "name": "Swansea West"
         },
         {
-          "signature_count": 140,
+          "signature_count": 141,
           "mp": "Christopher Pincher MP",
           "ons_code": "E14000986",
           "name": "Tamworth"
@@ -3747,7 +3747,7 @@
           "name": "Worsley and Eccles South"
         },
         {
-          "signature_count": 112,
+          "signature_count": 113,
           "mp": "Sir Peter Bottomley MP",
           "ons_code": "E14001055",
           "name": "Worthing West"
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 56715,
+          "signature_count": 56721,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T08:14:57.737Z",
+      "updated_at": "2016-07-05T08:15:49.163Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 57697,
+      "signature_count": 57703,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
