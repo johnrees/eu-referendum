@@ -813,7 +813,7 @@
           "name": "Bury North"
         },
         {
-          "signature_count": 99,
+          "signature_count": 100,
           "mp": "Mr Ivan Lewis MP",
           "ons_code": "E14000612",
           "name": "Bury South"
@@ -2307,7 +2307,7 @@
           "name": "Newcastle upon Tyne North"
         },
         {
-          "signature_count": 105,
+          "signature_count": 106,
           "mp": "Paul Farrelly MP",
           "ons_code": "E14000834",
           "name": "Newcastle-under-Lyme"
@@ -2757,7 +2757,7 @@
           "name": "Rochford and Southend East"
         },
         {
-          "signature_count": 123,
+          "signature_count": 124,
           "mp": "Andrew Rosindell MP",
           "ons_code": "E14000900",
           "name": "Romford"
@@ -2781,7 +2781,7 @@
           "name": "Rother Valley"
         },
         {
-          "signature_count": 103,
+          "signature_count": 104,
           "mp": "Sarah Champion MP",
           "ons_code": "E14000904",
           "name": "Rotherham"
@@ -3231,7 +3231,7 @@
           "name": "Stourbridge"
         },
         {
-          "signature_count": 57,
+          "signature_count": 58,
           "mp": "Jim Shannon MP",
           "ons_code": "N06000016",
           "name": "Strangford"
@@ -3615,7 +3615,7 @@
           "name": "West Lancashire"
         },
         {
-          "signature_count": 139,
+          "signature_count": 140,
           "mp": "Rt Hon Matthew Hancock MP",
           "ons_code": "E14001034",
           "name": "West Suffolk"
@@ -4255,7 +4255,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 60121,
+          "signature_count": 60127,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4305,9 +4305,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-05T15:35:04.623Z",
+      "updated_at": "2016-07-05T15:35:56.347Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 61179,
+      "signature_count": 61185,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
