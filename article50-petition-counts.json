@@ -291,7 +291,7 @@
           "name": "Alyn and Deeside"
         },
         {
-          "signature_count": 135,
+          "signature_count": 136,
           "mp": "Nigel Mills MP",
           "ons_code": "E14000533",
           "name": "Amber Valley"
@@ -657,7 +657,7 @@
           "name": "Bradford East"
         },
         {
-          "signature_count": 133,
+          "signature_count": 134,
           "mp": "Judith Cummins MP",
           "ons_code": "E14000588",
           "name": "Bradford South"
@@ -723,7 +723,7 @@
           "name": "Brigg and Goole"
         },
         {
-          "signature_count": 107,
+          "signature_count": 108,
           "mp": "Simon Kirby MP",
           "ons_code": "E14000597",
           "name": "Brighton, Kemptown"
@@ -1101,7 +1101,7 @@
           "name": "Coventry North East"
         },
         {
-          "signature_count": 86,
+          "signature_count": 87,
           "mp": "Mr Geoffrey Robinson MP",
           "ons_code": "E14000650",
           "name": "Coventry North West"
@@ -1911,7 +1911,7 @@
           "name": "Knowsley"
         },
         {
-          "signature_count": 74,
+          "signature_count": 75,
           "mp": "Rt Hon Sir Jeffrey M. Donaldson MP",
           "ons_code": "N06000009",
           "name": "Lagan Valley"
@@ -2007,7 +2007,7 @@
           "name": "Leyton and Wanstead"
         },
         {
-          "signature_count": 93,
+          "signature_count": 95,
           "mp": "Michael Fabricant MP",
           "ons_code": "E14000791",
           "name": "Lichfield"
@@ -3747,7 +3747,7 @@
           "name": "Worsley and Eccles South"
         },
         {
-          "signature_count": 132,
+          "signature_count": 133,
           "mp": "Sir Peter Bottomley MP",
           "ons_code": "E14001055",
           "name": "Worthing West"
@@ -3819,7 +3819,7 @@
           "name": "Angus"
         },
         {
-          "signature_count": 27,
+          "signature_count": 28,
           "mp": "Dr Philippa Whitford MP",
           "ons_code": "S14000010",
           "name": "Central Ayrshire"
@@ -4240,7 +4240,7 @@
           "name": "South Korea"
         },
         {
-          "signature_count": 126,
+          "signature_count": 127,
           "code": "ES",
           "name": "Spain"
         },
@@ -4275,7 +4275,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 69327,
+          "signature_count": 69336,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4325,9 +4325,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-06T19:44:54.548Z",
+      "updated_at": "2016-07-06T19:45:57.041Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 70548,
+      "signature_count": 70558,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
