@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 33,
+          "signature_count": 34,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -141,7 +141,7 @@
           "name": "Linlithgow and East Falkirk"
         },
         {
-          "signature_count": 60,
+          "signature_count": 61,
           "mp": "Hannah Bardell MP",
           "ons_code": "S14000044",
           "name": "Livingston"
@@ -1071,7 +1071,7 @@
           "name": "Colchester"
         },
         {
-          "signature_count": 88,
+          "signature_count": 89,
           "mp": "Jason McCartney MP",
           "ons_code": "E14000645",
           "name": "Colne Valley"
@@ -1971,7 +1971,7 @@
           "name": "Leicester West"
         },
         {
-          "signature_count": 174,
+          "signature_count": 175,
           "mp": "Rt Hon Andy Burnham MP",
           "ons_code": "E14000785",
           "name": "Leigh"
@@ -3519,7 +3519,7 @@
           "name": "Warrington North"
         },
         {
-          "signature_count": 113,
+          "signature_count": 114,
           "mp": "David Mowat MP",
           "ons_code": "E14001018",
           "name": "Warrington South"
@@ -4275,12 +4275,12 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 66676,
+          "signature_count": 66681,
           "code": "GB",
           "name": "United Kingdom"
         },
         {
-          "signature_count": 105,
+          "signature_count": 106,
           "code": "US",
           "name": "United States"
         },
@@ -4325,9 +4325,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-06T12:26:49.789Z",
+      "updated_at": "2016-07-06T12:27:41.231Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 67847,
+      "signature_count": 67853,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
