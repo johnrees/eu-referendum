@@ -921,7 +921,7 @@
           "name": "Castle Point"
         },
         {
-          "signature_count": 120,
+          "signature_count": 121,
           "mp": "Mel Stride MP",
           "ons_code": "E14000623",
           "name": "Central Devon"
@@ -1107,7 +1107,7 @@
           "name": "Coventry North West"
         },
         {
-          "signature_count": 81,
+          "signature_count": 82,
           "mp": "Mr Jim Cunningham MP",
           "ons_code": "E14000651",
           "name": "Coventry South"
@@ -2175,7 +2175,7 @@
           "name": "Mid Dorset and North Poole"
         },
         {
-          "signature_count": 151,
+          "signature_count": 152,
           "mp": "George Freeman MP",
           "ons_code": "E14000816",
           "name": "Mid Norfolk"
@@ -2835,7 +2835,7 @@
           "name": "Salisbury"
         },
         {
-          "signature_count": 153,
+          "signature_count": 154,
           "mp": "Mr Robert Goodwill MP",
           "ons_code": "E14000913",
           "name": "Scarborough and Whitby"
@@ -3207,7 +3207,7 @@
           "name": "Stoke-on-Trent Central"
         },
         {
-          "signature_count": 161,
+          "signature_count": 162,
           "mp": "Ruth Smeeth MP",
           "ons_code": "E14000973",
           "name": "Stoke-on-Trent North"
@@ -3249,7 +3249,7 @@
           "name": "Streatham"
         },
         {
-          "signature_count": 123,
+          "signature_count": 124,
           "mp": "Kate Green MP",
           "ons_code": "E14000979",
           "name": "Stretford and Urmston"
@@ -4275,7 +4275,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 67883,
+          "signature_count": 67890,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4325,9 +4325,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-06T16:11:04.617Z",
+      "updated_at": "2016-07-06T16:11:56.553Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 69081,
+      "signature_count": 69088,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
