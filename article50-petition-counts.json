@@ -519,7 +519,7 @@
           "name": "Birmingham, Northfield"
         },
         {
-          "signature_count": 61,
+          "signature_count": 62,
           "mp": "Mr Khalid Mahmood MP",
           "ons_code": "E14000566",
           "name": "Birmingham, Perry Barr"
@@ -693,7 +693,7 @@
           "name": "Brent North"
         },
         {
-          "signature_count": 84,
+          "signature_count": 85,
           "mp": "Ruth Cadbury MP",
           "ons_code": "E14000593",
           "name": "Brentford and Isleworth"
@@ -951,7 +951,7 @@
           "name": "Chatham and Aylesford"
         },
         {
-          "signature_count": 70,
+          "signature_count": 71,
           "mp": "Mary Robinson MP",
           "ons_code": "E14000627",
           "name": "Cheadle"
@@ -2253,7 +2253,7 @@
           "name": "Morecambe and Lunesdale"
         },
         {
-          "signature_count": 154,
+          "signature_count": 155,
           "mp": "Andrea Jenkyns MP",
           "ons_code": "E14000826",
           "name": "Morley and Outwood"
@@ -2649,7 +2649,7 @@
           "name": "Portsmouth North"
         },
         {
-          "signature_count": 153,
+          "signature_count": 154,
           "mp": "Mrs Flick Drummond MP",
           "ons_code": "E14000884",
           "name": "Portsmouth South"
@@ -3357,7 +3357,7 @@
           "name": "Thornbury and Yate"
         },
         {
-          "signature_count": 176,
+          "signature_count": 177,
           "mp": "Jackie Doyle-Price MP",
           "ons_code": "E14000995",
           "name": "Thurrock"
@@ -3567,7 +3567,7 @@
           "name": "Wellingborough"
         },
         {
-          "signature_count": 131,
+          "signature_count": 132,
           "mp": "James Heappey MP",
           "ons_code": "E14001026",
           "name": "Wells"
@@ -4116,6 +4116,11 @@
         },
         {
           "signature_count": 1,
+          "code": "LV",
+          "name": "Latvia"
+        },
+        {
+          "signature_count": 1,
           "code": "MO",
           "name": "Macao"
         },
@@ -4265,7 +4270,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 66139,
+          "signature_count": 66146,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4315,9 +4320,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-06T11:00:54.555Z",
+      "updated_at": "2016-07-06T11:01:45.563Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 67296,
+      "signature_count": 67304,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
