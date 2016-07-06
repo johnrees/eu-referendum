@@ -1401,7 +1401,7 @@
           "name": "Epsom and Ewell"
         },
         {
-          "signature_count": 136,
+          "signature_count": 137,
           "mp": "Maggie Throup MP",
           "ons_code": "E14000695",
           "name": "Erewash"
@@ -1929,7 +1929,7 @@
           "name": "Leeds Central"
         },
         {
-          "signature_count": 89,
+          "signature_count": 90,
           "mp": "Richard Burgon MP",
           "ons_code": "E14000778",
           "name": "Leeds East"
@@ -2253,7 +2253,7 @@
           "name": "Morecambe and Lunesdale"
         },
         {
-          "signature_count": 158,
+          "signature_count": 159,
           "mp": "Andrea Jenkyns MP",
           "ons_code": "E14000826",
           "name": "Morley and Outwood"
@@ -2307,7 +2307,7 @@
           "name": "Newcastle upon Tyne North"
         },
         {
-          "signature_count": 125,
+          "signature_count": 126,
           "mp": "Paul Farrelly MP",
           "ons_code": "E14000834",
           "name": "Newcastle-under-Lyme"
@@ -2529,7 +2529,7 @@
           "name": "Nottingham East"
         },
         {
-          "signature_count": 111,
+          "signature_count": 112,
           "mp": "Mr Graham Allen MP",
           "ons_code": "E14000866",
           "name": "Nottingham North"
@@ -2757,7 +2757,7 @@
           "name": "Rochford and Southend East"
         },
         {
-          "signature_count": 140,
+          "signature_count": 141,
           "mp": "Andrew Rosindell MP",
           "ons_code": "E14000900",
           "name": "Romford"
@@ -3207,7 +3207,7 @@
           "name": "Stoke-on-Trent Central"
         },
         {
-          "signature_count": 157,
+          "signature_count": 158,
           "mp": "Ruth Smeeth MP",
           "ons_code": "E14000973",
           "name": "Stoke-on-Trent North"
@@ -4275,7 +4275,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 66667,
+          "signature_count": 66675,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4325,9 +4325,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-06T12:24:36.221Z",
+      "updated_at": "2016-07-06T12:25:48.109Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 67837,
+      "signature_count": 67845,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
