@@ -9,7 +9,7 @@
           "name": "Edinburgh East"
         },
         {
-          "signature_count": 23,
+          "signature_count": 24,
           "mp": "Deidre Brock MP",
           "ons_code": "S14000023",
           "name": "Edinburgh North and Leith"
@@ -1137,7 +1137,7 @@
           "name": "Croydon North"
         },
         {
-          "signature_count": 116,
+          "signature_count": 117,
           "mp": "Chris Philp MP",
           "ons_code": "E14000656",
           "name": "Croydon South"
@@ -1335,7 +1335,7 @@
           "name": "East Yorkshire"
         },
         {
-          "signature_count": 221,
+          "signature_count": 222,
           "mp": "Caroline Ansell MP",
           "ons_code": "E14000684",
           "name": "Eastbourne"
@@ -2217,7 +2217,7 @@
           "name": "Milton Keynes North"
         },
         {
-          "signature_count": 167,
+          "signature_count": 168,
           "mp": "Iain Stewart MP",
           "ons_code": "E14000822",
           "name": "Milton Keynes South"
@@ -2493,7 +2493,7 @@
           "name": "North West Norfolk"
         },
         {
-          "signature_count": 107,
+          "signature_count": 108,
           "mp": "James Gray MP",
           "ons_code": "E14000860",
           "name": "North Wiltshire"
@@ -3657,7 +3657,7 @@
           "name": "Wigan"
         },
         {
-          "signature_count": 72,
+          "signature_count": 73,
           "mp": "Stephen Hammond MP",
           "ons_code": "E14001040",
           "name": "Wimbledon"
@@ -4275,7 +4275,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 68986,
+          "signature_count": 68992,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4325,9 +4325,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-06T18:52:56.919Z",
+      "updated_at": "2016-07-06T18:53:39.209Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 70200,
+      "signature_count": 70206,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
