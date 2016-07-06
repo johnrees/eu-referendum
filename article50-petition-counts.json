@@ -1119,7 +1119,7 @@
           "name": "Crawley"
         },
         {
-          "signature_count": 122,
+          "signature_count": 123,
           "mp": "Edward Timpson MP",
           "ons_code": "E14000653",
           "name": "Crewe and Nantwich"
@@ -1743,7 +1743,7 @@
           "name": "High Peak"
         },
         {
-          "signature_count": 83,
+          "signature_count": 84,
           "mp": "Rt Hon Peter Lilley MP",
           "ons_code": "E14000749",
           "name": "Hitchin and Harpenden"
@@ -1899,7 +1899,7 @@
           "name": "Kingston upon Hull West and Hessle"
         },
         {
-          "signature_count": 98,
+          "signature_count": 99,
           "mp": "Chris Skidmore MP",
           "ons_code": "E14000774",
           "name": "Kingswood"
@@ -2259,7 +2259,7 @@
           "name": "Morley and Outwood"
         },
         {
-          "signature_count": 89,
+          "signature_count": 90,
           "mp": "Christina Rees MP",
           "ons_code": "W07000069",
           "name": "Neath"
@@ -2355,7 +2355,7 @@
           "name": "North Cornwall"
         },
         {
-          "signature_count": 138,
+          "signature_count": 139,
           "mp": "Peter Heaton-Jones MP",
           "ons_code": "E14000838",
           "name": "North Devon"
@@ -2493,7 +2493,7 @@
           "name": "North West Norfolk"
         },
         {
-          "signature_count": 112,
+          "signature_count": 113,
           "mp": "James Gray MP",
           "ons_code": "E14000860",
           "name": "North Wiltshire"
@@ -2511,7 +2511,7 @@
           "name": "Northampton South"
         },
         {
-          "signature_count": 121,
+          "signature_count": 122,
           "mp": "Chloe Smith MP",
           "ons_code": "E14000863",
           "name": "Norwich North"
@@ -2619,7 +2619,7 @@
           "name": "Plymouth, Moor View"
         },
         {
-          "signature_count": 166,
+          "signature_count": 167,
           "mp": "Oliver Colvile MP",
           "ons_code": "E14000880",
           "name": "Plymouth, Sutton and Devonport"
@@ -3057,7 +3057,7 @@
           "name": "South Swindon"
         },
         {
-          "signature_count": 193,
+          "signature_count": 194,
           "mp": "Craig Mackinlay MP",
           "ons_code": "E14000948",
           "name": "South Thanet"
@@ -3549,7 +3549,7 @@
           "name": "Waveney"
         },
         {
-          "signature_count": 163,
+          "signature_count": 164,
           "mp": "Nusrat Ghani MP",
           "ons_code": "E14001023",
           "name": "Wealden"
@@ -4275,7 +4275,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 70439,
+          "signature_count": 70449,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4325,9 +4325,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-06T21:39:06.942Z",
+      "updated_at": "2016-07-06T21:40:00.319Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 71680,
+      "signature_count": 71690,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
