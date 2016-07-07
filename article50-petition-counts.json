@@ -585,7 +585,7 @@
           "name": "Blyth Valley"
         },
         {
-          "signature_count": 164,
+          "signature_count": 165,
           "mp": "Nick Gibb MP",
           "ons_code": "E14000576",
           "name": "Bognor Regis and Littlehampton"
@@ -975,7 +975,7 @@
           "name": "Cheltenham"
         },
         {
-          "signature_count": 71,
+          "signature_count": 72,
           "mp": "Rt Hon Cheryl Gillan MP",
           "ons_code": "E14000631",
           "name": "Chesham and Amersham"
@@ -1479,7 +1479,7 @@
           "name": "Foyle"
         },
         {
-          "signature_count": 144,
+          "signature_count": 145,
           "mp": "Mark Menzies MP",
           "ons_code": "E14000706",
           "name": "Fylde"
@@ -2223,7 +2223,7 @@
           "name": "Milton Keynes South"
         },
         {
-          "signature_count": 74,
+          "signature_count": 75,
           "mp": "Siobhain McDonagh MP",
           "ons_code": "E14000823",
           "name": "Mitcham and Morden"
@@ -2265,7 +2265,7 @@
           "name": "Neath"
         },
         {
-          "signature_count": 128,
+          "signature_count": 129,
           "mp": "Rt Hon Dr Julian Lewis MP",
           "ons_code": "E14000827",
           "name": "New Forest East"
@@ -4005,6 +4005,11 @@
           "name": "Denmark"
         },
         {
+          "signature_count": 1,
+          "code": "DO",
+          "name": "Dominican Republic"
+        },
+        {
           "signature_count": 3,
           "code": "EG",
           "name": "Egypt"
@@ -4290,7 +4295,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 75504,
+          "signature_count": 75509,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4340,9 +4345,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-07T21:52:39.764Z",
+      "updated_at": "2016-07-07T21:54:01.884Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 76862,
+      "signature_count": 76868,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
