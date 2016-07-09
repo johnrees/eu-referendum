@@ -1005,7 +1005,7 @@
           "name": "Chippenham"
         },
         {
-          "signature_count": 12802,
+          "signature_count": 12803,
           "mp": "Rt Hon Theresa Villiers MP",
           "ons_code": "E14000636",
           "name": "Chipping Barnet"
@@ -1263,7 +1263,7 @@
           "name": "Dwyfor Meirionnydd"
         },
         {
-          "signature_count": 17413,
+          "signature_count": 17414,
           "mp": "Dr Rupa Huq MP",
           "ons_code": "E14000674",
           "name": "Ealing Central and Acton"
@@ -1455,7 +1455,7 @@
           "name": "Filton and Bradley Stoke"
         },
         {
-          "signature_count": 16158,
+          "signature_count": 16159,
           "mp": "Mike Freer MP",
           "ons_code": "E14000703",
           "name": "Finchley and Golders Green"
@@ -1605,7 +1605,7 @@
           "name": "Halton"
         },
         {
-          "signature_count": 17167,
+          "signature_count": 17168,
           "mp": "Andy Slaughter MP",
           "ons_code": "E14000726",
           "name": "Hammersmith"
@@ -1851,7 +1851,7 @@
           "name": "Jarrow"
         },
         {
-          "signature_count": 5309,
+          "signature_count": 5310,
           "mp": "Kris Hopkins MP",
           "ons_code": "E14000766",
           "name": "Keighley"
@@ -2211,7 +2211,7 @@
           "name": "Middlesbrough South and East Cleveland"
         },
         {
-          "signature_count": 8405,
+          "signature_count": 8406,
           "mp": "Mark Lancaster MP",
           "ons_code": "E14000821",
           "name": "Milton Keynes North"
@@ -2289,7 +2289,7 @@
           "name": "Newbury"
         },
         {
-          "signature_count": 5562,
+          "signature_count": 5563,
           "mp": "Chi Onwurah MP",
           "ons_code": "E14000831",
           "name": "Newcastle upon Tyne Central"
@@ -2769,7 +2769,7 @@
           "name": "Romsey and Southampton North"
         },
         {
-          "signature_count": 3824,
+          "signature_count": 3825,
           "mp": "Jake Berry MP",
           "ons_code": "E14000902",
           "name": "Rossendale and Darwen"
@@ -2883,7 +2883,7 @@
           "name": "Sheffield South East"
         },
         {
-          "signature_count": 3520,
+          "signature_count": 3521,
           "mp": "Gill Furniss MP",
           "ons_code": "E14000921",
           "name": "Sheffield, Brightside and Hillsborough"
@@ -4245,7 +4245,7 @@
           "name": "Finland"
         },
         {
-          "signature_count": 28307,
+          "signature_count": 28308,
           "code": "FR",
           "name": "France"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3965668,
+          "signature_count": 3965677,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-09T10:58:31.382Z",
+      "updated_at": "2016-07-09T11:00:01.834Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4126771,
+      "signature_count": 4126781,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
