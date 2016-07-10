@@ -1455,7 +1455,7 @@
           "name": "Filton and Bradley Stoke"
         },
         {
-          "signature_count": 16168,
+          "signature_count": 16169,
           "mp": "Mike Freer MP",
           "ons_code": "E14000703",
           "name": "Finchley and Golders Green"
@@ -2841,7 +2841,7 @@
           "name": "Scarborough and Whitby"
         },
         {
-          "signature_count": 2053,
+          "signature_count": 2054,
           "mp": "Nic Dakin MP",
           "ons_code": "E14000914",
           "name": "Scunthorpe"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3967788,
+          "signature_count": 3967790,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-10T10:23:08.899Z",
+      "updated_at": "2016-07-10T10:25:01.594Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4129053,
+      "signature_count": 4129055,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
