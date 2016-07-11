@@ -1059,7 +1059,7 @@
           "name": "Clwyd South"
         },
         {
-          "signature_count": 98,
+          "signature_count": 99,
           "mp": "Rt Hon David Jones MP",
           "ons_code": "W07000059",
           "name": "Clwyd West"
@@ -1845,7 +1845,7 @@
           "name": "Islwyn"
         },
         {
-          "signature_count": 133,
+          "signature_count": 134,
           "mp": "Mr Stephen Hepburn MP",
           "ons_code": "E14000765",
           "name": "Jarrow"
@@ -1881,7 +1881,7 @@
           "name": "Kingston and Surbiton"
         },
         {
-          "signature_count": 134,
+          "signature_count": 135,
           "mp": "Karl Turner MP",
           "ons_code": "E14000771",
           "name": "Kingston upon Hull East"
@@ -1893,7 +1893,7 @@
           "name": "Kingston upon Hull North"
         },
         {
-          "signature_count": 166,
+          "signature_count": 167,
           "mp": "Rt Hon Alan Johnson MP",
           "ons_code": "E14000773",
           "name": "Kingston upon Hull West and Hessle"
@@ -3063,7 +3063,7 @@
           "name": "South Thanet"
         },
         {
-          "signature_count": 212,
+          "signature_count": 213,
           "mp": "Andrew Selous MP",
           "ons_code": "E14000949",
           "name": "South West Bedfordshire"
@@ -3261,7 +3261,7 @@
           "name": "Stroud"
         },
         {
-          "signature_count": 168,
+          "signature_count": 169,
           "mp": "Dr Thérèse Coffey MP",
           "ons_code": "E14000981",
           "name": "Suffolk Coastal"
@@ -4310,7 +4310,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 83695,
+          "signature_count": 83701,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4360,9 +4360,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-11T11:56:02.715Z",
+      "updated_at": "2016-07-11T11:57:04.687Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 85229,
+      "signature_count": 85235,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
