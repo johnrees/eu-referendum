@@ -285,7 +285,7 @@
           "name": "Altrincham and Sale West"
         },
         {
-          "signature_count": 3705,
+          "signature_count": 3706,
           "mp": "Mark Tami MP",
           "ons_code": "W07000043",
           "name": "Alyn and Deeside"
@@ -663,7 +663,7 @@
           "name": "Bradford South"
         },
         {
-          "signature_count": 5073,
+          "signature_count": 5074,
           "mp": "Naz Shah MP",
           "ons_code": "E14000589",
           "name": "Bradford West"
@@ -765,7 +765,7 @@
           "name": "Broadland"
         },
         {
-          "signature_count": 7826,
+          "signature_count": 7827,
           "mp": "Robert Neill MP",
           "ons_code": "E14000604",
           "name": "Bromley and Chislehurst"
@@ -867,7 +867,7 @@
           "name": "Canterbury"
         },
         {
-          "signature_count": 8448,
+          "signature_count": 8449,
           "mp": "Jo Stevens MP",
           "ons_code": "W07000050",
           "name": "Cardiff Central"
@@ -1167,7 +1167,7 @@
           "name": "Dartford"
         },
         {
-          "signature_count": 5434,
+          "signature_count": 5435,
           "mp": "Chris Heaton-Harris MP",
           "ons_code": "E14000660",
           "name": "Daventry"
@@ -2085,7 +2085,7 @@
           "name": "Macclesfield"
         },
         {
-          "signature_count": 10304,
+          "signature_count": 10305,
           "mp": "Rt Hon Theresa May MP",
           "ons_code": "E14000803",
           "name": "Maidenhead"
@@ -2169,7 +2169,7 @@
           "name": "Mid Derbyshire"
         },
         {
-          "signature_count": 5215,
+          "signature_count": 5216,
           "mp": "Michael Tomlinson MP",
           "ons_code": "E14000815",
           "name": "Mid Dorset and North Poole"
@@ -2199,7 +2199,7 @@
           "name": "Mid Worcestershire"
         },
         {
-          "signature_count": 2293,
+          "signature_count": 2294,
           "mp": "Andy McDonald MP",
           "ons_code": "E14000819",
           "name": "Middlesbrough"
@@ -2517,7 +2517,7 @@
           "name": "Norwich North"
         },
         {
-          "signature_count": 10059,
+          "signature_count": 10060,
           "mp": "Clive Lewis MP",
           "ons_code": "E14000864",
           "name": "Norwich South"
@@ -2709,7 +2709,7 @@
           "name": "Redditch"
         },
         {
-          "signature_count": 9020,
+          "signature_count": 9021,
           "mp": "Crispin Blunt MP",
           "ons_code": "E14000893",
           "name": "Reigate"
@@ -3405,7 +3405,7 @@
           "name": "Totnes"
         },
         {
-          "signature_count": 12554,
+          "signature_count": 12555,
           "mp": "Rt Hon David Lammy MP",
           "ons_code": "E14001002",
           "name": "Tottenham"
@@ -3879,7 +3879,7 @@
           "name": "East Dunbartonshire"
         },
         {
-          "signature_count": 2827,
+          "signature_count": 2828,
           "mp": "Dr Lisa Cameron MP",
           "ons_code": "S14000019",
           "name": "East Kilbride, Strathaven and Lesmahagow"
@@ -4380,7 +4380,7 @@
           "name": "Israel"
         },
         {
-          "signature_count": 4021,
+          "signature_count": 4022,
           "code": "IT",
           "name": "Italy"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3970556,
+          "signature_count": 3970568,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-12T16:30:05.797Z",
+      "updated_at": "2016-07-12T16:31:00.676Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4131999,
+      "signature_count": 4132012,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
