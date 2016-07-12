@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6941,
+          "signature_count": 6942,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -45,7 +45,7 @@
           "name": "Falkirk"
         },
         {
-          "signature_count": 5134,
+          "signature_count": 5135,
           "mp": "Alison Thewliss MP",
           "ons_code": "S14000029",
           "name": "Glasgow Central"
@@ -249,7 +249,7 @@
           "name": "West Aberdeenshire and Kincardine"
         },
         {
-          "signature_count": 1781,
+          "signature_count": 1782,
           "mp": "Martin Docherty-Hughes MP",
           "ons_code": "S14000059",
           "name": "West Dunbartonshire"
@@ -333,7 +333,7 @@
           "name": "Aylesbury"
         },
         {
-          "signature_count": 8193,
+          "signature_count": 8194,
           "mp": "Victoria Prentis MP",
           "ons_code": "E14000539",
           "name": "Banbury"
@@ -381,7 +381,7 @@
           "name": "Bassetlaw"
         },
         {
-          "signature_count": 12553,
+          "signature_count": 12554,
           "mp": "Ben Howlett MP",
           "ons_code": "E14000547",
           "name": "Bath"
@@ -2733,7 +2733,7 @@
           "name": "Richmond (Yorks)"
         },
         {
-          "signature_count": 20600,
+          "signature_count": 20601,
           "mp": "Zac Goldsmith MP",
           "ons_code": "E14000896",
           "name": "Richmond Park"
@@ -4605,7 +4605,7 @@
           "name": "New Caledonia"
         },
         {
-          "signature_count": 4942,
+          "signature_count": 4943,
           "code": "NZ",
           "name": "New Zealand"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3971873,
+          "signature_count": 3971879,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-12T20:08:03.798Z",
+      "updated_at": "2016-07-12T20:09:02.611Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4133373,
+      "signature_count": 4133380,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
