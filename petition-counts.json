@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6939,
+          "signature_count": 6940,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -429,7 +429,7 @@
           "name": "Belfast North"
         },
         {
-          "signature_count": 8772,
+          "signature_count": 8773,
           "mp": "Dr Alasdair McDonnell MP",
           "ons_code": "N06000003",
           "name": "Belfast South"
@@ -789,7 +789,7 @@
           "name": "Broxtowe"
         },
         {
-          "signature_count": 9262,
+          "signature_count": 9263,
           "mp": "Rt Hon John Bercow MP",
           "ons_code": "E14000608",
           "name": "Buckingham"
@@ -1953,7 +1953,7 @@
           "name": "Leeds West"
         },
         {
-          "signature_count": 5081,
+          "signature_count": 5082,
           "mp": "Rt Hon Keith Vaz MP",
           "ons_code": "E14000782",
           "name": "Leicester East"
@@ -2409,7 +2409,7 @@
           "name": "North East Hertfordshire"
         },
         {
-          "signature_count": 7063,
+          "signature_count": 7064,
           "mp": "Mr Jacob Rees-Mogg MP",
           "ons_code": "E14000846",
           "name": "North East Somerset"
@@ -2583,7 +2583,7 @@
           "name": "Oxford East"
         },
         {
-          "signature_count": 15023,
+          "signature_count": 15024,
           "mp": "Nicola Blackwood MP",
           "ons_code": "E14000874",
           "name": "Oxford West and Abingdon"
@@ -2973,7 +2973,7 @@
           "name": "South Cambridgeshire"
         },
         {
-          "signature_count": 4140,
+          "signature_count": 4141,
           "mp": "Heather Wheeler MP",
           "ons_code": "E14000935",
           "name": "South Derbyshire"
@@ -3879,7 +3879,7 @@
           "name": "East Dunbartonshire"
         },
         {
-          "signature_count": 2826,
+          "signature_count": 2827,
           "mp": "Dr Lisa Cameron MP",
           "ons_code": "S14000019",
           "name": "East Kilbride, Strathaven and Lesmahagow"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3970111,
+          "signature_count": 3970119,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-12T15:22:16.170Z",
+      "updated_at": "2016-07-12T15:23:58.104Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4131541,
+      "signature_count": 4131549,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
