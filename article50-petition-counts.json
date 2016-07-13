@@ -345,7 +345,7 @@
           "name": "Barking"
         },
         {
-          "signature_count": 195,
+          "signature_count": 196,
           "mp": "Dan Jarvis MP",
           "ons_code": "E14000541",
           "name": "Barnsley Central"
@@ -927,7 +927,7 @@
           "name": "Central Devon"
         },
         {
-          "signature_count": 159,
+          "signature_count": 160,
           "mp": "Dr Poulter MP",
           "ons_code": "E14000624",
           "name": "Central Suffolk and North Ipswich"
@@ -1197,7 +1197,7 @@
           "name": "Derby South"
         },
         {
-          "signature_count": 111,
+          "signature_count": 112,
           "mp": "Rt Hon Patrick McLoughlin MP",
           "ons_code": "E14000664",
           "name": "Derbyshire Dales"
@@ -1209,7 +1209,7 @@
           "name": "Devizes"
         },
         {
-          "signature_count": 193,
+          "signature_count": 194,
           "mp": "Paula Sherriff MP",
           "ons_code": "E14000666",
           "name": "Dewsbury"
@@ -1317,7 +1317,7 @@
           "name": "East Londonderry"
         },
         {
-          "signature_count": 179,
+          "signature_count": 180,
           "mp": "Mr Sam Gyimah MP",
           "ons_code": "E14000681",
           "name": "East Surrey"
@@ -1413,7 +1413,7 @@
           "name": "Erith and Thamesmead"
         },
         {
-          "signature_count": 139,
+          "signature_count": 140,
           "mp": "Dominic Raab MP",
           "ons_code": "E14000697",
           "name": "Esher and Walton"
@@ -1989,7 +1989,7 @@
           "name": "Lewisham East"
         },
         {
-          "signature_count": 100,
+          "signature_count": 101,
           "mp": "Jim Dowd MP",
           "ons_code": "E14000788",
           "name": "Lewisham West and Penge"
@@ -2349,7 +2349,7 @@
           "name": "North Antrim"
         },
         {
-          "signature_count": 157,
+          "signature_count": 158,
           "mp": "Scott Mann MP",
           "ons_code": "E14000837",
           "name": "North Cornwall"
@@ -2991,7 +2991,7 @@
           "name": "South Down"
         },
         {
-          "signature_count": 146,
+          "signature_count": 147,
           "mp": "Lucy Frazer MP",
           "ons_code": "E14000937",
           "name": "South East Cambridgeshire"
@@ -3039,7 +3039,7 @@
           "name": "South Shields"
         },
         {
-          "signature_count": 154,
+          "signature_count": 155,
           "mp": "Rt Hon Gavin Williamson MP",
           "ons_code": "E14000945",
           "name": "South Staffordshire"
@@ -3585,7 +3585,7 @@
           "name": "Wentworth and Dearne"
         },
         {
-          "signature_count": 141,
+          "signature_count": 142,
           "mp": "Tom Watson MP",
           "ons_code": "E14001029",
           "name": "West Bromwich East"
@@ -3669,7 +3669,7 @@
           "name": "Winchester"
         },
         {
-          "signature_count": 127,
+          "signature_count": 128,
           "mp": "Adam Afriyie MP",
           "ons_code": "E14001042",
           "name": "Windsor"
@@ -4195,7 +4195,7 @@
           "name": "New Zealand"
         },
         {
-          "signature_count": 8,
+          "signature_count": 9,
           "code": "NO",
           "name": "Norway"
         },
@@ -4320,7 +4320,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 92332,
+          "signature_count": 92344,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4370,9 +4370,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-13T16:39:46.962Z",
+      "updated_at": "2016-07-13T16:40:59.704Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 94021,
+      "signature_count": 94034,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
