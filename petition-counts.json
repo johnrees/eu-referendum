@@ -3,7 +3,7 @@
     "attributes": {
       "signatures_by_constituency": [
         {
-          "signature_count": 6948,
+          "signature_count": 6949,
           "mp": "Tommy Sheppard MP",
           "ons_code": "S14000022",
           "name": "Edinburgh East"
@@ -213,7 +213,7 @@
           "name": "Paisley and Renfrewshire North"
         },
         {
-          "signature_count": 2282,
+          "signature_count": 2283,
           "mp": "Mhairi Black MP",
           "ons_code": "S14000053",
           "name": "Paisley and Renfrewshire South"
@@ -441,7 +441,7 @@
           "name": "Belfast West"
         },
         {
-          "signature_count": 17724,
+          "signature_count": 17725,
           "mp": "Neil Coyle MP",
           "ons_code": "E14000553",
           "name": "Bermondsey and Old Southwark"
@@ -723,7 +723,7 @@
           "name": "Brigg and Goole"
         },
         {
-          "signature_count": 10072,
+          "signature_count": 10073,
           "mp": "Simon Kirby MP",
           "ons_code": "E14000597",
           "name": "Brighton, Kemptown"
@@ -771,7 +771,7 @@
           "name": "Bromley and Chislehurst"
         },
         {
-          "signature_count": 5293,
+          "signature_count": 5294,
           "mp": "Rt Hon Sajid Javid MP",
           "ons_code": "E14000605",
           "name": "Bromsgrove"
@@ -3591,7 +3591,7 @@
           "name": "West Bromwich East"
         },
         {
-          "signature_count": 1988,
+          "signature_count": 1989,
           "mp": "Mr Adrian Bailey MP",
           "ons_code": "E14001030",
           "name": "West Bromwich West"
@@ -3663,7 +3663,7 @@
           "name": "Wimbledon"
         },
         {
-          "signature_count": 11626,
+          "signature_count": 11627,
           "mp": "Steve Brine MP",
           "ons_code": "E14001041",
           "name": "Winchester"
@@ -3955,7 +3955,7 @@
           "name": "Aruba"
         },
         {
-          "signature_count": 17166,
+          "signature_count": 17167,
           "code": "AU",
           "name": "Australia"
         },
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3973718,
+          "signature_count": 3973725,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-13T08:34:29.020Z",
+      "updated_at": "2016-07-13T08:35:55.482Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4135335,
+      "signature_count": 4135343,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
