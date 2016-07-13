@@ -165,7 +165,7 @@
           "name": "Moray"
         },
         {
-          "signature_count": 1557,
+          "signature_count": 1558,
           "mp": "Marion Fellows MP",
           "ons_code": "S14000047",
           "name": "Motherwell and Wishaw"
@@ -645,7 +645,7 @@
           "name": "Bournemouth West"
         },
         {
-          "signature_count": 7056,
+          "signature_count": 7057,
           "mp": "Dr Phillip Lee MP",
           "ons_code": "E14000586",
           "name": "Bracknell"
@@ -1935,7 +1935,7 @@
           "name": "Leeds East"
         },
         {
-          "signature_count": 10021,
+          "signature_count": 10022,
           "mp": "Fabian Hamilton MP",
           "ons_code": "E14000779",
           "name": "Leeds North East"
@@ -2109,7 +2109,7 @@
           "name": "Maldon"
         },
         {
-          "signature_count": 10669,
+          "signature_count": 10670,
           "mp": "Lucy Powell MP",
           "ons_code": "E14000807",
           "name": "Manchester Central"
@@ -2667,7 +2667,7 @@
           "name": "Preston"
         },
         {
-          "signature_count": 6907,
+          "signature_count": 6908,
           "mp": "Stuart Andrew MP",
           "ons_code": "E14000886",
           "name": "Pudsey"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3973707,
+          "signature_count": 3973712,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-13T08:31:47.806Z",
+      "updated_at": "2016-07-13T08:32:58.391Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4135324,
+      "signature_count": 4135329,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
