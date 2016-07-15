@@ -123,7 +123,7 @@
           "name": "Kilmarnock and Loudoun"
         },
         {
-          "signature_count": 2430,
+          "signature_count": 2431,
           "mp": "Roger Mullin MP",
           "ons_code": "S14000041",
           "name": "Kirkcaldy and Cowdenbeath"
@@ -321,7 +321,7 @@
           "name": "Ashford"
         },
         {
-          "signature_count": 3057,
+          "signature_count": 3058,
           "mp": "Angela Rayner MP",
           "ons_code": "E14000537",
           "name": "Ashton-under-Lyne"
@@ -4960,7 +4960,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 3976364,
+          "signature_count": 3976366,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -5035,9 +5035,9 @@
       "rejection": null,
       "creator_name": "William Oliver Healey",
       "open_at": "2016-05-25T11:19:56.925Z",
-      "updated_at": "2016-07-15T19:49:03.832Z",
+      "updated_at": "2016-07-15T19:49:55.848Z",
       "created_at": "2016-05-23T23:39:38.957Z",
-      "signature_count": 4138160,
+      "signature_count": 4138162,
       "state": "open",
       "additional_details": "",
       "background": "We the undersigned call upon HM Government to implement a rule that if the remain or leave vote is less than 60% based a turnout less than 75% there should be another referendum.",
