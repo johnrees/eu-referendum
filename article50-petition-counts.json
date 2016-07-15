@@ -1701,7 +1701,7 @@
           "name": "Hendon"
         },
         {
-          "signature_count": 129,
+          "signature_count": 130,
           "mp": "John Howell MP",
           "ons_code": "E14000742",
           "name": "Henley"
@@ -1851,7 +1851,7 @@
           "name": "Jarrow"
         },
         {
-          "signature_count": 147,
+          "signature_count": 148,
           "mp": "Kris Hopkins MP",
           "ons_code": "E14000766",
           "name": "Keighley"
@@ -4325,7 +4325,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 96914,
+          "signature_count": 96916,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4375,9 +4375,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-15T16:03:25.218Z",
+      "updated_at": "2016-07-15T16:05:59.929Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 98692,
+      "signature_count": 98694,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
