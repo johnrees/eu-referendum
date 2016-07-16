@@ -33,7 +33,7 @@
           "name": "Edinburgh West"
         },
         {
-          "signature_count": 95,
+          "signature_count": 96,
           "mp": "Dr Eilidh Whiteford MP",
           "ons_code": "S14000007",
           "name": "Banff and Buchan"
@@ -2385,7 +2385,7 @@
           "name": "North East Bedfordshire"
         },
         {
-          "signature_count": 240,
+          "signature_count": 241,
           "mp": "Stephen Barclay MP",
           "ons_code": "E14000842",
           "name": "North East Cambridgeshire"
@@ -4345,7 +4345,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 101158,
+          "signature_count": 101160,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4395,9 +4395,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-16T19:17:00.180Z",
+      "updated_at": "2016-07-16T19:20:03.845Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 103000,
+      "signature_count": 103002,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
