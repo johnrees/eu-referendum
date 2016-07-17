@@ -2745,7 +2745,7 @@
           "name": "Rochdale"
         },
         {
-          "signature_count": 237,
+          "signature_count": 238,
           "mp": "Kelly Tolhurst MP",
           "ons_code": "E14000898",
           "name": "Rochester and Strood"
@@ -3105,7 +3105,7 @@
           "name": "Southampton, Itchen"
         },
         {
-          "signature_count": 173,
+          "signature_count": 174,
           "mp": "Dr Alan Whitehead MP",
           "ons_code": "E14000956",
           "name": "Southampton, Test"
@@ -4345,7 +4345,7 @@
           "name": "United Arab Emirates"
         },
         {
-          "signature_count": 102048,
+          "signature_count": 102050,
           "code": "GB",
           "name": "United Kingdom"
         },
@@ -4395,9 +4395,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-17T07:58:43.536Z",
+      "updated_at": "2016-07-17T07:59:54.661Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 103912,
+      "signature_count": 103914,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
