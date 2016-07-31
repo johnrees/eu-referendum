@@ -3961,6 +3961,11 @@
         },
         {
           "signature_count": 1,
+          "code": "IO",
+          "name": "British Indian Ocean Territory"
+        },
+        {
+          "signature_count": 1,
           "code": "VG",
           "name": "British Virgin Islands"
         },
@@ -4050,7 +4055,7 @@
           "name": "Georgia"
         },
         {
-          "signature_count": 68,
+          "signature_count": 69,
           "code": "DE",
           "name": "Germany"
         },
@@ -4415,9 +4420,9 @@
       "rejection": null,
       "creator_name": "Thomas Renshaw",
       "open_at": "2016-06-30T13:26:27.902Z",
-      "updated_at": "2016-07-31T16:17:26.813Z",
+      "updated_at": "2016-07-31T16:22:31.181Z",
       "created_at": "2016-06-24T05:54:51.021Z",
-      "signature_count": 111457,
+      "signature_count": 111459,
       "state": "open",
       "additional_details": "",
       "background": "The British people have spoken. We have voted to leave the EU. We want article 50 of the Lisbon treaty to be invoked immediately. We still have two years to discuss our exit from the EU, but we do not wish to delay it any further. ",
